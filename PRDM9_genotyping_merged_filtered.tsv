@@ -1,0 +1,1973 @@
+id	continent	phylogroup	pop	homhet	allele1	allele2	size_1	size_2	nseqs	nzfseqs
+4_A01	Europe	Baltic	Tornionjoki	het	RPT6a	QDT9a	6	9	10981	2001
+4_A02	Europe	Baltic	Tornionjoki	hom	RPT6a	RPT6a	6	6	35880	2001
+4_A03	Europe	Baltic	Tornionjoki	het	RPT10a	RPT6a	10	6	16748	2001
+4_A04	Europe	Baltic	Tornionjoki	het	RPT6a	QDT9a	6	9	7620	2001
+4_B01	Europe	Baltic	Tornionjoki	hom	RPT6a	RPT6a	6	6	32813	2001
+4_B02	Europe	Baltic	Tornionjoki	het	RPT6c	RPT6a	6	6	46128	2001
+4_B03	Europe	Baltic	Tornionjoki	hom	RPT6a	RPT6a	6	6	6598	2001
+4_B04	Europe	Baltic	Tornionjoki	hom	RPT6a	RPT6a	6	6	16769	2001
+4_C01	Europe	Baltic	Tornionjoki	hom	RPT6a	RPT6a	6	6	17540	2001
+4_C02	Europe	Baltic	Tornionjoki	het	RPT6a	RPT7c	6	7	12559	2001
+4_C03	Europe	Baltic	Tornionjoki	hom	RPT6a	RPT6a	6	6	2976	2001
+4_C04	Europe	Baltic	Tornionjoki	hom	RPT6a	RPT6a	6	6	8290	2001
+4_D01	Europe	Baltic	Tornionjoki	hom	RPT6a	RPT6a	6	6	10998	2001
+4_D02	Europe	Baltic	Tornionjoki	hom	RPT6a	RPT6a	6	6	19728	2001
+4_D03	Europe	Baltic	Tornionjoki	hom	RPT6a	RPT6a	6	6	40415	2001
+4_D04	Europe	Baltic	Tornionjoki	hom	RPT6a	RPT6a	6	6	20831	2001
+4_E01	Europe	Baltic	Tornionjoki	hom	RPT6a	RPT6a	6	6	34500	2001
+4_E02	Europe	Baltic	Tornionjoki	hom	RPT6a	RPT6a	6	6	60109	2001
+4_E03	Europe	Baltic	Tornionjoki	het	RPT6c	RPT6a	6	6	53778	2001
+4_E04	Europe	Baltic	Tornionjoki	hom	RPT6a	RPT6a	6	6	37915	2001
+4_F01	Europe	Baltic	Tornionjoki	hom	RPT6a	RPT6a	6	6	11612	2001
+4_F02	Europe	Baltic	Tornionjoki	hom	RPT6a	RPT6a	6	6	22057	2001
+4_F03	Europe	Baltic	Tornionjoki	het	RPT6a	QDT9c	6	9	23925	2001
+4_F04	Europe	Baltic	Tornionjoki	hom	RPT6a	RPT6a	6	6	30379	2001
+4_G01	Europe	Baltic	Tornionjoki	hom	RPT6a	RPT6a	6	6	14612	2001
+4_G02	Europe	Baltic	Tornionjoki	het	RPT5b	RPT6a	5	6	30967	2001
+4_G03	Europe	Baltic	Tornionjoki	het	RPT5a	RPT6c	5	6	35592	2001
+4_G04	Europe	Baltic	Tornionjoki	hom	RPT6a	RPT6a	6	6	26729	2001
+4_H01	Europe	Baltic	Tornionjoki	het	RPT6a	QDT9c	6	9	17058	2001
+4_H02	Europe	Baltic	Tornionjoki	hom	RPT6a	RPT6a	6	6	8546	2001
+4_H03	Europe	Baltic	Tornionjoki	hom	RPT6a	RPT6a	6	6	23526	2001
+Alta_12_0156	Europe	Barents/White Sea	Altaelva	het	RPT6a	RPT7b	6	7	3188	2001
+Alta_12_0163	Europe	Barents/White Sea	Altaelva	het	RPT5a	RPT6a	5	6	10250	2001
+Alta_12_0169	Europe	Barents/White Sea	Altaelva	hom	RPT6a	RPT6a	6	6	1217	1216
+Alta_12_0190	Europe	Barents/White Sea	Altaelva	hom	RPT6a	RPT6a	6	6	14228	2001
+Alta_12_0201	Europe	Barents/White Sea	Altaelva	het	RPT6a	QDT8a	6	8	8654	2001
+Alta_12_0217	Europe	Barents/White Sea	Altaelva	het	RHT10a	QDT9a	10	9	5550	2001
+Alta_12_0238	Europe	Barents/White Sea	Altaelva	hom	RPT6a	RPT6a	6	6	5203	2001
+Alta_12_0260	Europe	Barents/White Sea	Altaelva	hom	RPT6a	RPT6a	6	6	8805	2001
+Alta_12_0280	Europe	Barents/White Sea	Altaelva	hom	RPT6a	RPT6a	6	6	4024	2001
+Alta_12_0292	Europe	Barents/White Sea	Altaelva	het	RPT6a	RPT7a	6	7	3177	2001
+Alta_12_0302	Europe	Barents/White Sea	Altaelva	het	RPT5a	RPT6a	5	6	25891	2001
+Alta_12_0313	Europe	Barents/White Sea	Altaelva	het	QHK5a	QDT9a	5	9	15695	2001
+Alta_12_0316	Europe	Barents/White Sea	Altaelva	het	RPT5a	RPT6a	5	6	14972	2001
+Arda_11_0003	Europe	East Atlantic	Aardalselva	het	RHT10a	QHK8b	10	8	5832	2001
+Arda_11_0013	Europe	East Atlantic	Aardalselva	het	RHT10a	RPT6a	10	6	17530	2001
+Arda_11_0014	Europe	East Atlantic	Aardalselva	het	RHT10a	RPT6a	10	6	2231	2001
+Arda_11_0032	Europe	East Atlantic	Aardalselva	het	QHK5a	QHK9b	5	9	23192	2001
+Arda_11_0033	Europe	East Atlantic	Aardalselva	het	RHT10a	RPT6a	10	6	6869	2001
+Arda_11_0035	Europe	East Atlantic	Aardalselva	het	QHK5a	WET8a	5	8	13658	2001
+Arda_11_0042	Europe	East Atlantic	Aardalselva	het	RPT6a	QDT9a	6	9	27753	2001
+Arda_11_0073	Europe	East Atlantic	Aardalselva	het	RHT10a	RPT6a	10	6	24705	2001
+Arda_11_0077	Europe	East Atlantic	Aardalselva	het	RHT10a	RPT8a	10	8	31166	2001
+Arda_11_0087	Europe	East Atlantic	Aardalselva	hom	RPT6a	RPT6a	6	6	28666	2001
+Arda_11_0094	Europe	East Atlantic	Aardalselva	het	RHT10a	RPT6a	10	6	14652	2001
+Arda_11_0096	Europe	East Atlantic	Aardalselva	het	QHK5a	WET8a	5	8	5389	2001
+Arda_11_0103	Europe	East Atlantic	Aardalselva	het	RHT10a	RPT6a	10	6	5204	2001
+Arda_11_0105	Europe	East Atlantic	Aardalselva	het	RPT7d	QHK8a	7	8	19512	2001
+Arda_11_0110	Europe	East Atlantic	Aardalselva	het	RHT10a	QHK5a	10	5	20285	2001
+Arda_11_0111	Europe	East Atlantic	Aardalselva	het	QHK5a	RPT6a	5	6	50978	2001
+Arda_11_0113	Europe	East Atlantic	Aardalselva	het	WET6a	QDT9a	6	9	12968	2001
+Arda_11_0114	Europe	East Atlantic	Aardalselva	het	RPT8a	QDT9a	8	9	13037	2001
+Arda_11_0115	Europe	East Atlantic	Aardalselva	hom	RPT6a	RPT6a	6	6	16660	2001
+Arda_11_0116	Europe	East Atlantic	Aardalselva	het	RHT10a	QHK9b	10	9	8059	2001
+Arda_11_0122	Europe	East Atlantic	Aardalselva	het	RPT6a	QDT9a	6	9	15891	2001
+Arda_11_0171	Europe	East Atlantic	Aardalselva	het	QHK5a	RPT6a	5	6	2194	2001
+Arda_11_0176	Europe	East Atlantic	Aardalselva	hom	RPT6a	RPT6a	6	6	12598	2001
+Arda_11_0177	Europe	East Atlantic	Aardalselva	het	QHK5a	QHK8b	5	8	36739	2001
+Arda_11_0182	Europe	East Atlantic	Aardalselva	het	RHT10b	RHT10a	10	10	12838	2001
+Arda_11_0183	Europe	East Atlantic	Aardalselva	het	RHT10b	QHK5a	10	5	7372	2001
+Arda_11_0195	Europe	East Atlantic	Aardalselva	het	QDT8g	QDT9a	8	9	7142	2001
+Arga_12_0082	Europe	East Atlantic	Aargaardsvassdraget	het	RHT10a	RPT6a	10	6	22177	2001
+Arga_12_0097	Europe	East Atlantic	Aargaardsvassdraget	het	QHK5a	QDT9a	5	9	19239	2001
+Arga_12_0104	Europe	East Atlantic	Aargaardsvassdraget	het	QHK5a	QHK8b	5	8	1931	1926
+Arga_12_0111	Europe	East Atlantic	Aargaardsvassdraget	het	QHK5a	RPT6a	5	6	17245	2001
+Arga_12_0118	Europe	East Atlantic	Aargaardsvassdraget	het	QHK9a	QDT9a	9	9	10730	2001
+Arga_12_0121	Europe	East Atlantic	Aargaardsvassdraget	het	RPT6a	QHK9a	6	9	22098	2001
+Arga_12_0142	Europe	East Atlantic	Aargaardsvassdraget	het	QHK5a	RPT6a	5	6	3539	2001
+Beia_12_0009	Europe	East Atlantic	Beiarvassdraget	het	RHT10d	RHT9a	10	9	3812	2001
+Beia_12_0031	Europe	East Atlantic	Beiarvassdraget	het	QHK5a	RPT6a	5	6	3119	2001
+Beia_12_0049	Europe	East Atlantic	Beiarvassdraget	het	RHT10a	RPT6a	10	6	5821	2001
+Beia_12_0059	Europe	East Atlantic	Beiarvassdraget	het	QHK5a	RPT6a	5	6	14212	2001
+Beia_12_0071	Europe	East Atlantic	Beiarvassdraget	het	QDT6a	RPT6a	6	6	9304	2001
+Beia_12_0099	Europe	East Atlantic	Beiarvassdraget	het	QHK5a	RPT6a	5	6	2595	2001
+Beia_12_0119	Europe	East Atlantic	Beiarvassdraget	het	QHK5a	RPT6a	5	6	10196	2001
+Beia_12_0125	Europe	East Atlantic	Beiarvassdraget	het	RPT6a	RPT6b	6	6	7032	2001
+Beia_12_0127	Europe	East Atlantic	Beiarvassdraget	het	QHK5a	RPT6a	5	6	7695	2001
+Beia_12_0219	Europe	East Atlantic	Beiarvassdraget	het	QHK5a	RPT6a	5	6	17399	2001
+Bors_11_0001	Europe	Barents/White Sea	Boerselva	hom	RPT6a	RPT6a	6	6	3434	2001
+Bors_11_0002	Europe	Barents/White Sea	Boerselva	het	RPT6a	QHK8a	6	8	1670	1653
+Bors_11_0003	Europe	Barents/White Sea	Boerselva	het	RPT6a	QHK6a	6	6	6162	2001
+Bors_11_0005	Europe	Barents/White Sea	Boerselva	hom	RPT6a	RPT6a	6	6	23387	2001
+Bors_11_0006	Europe	Barents/White Sea	Boerselva	hom	RPT6a	RPT6a	6	6	6009	2001
+Bors_11_0008	Europe	Barents/White Sea	Boerselva	het	RPT6a	QHK8a	6	8	5271	2001
+Bors_11_0009	Europe	Barents/White Sea	Boerselva	het	RPT6a	QDT9a	6	9	18820	2001
+Bors_11_0012	Europe	Barents/White Sea	Boerselva	het	RPT6a	QDT9a	6	9	21203	2001
+Bors_11_0017	Europe	Barents/White Sea	Boerselva	het	RPT6a	QHK8a	6	8	3217	2001
+Bors_11_0023	Europe	Barents/White Sea	Boerselva	het	RPT6a	RPT7h	6	7	37299	2001
+Bors_11_0027	Europe	Barents/White Sea	Boerselva	hom	RPT6a	RPT6a	6	6	21102	2001
+Bors_11_0038	Europe	Barents/White Sea	Boerselva	het	QHK5a	QHK8a	5	8	19926	2001
+Bors_11_0039	Europe	Barents/White Sea	Boerselva	het	QHK5a	RPT5a	5	5	7797	2001
+Bors_11_0042	Europe	Barents/White Sea	Boerselva	hom	QHK5a	QHK5a	5	5	29564	2001
+Bors_11_0049	Europe	Barents/White Sea	Boerselva	hom	RPT6a	RPT6a	6	6	14958	2001
+Bors_11_0051	Europe	Barents/White Sea	Boerselva	hom	RPT6a	RPT6a	6	6	6922	2001
+Bors_11_0057	Europe	Barents/White Sea	Boerselva	hom	RPT6a	RPT6a	6	6	11736	2001
+Bors_11_0061	Europe	Barents/White Sea	Boerselva	het	RPT6a	QHK8a	6	8	7519	2001
+Bors_11_0076	Europe	Barents/White Sea	Boerselva	hom	RPT6a	RPT6a	6	6	21387	2001
+CH-01	North America	Gulf of St. Lawrence	Chaloupe	hom	QHK4a	QHK4a	4	4	3604	2001
+CH-05	North America	Gulf of St. Lawrence	Chaloupe	hom	RHT6a	RHT6a	6	6	26561	2001
+CH-08	North America	Gulf of St. Lawrence	Chaloupe	het	RHT10a	QHK4a	10	4	11551	2001
+CH-09	North America	Gulf of St. Lawrence	Chaloupe	hom	QHK4a	QHK4a	4	4	17572	2001
+CH-10	North America	Gulf of St. Lawrence	Chaloupe	hom	QHK4a	QHK4a	4	4	9997	2001
+CH-11	North America	Gulf of St. Lawrence	Chaloupe	het	RHT10a	QHK4a	10	4	1097	1089
+CH-12	North America	Gulf of St. Lawrence	Chaloupe	hom	QHK4a	QHK4a	4	4	7282	2001
+CH-14	North America	Gulf of St. Lawrence	Chaloupe	hom	RHT10a	RHT10a	10	10	5362	2001
+CH-15	North America	Gulf of St. Lawrence	Chaloupe	het	RHT10a	RPT6a	10	6	12563	2001
+CH-16	North America	Gulf of St. Lawrence	Chaloupe	het	RHT10a	RHT10g	10	10	3837	2001
+CH-17	North America	Gulf of St. Lawrence	Chaloupe	hom	RHT10a	RHT10a	10	10	7425	2001
+CH-18	North America	Gulf of St. Lawrence	Chaloupe	hom	QHK4c	QHK4c	4	4	8098	2001
+CHA-01	North America	Gulf of St. Lawrence	Chaloupe	het	RHT10a	QHK5a	10	5	17767	2001
+CHA-03	North America	Gulf of St. Lawrence	Chaloupe	het	RHT10a	QHK5b	10	5	14648	2001
+CHA-04	North America	Gulf of St. Lawrence	Chaloupe	het	RHT10a	QHK4c	10	4	26250	2001
+CHA-05	North America	Gulf of St. Lawrence	Chaloupe	het	RHT10a	RHT6a	10	6	10612	2001
+CHA-06	North America	Gulf of St. Lawrence	Chaloupe	het	RHT10a	QHK4a	10	4	4327	2001
+CHA-07	North America	Gulf of St. Lawrence	Chaloupe	hom	RHT10a	RHT10a	10	10	7048	2001
+CHA-09	North America	Gulf of St. Lawrence	Chaloupe	het	RHT10a	QHK4a	10	4	12555	2001
+CHA-10	North America	Gulf of St. Lawrence	Chaloupe	het	RHT10a	QHK4a	10	4	28506	2001
+CHA-11	North America	Gulf of St. Lawrence	Chaloupe	hom	RHT10a	RHT10a	10	10	13616	2001
+CHA-12	North America	Gulf of St. Lawrence	Chaloupe	het	RHT10a	QHK4a	10	4	22604	2001
+CHA-13	North America	Gulf of St. Lawrence	Chaloupe	het	RHT10a	QHK4c	10	4	8457	2001
+CHA-14	North America	Gulf of St. Lawrence	Chaloupe	hom	RHT10a	RHT10a	10	10	5352	2001
+CHA-15	North America	Gulf of St. Lawrence	Chaloupe	het	RHT10a	RPT6a	10	6	9444	2001
+CHA-17	North America	Gulf of St. Lawrence	Chaloupe	hom	RHT10a	RHT10a	10	10	3834	2001
+CHA-18	North America	Gulf of St. Lawrence	Chaloupe	het	RHT10a	QHK4a	10	4	15292	2001
+CHA-19	North America	Gulf of St. Lawrence	Chaloupe	het	RHT10a	QHK4c	10	4	11053	2001
+CHA-20	North America	Gulf of St. Lawrence	Chaloupe	het	RHT10a	QHK4a	10	4	17206	2001
+CHA-22	North America	Gulf of St. Lawrence	Chaloupe	hom	RHT10a	RHT10a	10	10	9684	2001
+CHA-23	North America	Gulf of St. Lawrence	Chaloupe	het	RHT10a	QHK5a	10	5	16305	2001
+CHA-24	North America	Gulf of St. Lawrence	Chaloupe	hom	RHT10a	RHT10a	10	10	1900	1898
+CHA-25	North America	Gulf of St. Lawrence	Chaloupe	het	RHT10a	QHK4a	10	4	15683	2001
+CMP-00	North America	Newfoundland	Campbellton River	het	QHK5a	RHT6a	5	6	9847	2001
+CMP-02	North America	Newfoundland	Campbellton River	hom	RHT6a	RHT6a	6	6	7676	2001
+CMP-04	North America	Newfoundland	Campbellton River	het	RHT6a	RHT8a	6	8	6545	2001
+CMP-06	North America	Newfoundland	Campbellton River	het	RPT6a	RHT6a	6	6	15003	2001
+CMP-07	North America	Newfoundland	Campbellton River	het	RHT6a	QDT9a	6	9	8831	2001
+CMP-16	North America	Newfoundland	Campbellton River	het	QHK4a	QHK5a	4	5	6167	2001
+CMP-17	North America	Newfoundland	Campbellton River	het	QHK4a	RHT6a	4	6	10215	2001
+CMP-18	North America	Newfoundland	Campbellton River	het	QHK4b	RPT6a	4	6	20601	2001
+CMP-20	North America	Newfoundland	Campbellton River	het	QHK4a	RPT6a	4	6	3460	2001
+CMP-24	North America	Newfoundland	Campbellton River	hom	RPT6a	RPT6a	6	6	20221	2001
+CMP-24-R49	North America	Newfoundland	Campbellton River	hom	QHK4a	QHK4a	4	4	13558	2001
+CMP-25	North America	Newfoundland	Campbellton River	hom	RHT6a	RHT6a	6	6	14358	2001
+CMP-26	North America	Newfoundland	Campbellton River	hom	QHK4a	QHK4a	4	4	8337	2001
+CMP-34	North America	Newfoundland	Campbellton River	het	RHT6a	RHT8a	6	8	6744	2001
+CMP-45	North America	Newfoundland	Campbellton River	het	QHK4a	RPT6a	4	6	12977	2001
+CMP-48	North America	Newfoundland	Campbellton River	het	RPT6a	RHT8a	6	8	12821	2001
+CNR-01	North America	Newfoundland	Conne River	hom	RPT6a	RPT6a	6	6	3104	2001
+CNR-15	North America	Newfoundland	Conne River	hom	QHK4a	QHK4a	4	4	7739	2001
+CNR-16	North America	Newfoundland	Conne River	het	RHT10a	RPT6e	10	6	13231	2001
+CNR-17	North America	Newfoundland	Conne River	hom	QHK4a	QHK4a	4	4	12290	2001
+CNR-18	North America	Newfoundland	Conne River	hom	RHT10a	RHT10a	10	10	3490	2001
+CNR-25	North America	Newfoundland	Conne River	het	RHT10a	QHK4a	10	4	11867	2001
+CNR-28	North America	Newfoundland	Conne River	het	QHK4a	RPT6a	4	6	3805	2001
+CNR-32	North America	Newfoundland	Conne River	het	RHT10a	RPT6a	10	6	7844	2001
+CNR-36	North America	Newfoundland	Conne River	het	RHT10a	RPT6a	10	6	3454	2001
+CNR-37	North America	Newfoundland	Conne River	hom	RPT6a	RPT6a	6	6	26029	2001
+CNR-39	North America	Newfoundland	Conne River	het	QHK4a	QHK5a	4	5	4470	2001
+CNR-49	North America	Newfoundland	Conne River	het	RHT10a	QHK4a	10	4	5185	2001
+CNR-55-R76	North America	Newfoundland	Conne River	het	RHT10a	RPT6a	10	6	14924	2001
+CNR-56	North America	Newfoundland	Conne River	hom	RPT6a	RPT6a	6	6	16405	2001
+CNR-57	North America	Newfoundland	Conne River	hom	RPT6a	RPT6a	6	6	9303	2001
+DGO-01	North America	Gulf of St. Lawrence	Du Gouffre	hom	QHK4a	QHK4a	4	4	28038	2001
+DGO-02	North America	Gulf of St. Lawrence	Du Gouffre	het	QHK4a	QHK5a	4	5	32344	2001
+DGO-03	North America	Gulf of St. Lawrence	Du Gouffre	het	RHT10a	QHK4a	10	4	13539	2001
+DGO-04	North America	Gulf of St. Lawrence	Du Gouffre	het	QHK4a	RHT9b	4	9	14121	2001
+DGO-05	North America	Gulf of St. Lawrence	Du Gouffre	hom	RHT10a	RHT10a	10	10	12537	2001
+DGO-06	North America	Gulf of St. Lawrence	Du Gouffre	het	RHT10a	RHT9a	10	9	3288	2001
+DGO-07	North America	Gulf of St. Lawrence	Du Gouffre	het	RHT10a	QHK5a	10	5	15461	2001
+DGO-08	North America	Gulf of St. Lawrence	Du Gouffre	hom	QHK4a	QHK4a	4	4	27363	2001
+DGO-09	North America	Gulf of St. Lawrence	Du Gouffre	hom	QHK4a	QHK4a	4	4	24948	2001
+DGO-10	North America	Gulf of St. Lawrence	Du Gouffre	het	RHT10a	RHT9a	10	9	14814	2001
+DGO-11	North America	Gulf of St. Lawrence	Du Gouffre	het	QHK4a	RHT6a	4	6	13128	2001
+DGO-12	North America	Gulf of St. Lawrence	Du Gouffre	hom	QHK4a	QHK4a	4	4	19279	2001
+DGO-13	North America	Gulf of St. Lawrence	Du Gouffre	het	RHT10a	QHK4a	10	4	18587	2001
+DGO-14	North America	Gulf of St. Lawrence	Du Gouffre	het	RHT10a	QHK4a	10	4	4458	2001
+DGO-15	North America	Gulf of St. Lawrence	Du Gouffre	hom	QHK4a	QHK4a	4	4	26226	2001
+DGO-16	North America	Gulf of St. Lawrence	Du Gouffre	hom	QHK5a	QHK5a	5	5	28298	2001
+DGO-17	North America	Gulf of St. Lawrence	Du Gouffre	hom	QHK4a	QHK4a	4	4	19884	2001
+DGO-18	North America	Gulf of St. Lawrence	Du Gouffre	het	RHT10a	QHK4a	10	4	24257	2001
+DGO-19	North America	Gulf of St. Lawrence	Du Gouffre	het	RHT10a	RHT6a	10	6	10013	2001
+DGO-20	North America	Gulf of St. Lawrence	Du Gouffre	het	RHT10a	QHK4a	10	4	11171	2001
+DGO-21	North America	Gulf of St. Lawrence	Du Gouffre	het	RHT10a	QHK5a	10	5	16806	2001
+DGO-22	North America	Gulf of St. Lawrence	Du Gouffre	het	QHK4a	RHT9a	4	9	3321	2001
+DGO-23	North America	Gulf of St. Lawrence	Du Gouffre	hom	RHT10a	RHT10a	10	10	11593	2001
+DGO-24	North America	Gulf of St. Lawrence	Du Gouffre	het	RHT10a	QHK4a	10	4	19318	2001
+DGO-25	North America	Gulf of St. Lawrence	Du Gouffre	het	RHT10a	QHK4a	10	4	14744	2001
+Eira_12_0024	Europe	East Atlantic	Eira	het	QHK5a	QHK9a	5	9	4637	2001
+Eira_12_0060	Europe	East Atlantic	Eira	hom	RPT6a	RPT6a	6	6	3888	2001
+Eira_12_0071	Europe	East Atlantic	Eira	hom	RPT6a	RPT6a	6	6	7768	2001
+Eira_12_0081	Europe	East Atlantic	Eira	het	RPT6a	QDT9a	6	9	7402	2001
+Eira_12_0091	Europe	East Atlantic	Eira	het	RHT10a	RPT6a	10	6	1482	1482
+Eira_12_0095	Europe	East Atlantic	Eira	het	RPT6a	QDT9a	6	9	1273	1269
+Eira_12_0102	Europe	East Atlantic	Eira	het	RHT10a	RPT6a	10	6	2045	2001
+Eira_12_0110	Europe	East Atlantic	Eira	het	RPT5b	RPT6a	5	6	1808	1794
+Eira_12_0134	Europe	East Atlantic	Eira	het	QHK5a	QHK8a	5	8	5023	2001
+Eira_12_0143	Europe	East Atlantic	Eira	hom	RPT6a	RPT6a	6	6	5616	2001
+Eira_12_0159	Europe	East Atlantic	Eira	hom	RPT6a	RPT6a	6	6	1949	1948
+Eira_12_0160	Europe	East Atlantic	Eira	hom	RPT6a	RPT6a	6	6	13494	2001
+Eira_12_0179	Europe	East Atlantic	Eira	het	QHK5a	RPT6a	5	6	76073	2001
+Eira_12_0215	Europe	East Atlantic	Eira	het	RPT6a	QPT8a	6	8	21600	2001
+Eira_12_0225	Europe	East Atlantic	Eira	het	QHK5a	RPT6a	5	6	13296	2001
+Eira_12_0248	Europe	East Atlantic	Eira	het	RHT10a	RPT6a	10	6	4407	2001
+Eira_12_0265	Europe	East Atlantic	Eira	hom	RPT6a	RPT6a	6	6	6696	2001
+Eira_12_0266	Europe	East Atlantic	Eira	het	QHK5a	RPT6a	5	6	4146	2001
+Eira_12_0269	Europe	East Atlantic	Eira	hom	RPT6a	RPT6a	6	6	22097	2001
+Eira_12_0270	Europe	East Atlantic	Eira	het	RPT5b	RPT6a	5	6	43022	2001
+Eira_12_0297	Europe	East Atlantic	Eira	het	RPT6a	QHK8a	6	8	20247	2001
+Eira_12_0298	Europe	East Atlantic	Eira	het	RPT6a	WET8a	6	8	23156	2001
+Eira_12_0308	Europe	East Atlantic	Eira	het	RHT10a	QHK8a	10	8	6314	2001
+Eira_12_0330	Europe	East Atlantic	Eira	hom	RPT6a	RPT6a	6	6	3620	2001
+Elve_11_0001	Europe	East Atlantic	Elvegaardselva	het	RPT6a	RPT7a	6	7	3058	2001
+Elve_11_0002	Europe	East Atlantic	Elvegaardselva	het	QHK5a	RPT6a	5	6	18646	2001
+Elve_11_0004	Europe	East Atlantic	Elvegaardselva	hom	RPT6a	RPT6a	6	6	24269	2001
+Elve_11_0005	Europe	East Atlantic	Elvegaardselva	hom	RPT6a	RPT6a	6	6	20473	2001
+Elve_11_0006	Europe	East Atlantic	Elvegaardselva	het	QHK5a	RPT6a	5	6	4403	2001
+Elve_11_0007	Europe	East Atlantic	Elvegaardselva	hom	RPT6a	RPT6a	6	6	1149	1144
+Elve_11_0008	Europe	East Atlantic	Elvegaardselva	het	QHK8a	QDT9a	8	9	5518	2001
+Elve_11_0018	Europe	East Atlantic	Elvegaardselva	hom	RPT6a	RPT6a	6	6	19718	2001
+Elve_11_0019	Europe	East Atlantic	Elvegaardselva	het	RHT10a	RPT8a	10	8	9235	2001
+Elve_11_0020	Europe	East Atlantic	Elvegaardselva	hom	RPT6a	RPT6a	6	6	43601	2001
+Elve_12_0001	Europe	East Atlantic	Elvegaardselva	het	QHK5a	RPT6a	5	6	2514	2001
+Elve_12_0002	Europe	East Atlantic	Elvegaardselva	hom	RPT6a	RPT6a	6	6	6927	2001
+Elve_12_0003	Europe	East Atlantic	Elvegaardselva	het	QHK5a	RPT6a	5	6	2440	2001
+Elve_12_0004	Europe	East Atlantic	Elvegaardselva	hom	RPT6a	RPT6a	6	6	2354	2001
+Elve_12_0012	Europe	East Atlantic	Elvegaardselva	het	RPT6a	QHK9a	6	9	2170	2001
+Elve_12_0013	Europe	East Atlantic	Elvegaardselva	het	RPT6a	RPT6d	6	6	2346	2001
+Elve_12_0014	Europe	East Atlantic	Elvegaardselva	het	RPT6a	QHK8a	6	8	11380	2001
+Elve_12_0017	Europe	East Atlantic	Elvegaardselva	het	RHT11b	RPT6a	11	6	23493	2001
+Elve_12_0018	Europe	East Atlantic	Elvegaardselva	hom	RPT6a	RPT6a	6	6	13307	2001
+Elve_12_0019	Europe	East Atlantic	Elvegaardselva	het	QHK5a	RPT6a	5	6	30191	2001
+Elve_12_0021	Europe	East Atlantic	Elvegaardselva	het	RHT10d	RHT10a	10	10	8208	2001
+Elve_12_0022	Europe	East Atlantic	Elvegaardselva	hom	RPT6a	RPT6a	6	6	36247	2001
+Elve_12_0023	Europe	East Atlantic	Elvegaardselva	hom	RPT6a	RPT6a	6	6	6006	2001
+Elve_12_0024	Europe	East Atlantic	Elvegaardselva	hom	RPT6a	RPT6a	6	6	8077	2001
+Elve_12_0025	Europe	East Atlantic	Elvegaardselva	hom	RPT6a	RPT6a	6	6	29338	2001
+Enni_12_0001	Europe	East Atlantic	Enningdalselva	het	QHK5a	RPT8a	5	8	6449	2001
+Enni_12_0006	Europe	East Atlantic	Enningdalselva	het	RPT6a	RPT8a	6	8	14507	2001
+Enni_12_0009	Europe	East Atlantic	Enningdalselva	het	QHK5b	RPT8a	5	8	2605	2001
+Enni_12_0014	Europe	East Atlantic	Enningdalselva	het	QHK5b	WET8a	5	8	20508	2001
+Enni_12_0025	Europe	East Atlantic	Enningdalselva	hom	QHK5b	QHK5b	5	5	44636	2001
+Enni_12_0029	Europe	East Atlantic	Enningdalselva	het	WET8a	RPT8a	8	8	22590	2001
+Enni_12_0040	Europe	East Atlantic	Enningdalselva	het	RPT6a	WET8a	6	8	9835	2001
+Enni_12_0044	Europe	East Atlantic	Enningdalselva	het	QHK5b	WET8a	5	8	3539	2001
+Enni_12_0049	Europe	East Atlantic	Enningdalselva	het	RHT10a	QDT9a	10	9	5655	2001
+Enni_12_0058	Europe	East Atlantic	Enningdalselva	hom	QHK5b	QHK5b	5	5	5752	2001
+Enni_12_0062	Europe	East Atlantic	Enningdalselva	het	RPT6a	RPT8a	6	8	20096	2001
+Enni_12_0074	Europe	East Atlantic	Enningdalselva	hom	RPT8a	RPT8a	8	8	18371	2001
+Enni_12_0082	Europe	East Atlantic	Enningdalselva	het	RPT6a	WET8a	6	8	7019	2001
+Enni_12_0085	Europe	East Atlantic	Enningdalselva	hom	RPT6a	RPT6a	6	6	8973	2001
+Enni_12_0086	Europe	East Atlantic	Enningdalselva	het	RHT10a	QDT9a	10	9	14250	2001
+Enni_12_0090	Europe	East Atlantic	Enningdalselva	het	QHK5b	RPT6a	5	6	5219	2001
+Enni_12_0094	Europe	East Atlantic	Enningdalselva	het	QHK5b	RPT8a	5	8	23976	2001
+Enni_12_0099	Europe	East Atlantic	Enningdalselva	hom	RPT6a	RPT6a	6	6	70947	2001
+Enni_12_0103	Europe	East Atlantic	Enningdalselva	het	RPT6a	RPT8a	6	8	31692	2001
+Enni_12_0108	Europe	East Atlantic	Enningdalselva	het	RHT10a	RPT5a	10	5	37025	2001
+Enni_12_0114	Europe	East Atlantic	Enningdalselva	het	RPT6a	QDT9a	6	9	13430	2001
+Enni_12_0120	Europe	East Atlantic	Enningdalselva	het	QHK5a	RPT8a	5	8	6605	2001
+Enni_12_0123	Europe	East Atlantic	Enningdalselva	het	QHK5b	WET8a	5	8	19780	2001
+Enni_12_0124	Europe	East Atlantic	Enningdalselva	hom	WET8a	WET8a	8	8	1415	1412
+Enni_12_0126	Europe	East Atlantic	Enningdalselva	het	QHK5a	RPT6a	5	6	11619	2001
+Enni_12_0129	Europe	East Atlantic	Enningdalselva	het	RPT6a	WET8a	6	8	38103	2001
+Enni_12_0131	Europe	East Atlantic	Enningdalselva	het	QHK5a	RPT6a	5	6	23729	2001
+FOR-02	North America	Labrador	Forteau	het	QHK4a	RPT6a	4	6	1063	1061
+FOR-12	North America	Labrador	Forteau	hom	QHK4a	QHK4a	4	4	3164	2001
+FOR-13	North America	Labrador	Forteau	hom	QHK4a	QHK4a	4	4	1169	1166
+FOR-14	North America	Labrador	Forteau	het	RHT6a	RPT6a	6	6	1679	1675
+FOR-20	North America	Labrador	Forteau	het	QHK4a	QDT8a	4	8	4559	2001
+FOR-29	North America	Labrador	Forteau	hom	QHK4a	QHK4a	4	4	1374	1370
+FOR-31	North America	Labrador	Forteau	het	QDT6a	RPT6a	6	6	2903	2001
+FOR-37	North America	Labrador	Forteau	het	QHK4a	RPT6a	4	6	1741	1740
+FOR-42	North America	Labrador	Forteau	het	RPT6a	QDT8a	6	8	1865	1859
+FOR-44	North America	Labrador	Forteau	het	QHK4a	RPT6a	4	6	1970	1954
+FOR-46	North America	Labrador	Forteau	hom	QHK4a	QHK4a	4	4	8069	2001
+FOR-53	North America	Labrador	Forteau	het	QHK4a	RPT6a	4	6	2235	2001
+Fors_12_0001	Europe	East Atlantic	Forsaavassdraget	hom	QHK9a	QHK9a	9	9	19322	2001
+Fors_12_0002	Europe	East Atlantic	Forsaavassdraget	het	QHK5a	RPT6a	5	6	26272	2001
+Fors_12_0003	Europe	East Atlantic	Forsaavassdraget	het	RPT7f	QHK9a	7	9	28981	2001
+Fors_12_0004	Europe	East Atlantic	Forsaavassdraget	hom	RPT6a	RPT6a	6	6	17850	2001
+Fors_12_0005	Europe	East Atlantic	Forsaavassdraget	het	RPT6a	RPT8c	6	8	9566	2001
+Fors_12_0006	Europe	East Atlantic	Forsaavassdraget	het	QHK9a	QDT9a	9	9	17518	2001
+Fors_12_0008	Europe	East Atlantic	Forsaavassdraget	het	RPT7e	QHK8a	7	8	2822	2001
+Fors_12_0010	Europe	East Atlantic	Forsaavassdraget	het	RPT6a	QHT8a	6	8	22101	2001
+Fors_12_0012	Europe	East Atlantic	Forsaavassdraget	het	QHK5a	QDT8f	5	8	24133	2001
+Fors_12_0015	Europe	East Atlantic	Forsaavassdraget	hom	RPT6a	RPT6a	6	6	27831	2001
+Fors_12_0016	Europe	East Atlantic	Forsaavassdraget	hom	QDT9a	QDT9a	9	9	23719	2001
+Fors_12_0019	Europe	East Atlantic	Forsaavassdraget	het	RPT6a	QDT9a	6	9	8913	2001
+Fors_12_0021	Europe	East Atlantic	Forsaavassdraget	het	QDT6a	QHK9a	6	9	5456	2001
+Fors_12_0022	Europe	East Atlantic	Forsaavassdraget	hom	RPT6a	RPT6a	6	6	15152	2001
+Fors_12_0025	Europe	East Atlantic	Forsaavassdraget	het	QHK5a	RPT6a	5	6	8998	2001
+Fors_12_0031	Europe	East Atlantic	Forsaavassdraget	het	RPT6a	QHK9a	6	9	6094	2001
+Fors_12_0035	Europe	East Atlantic	Forsaavassdraget	het	RHT10a	RPT6a	10	6	10706	2001
+Fors_12_0037	Europe	East Atlantic	Forsaavassdraget	hom	RPT6a	RPT6a	6	6	14460	2001
+Fors_12_0038	Europe	East Atlantic	Forsaavassdraget	hom	RPT6a	RPT6a	6	6	15921	2001
+GE2-01	North America	Ungava Bay	George II	hom	QDT5a	QDT5a	5	5	35905	2001
+GE2-02	North America	Ungava Bay	George II	het	QHK4a	RPT6a	4	6	22876	2001
+GE2-03	North America	Ungava Bay	George II	het	QHK4a	RPT6a	4	6	30046	2001
+GE2-04	North America	Ungava Bay	George II	het	QHK4b	QDT5a	4	5	15326	2001
+GE2-05	North America	Ungava Bay	George II	het	QHK4a	RPT6a	4	6	17584	2001
+GE2-06	North America	Ungava Bay	George II	het	QHK4b	QDT5a	4	5	21389	2001
+GE2-07	North America	Ungava Bay	George II	het	QHK4a	QDT5a	4	5	3287	2001
+GE2-09	North America	Ungava Bay	George II	hom	QHK4b	QHK4b	4	4	33534	2001
+GE2-10	North America	Ungava Bay	George II	het	QHK4a	QHK4f	4	4	25312	2001
+GE2-11	North America	Ungava Bay	George II	hom	QHK4a	QHK4a	4	4	36500	2001
+GE2-12	North America	Ungava Bay	George II	het	QHK4a	QHK4b	4	4	17533	2001
+GE2-14	North America	Ungava Bay	George II	het	QHK4b	QDT5a	4	5	26396	2001
+GE2-16	North America	Ungava Bay	George II	het	QHK4a	QDT5a	4	5	26146	2001
+GE2-17	North America	Ungava Bay	George II	hom	QDT5a	QDT5a	5	5	42527	2001
+GE2-18	North America	Ungava Bay	George II	hom	QDT5a	QDT5a	5	5	30856	2001
+GE2-20	North America	Ungava Bay	George II	het	QHK4a	QDT5b	4	5	17456	2001
+GE2-21	North America	Ungava Bay	George II	het	QHK4b	QHK4a	4	4	15626	2001
+GE2-22	North America	Ungava Bay	George II	hom	QHK4a	QHK4a	4	4	23456	2001
+GE2-23	North America	Ungava Bay	George II	het	QHK4a	QDT5a	4	5	4539	2001
+GE2-24	North America	Ungava Bay	George II	het	QHK4a	QDT5a	4	5	23455	2001
+GE2-25	North America	Ungava Bay	George II	het	QHK4a	QDT5a	4	5	31989	2001
+GRR-10335	North America	Newfoundland	Grey River	hom	RPT6a	RPT6a	6	6	6358	2001
+GRR-10337	North America	Newfoundland	Grey River	hom	RHT6a	RHT6a	6	6	5856	2001
+GRR-10338	North America	Newfoundland	Grey River	het	QHK4a	RHT6a	4	6	6351	2001
+GRR-10339	North America	Newfoundland	Grey River	het	RHT10a	RPT6a	10	6	7005	2001
+GRR-10342	North America	Newfoundland	Grey River	hom	QHK5a	QHK5a	5	5	11138	2001
+HUR-06	North America	Labrador	Hunt River	hom	QHK4a	QHK4a	4	4	2197	2001
+HUR-08	North America	Labrador	Hunt River	hom	QHK4a	QHK4a	4	4	2587	2001
+HUR-09	North America	Labrador	Hunt River	hom	QHK4a	QHK4a	4	4	30036	2001
+HUR-14	North America	Labrador	Hunt River	hom	QHK4a	QHK4a	4	4	11163	2001
+HUR-19	North America	Labrador	Hunt River	hom	QHK4a	QHK4a	4	4	5755	2001
+HUR-26	North America	Labrador	Hunt River	hom	QHK4a	QHK4a	4	4	1218	1092
+HUR-30	North America	Labrador	Hunt River	het	QHK4a	QDT8a	4	8	1987	1975
+HUR-37	North America	Labrador	Hunt River	hom	QHK4a	QHK4a	4	4	23486	2001
+HUR-38	North America	Labrador	Hunt River	hom	QHK4a	QHK4a	4	4	25136	2001
+HUR-39	North America	Labrador	Hunt River	het	QHK4a	QDT5a	4	5	19175	2001
+HUR-53	North America	Labrador	Hunt River	hom	QHK4a	QHK4a	4	4	21288	2001
+HUR-54	North America	Labrador	Hunt River	het	QHK4a	RHT6a	4	6	12668	2001
+KEN-03	North America	Labrador	Kenamu River	het	QHK4a	QDT8a	4	8	1726	1724
+KEN-05	North America	Labrador	Kenamu River	hom	QHK4a	QHK4a	4	4	16765	2001
+KEN-06	North America	Labrador	Kenamu River	het	QHK4a	QHK5a	4	5	6083	2001
+KEN-14	North America	Labrador	Kenamu River	hom	QHK4a	QHK4a	4	4	20254	2001
+KEN-16	North America	Labrador	Kenamu River	het	QHK4a	QDT8b	4	8	9195	2001
+KEN-24	North America	Labrador	Kenamu River	het	QHK4a	QDT8b	4	8	1159	1154
+KEN-28	North America	Labrador	Kenamu River	het	QHK4a	QDT8b	4	8	3909	2001
+KEN-30	North America	Labrador	Kenamu River	het	QHK4a	QDT8b	4	8	1900	1895
+KEN-34	North America	Labrador	Kenamu River	hom	QHK4a	QHK4a	4	4	10792	2001
+KEN-35	North America	Labrador	Kenamu River	het	QHK4a	QHK5a	4	5	18056	2001
+KEN-36	North America	Labrador	Kenamu River	het	RHT6a	QDT8e	6	8	3028	2001
+KEN-37	North America	Labrador	Kenamu River	het	QHK4a	QDT8b	4	8	5362	2001
+KEN-38	North America	Labrador	Kenamu River	het	QHK4a	QHK5a	4	5	14436	2001
+KEN-39	North America	Labrador	Kenamu River	het	QHK4a	QPT5a	4	5	17721	2001
+KEN-48	North America	Labrador	Kenamu River	het	QHK4a	QDT8b	4	8	1668	1021
+Koma_12_0006	Europe	Barents/White Sea	Komagelva	het	RPT6a	QHK9a	6	9	2957	2001
+Koma_12_0012	Europe	Barents/White Sea	Komagelva	hom	RPT6a	RPT6a	6	6	44862	2001
+Koma_12_0013	Europe	Barents/White Sea	Komagelva	hom	RPT6a	RPT6a	6	6	2593	2001
+Koma_12_0014	Europe	Barents/White Sea	Komagelva	het	RPT6a	QHK6b	6	6	22970	2001
+Koma_12_0024	Europe	Barents/White Sea	Komagelva	het	RHT10a	RPT6a	10	6	16101	2001
+Koma_12_0025	Europe	Barents/White Sea	Komagelva	het	RPT6a	RPT7a	6	7	1445	1443
+Koma_12_0027	Europe	Barents/White Sea	Komagelva	hom	RPT6a	RPT6a	6	6	8999	2001
+Koma_12_0030	Europe	Barents/White Sea	Komagelva	het	RPT6a	QHK9a	6	9	11557	2001
+Koma_12_0035	Europe	Barents/White Sea	Komagelva	hom	RPT6a	RPT6a	6	6	10999	2001
+Koma_12_0037	Europe	Barents/White Sea	Komagelva	hom	RPT8b	RPT8b	8	8	7674	2001
+Koma_12_0046	Europe	Barents/White Sea	Komagelva	hom	RPT6a	RPT6a	6	6	12023	2001
+Koma_12_0057	Europe	Barents/White Sea	Komagelva	hom	RPT6a	RPT6a	6	6	12128	2001
+Koma_12_0068	Europe	Barents/White Sea	Komagelva	het	RPT6a	QHK9a	6	9	1477	1476
+Koma_12_0073	Europe	Barents/White Sea	Komagelva	hom	RPT6a	RPT6a	6	6	3455	2001
+Koma_12_0076	Europe	Barents/White Sea	Komagelva	hom	RPT6a	RPT6a	6	6	11563	2001
+Koma_12_0080	Europe	Barents/White Sea	Komagelva	hom	RPT6a	RPT6a	6	6	11152	2001
+Koma_12_0092	Europe	Barents/White Sea	Komagelva	het	RHT10a	RPT6a	10	6	1826	1824
+Koma_12_0094	Europe	Barents/White Sea	Komagelva	het	RPT5a	RPT6a	5	6	23624	2001
+Koma_12_0110	Europe	Barents/White Sea	Komagelva	hom	RPT6a	RPT6a	6	6	16286	2001
+Laks_12_0003	Europe	Barents/White Sea	Lakselva	het	QHK5a	RPT6a	5	6	14621	2001
+Laks_12_0005	Europe	Barents/White Sea	Lakselva	hom	RPT6a	RPT6a	6	6	21184	2001
+Laks_12_0006	Europe	Barents/White Sea	Lakselva	het	RPT6a	RPT7b	6	7	7648	2001
+Laks_12_0008	Europe	Barents/White Sea	Lakselva	het	RHT10a	RPT6a	10	6	10663	2001
+Laks_12_0010	Europe	Barents/White Sea	Lakselva	het	RPT5a	RPT6a	5	6	8502	2001
+Laks_12_0014	Europe	Barents/White Sea	Lakselva	het	QHK3a	QHK5a	3	5	17570	2001
+Laks_12_0018	Europe	Barents/White Sea	Lakselva	het	RPT5a	RPT6a	5	6	1900	1868
+Laks_12_0020	Europe	Barents/White Sea	Lakselva	hom	RPT6a	RPT6a	6	6	7956	2001
+Laks_12_0021	Europe	Barents/White Sea	Lakselva	hom	RPT6a	RPT6a	6	6	15831	2001
+Laks_12_0024	Europe	Barents/White Sea	Lakselva	het	RPT5a	RPT6a	5	6	13533	2001
+Laks_12_0028	Europe	Barents/White Sea	Lakselva	hom	RPT6a	RPT6a	6	6	19663	2001
+Laks_12_0044	Europe	Barents/White Sea	Lakselva	het	RPT6a	QDT9a	6	9	2774	2001
+Laks_12_0049	Europe	Barents/White Sea	Lakselva	hom	RPT6a	RPT6a	6	6	2726	2001
+Laks_12_0053	Europe	Barents/White Sea	Lakselva	het	QHK5a	RPT6a	5	6	5076	2001
+Laks_12_0058	Europe	Barents/White Sea	Lakselva	hom	RPT6a	RPT6a	6	6	1023	1021
+Laks_12_0062	Europe	Barents/White Sea	Lakselva	hom	RPT6a	RPT6a	6	6	6439	2001
+Laks_12_0067	Europe	Barents/White Sea	Lakselva	het	QHK5a	RPT5a	5	5	6124	2001
+Laks_12_0068	Europe	Barents/White Sea	Lakselva	hom	RPT6a	RPT6a	6	6	5971	2001
+Laks_12_0071	Europe	Barents/White Sea	Lakselva	hom	RPT6a	RPT6a	6	6	8375	2001
+Laks_12_0075	Europe	Barents/White Sea	Lakselva	hom	RPT6a	RPT6a	6	6	1737	1735
+Laks_12_0084	Europe	Barents/White Sea	Lakselva	hom	RPT6a	RPT6a	6	6	2051	2001
+Laks_12_0086	Europe	Barents/White Sea	Lakselva	hom	RPT6a	RPT6a	6	6	1750	1740
+Laks_12_0090	Europe	Barents/White Sea	Lakselva	het	RPT5a	RPT6a	5	6	1407	1404
+Laks_12_0094	Europe	Barents/White Sea	Lakselva	hom	RPT6a	RPT6a	6	6	2039	2001
+Laks_12_0106	Europe	Barents/White Sea	Lakselva	hom	RPT6a	RPT6a	6	6	21105	2001
+Laks_12_0125	Europe	Barents/White Sea	Lakselva	het	QHK5a	RPT6a	5	6	10922	2001
+Mana_12_0005	Europe	East Atlantic	Maana	het	QHK5a	RPT6a	5	6	2681	2001
+Mana_12_0010	Europe	East Atlantic	Maana	het	RHT10a	RPT6a	10	6	22654	2001
+Mana_12_0024	Europe	East Atlantic	Maana	het	QHK5a	RPT6a	5	6	3890	2001
+Mana_12_0025	Europe	East Atlantic	Maana	het	RHT10a	RPT6a	10	6	10095	2001
+Mana_12_0029	Europe	East Atlantic	Maana	het	RPT6a	RPT8b	6	8	9129	2001
+Mana_12_0031	Europe	East Atlantic	Maana	het	RHT10a	RPT6a	10	6	1385	1382
+Mana_12_0035	Europe	East Atlantic	Maana	het	RHT10a	RPT6a	10	6	35717	2001
+Mana_12_0036	Europe	East Atlantic	Maana	het	RPT6a	QDT9a	6	9	38001	2001
+Mana_12_0041	Europe	East Atlantic	Maana	het	RHT10a	RPT6a	10	6	59760	2001
+Mana_12_0043	Europe	East Atlantic	Maana	het	QHK5a	QDT9a	5	9	43641	2001
+Mana_12_0047	Europe	East Atlantic	Maana	hom	RPT6a	RPT6a	6	6	20559	2001
+Mana_12_0050	Europe	East Atlantic	Maana	het	QHK5a	RPT6a	5	6	13481	2001
+Mana_12_0051	Europe	East Atlantic	Maana	het	RHT10a	QHK8a	10	8	78492	2001
+Mana_12_0055	Europe	East Atlantic	Maana	het	RPT6a	RPT7d	6	7	35818	2001
+Mana_12_0060	Europe	East Atlantic	Maana	het	RHT10a	RPT6a	10	6	1052	1049
+Mana_12_0062	Europe	East Atlantic	Maana	het	RHT10a	RPT8a	10	8	20008	2001
+Mana_12_0066	Europe	East Atlantic	Maana	het	QHK5a	RPT6b	5	6	2509	2001
+Mana_12_0067	Europe	East Atlantic	Maana	het	RHT10a	RPT6a	10	6	53479	2001
+Mana_12_0069	Europe	East Atlantic	Maana	het	RHT10a	RPT6a	10	6	18824	2001
+Mana_12_0078	Europe	East Atlantic	Maana	het	QHK5b	QDT9b	5	9	11316	2001
+MAP-01	North America	Gulf of St. Lawrence	Matapedia	het	RHT10a	QHK4a	10	4	26988	2001
+MAP-02	North America	Gulf of St. Lawrence	Matapedia	het	RHT10a	QDT5a	10	5	3036	2001
+MAP-03	North America	Gulf of St. Lawrence	Matapedia	het	RHT10a	QHK5a	10	5	22420	2001
+MAP-04	North America	Gulf of St. Lawrence	Matapedia	het	RHT10a	QHK4a	10	4	39449	2001
+MAP-05	North America	Gulf of St. Lawrence	Matapedia	hom	RHT10a	RHT10a	10	10	18819	2001
+MAP-06	North America	Gulf of St. Lawrence	Matapedia	hom	QHK4a	QHK4a	4	4	31833	2001
+MAP-07	North America	Gulf of St. Lawrence	Matapedia	het	RHT10a	QHK4a	10	4	21532	2001
+MAP-08	North America	Gulf of St. Lawrence	Matapedia	het	RHT10a	QHK4a	10	4	12182	2001
+MAP-09	North America	Gulf of St. Lawrence	Matapedia	het	RHT10a	QHK4a	10	4	21223	2001
+MAP-10	North America	Gulf of St. Lawrence	Matapedia	het	RHT10a	RHT9a	10	9	1564	1557
+MAP-11	North America	Gulf of St. Lawrence	Matapedia	het	RHT10a	QHK4a	10	4	24065	2001
+MAP-12	North America	Gulf of St. Lawrence	Matapedia	het	RHT10f	RPT6a	10	6	40368	2001
+MAP-13	North America	Gulf of St. Lawrence	Matapedia	hom	QHK4a	QHK4a	4	4	25266	2001
+MAP-14	North America	Gulf of St. Lawrence	Matapedia	het	RHT10a	RHT9a	10	9	20391	2001
+MAP-15	North America	Gulf of St. Lawrence	Matapedia	hom	QHK4a	QHK4a	4	4	20214	2001
+MAP-16	North America	Gulf of St. Lawrence	Matapedia	het	RHT10a	QHK4a	10	4	8862	2001
+MAP-17	North America	Gulf of St. Lawrence	Matapedia	het	RHT10a	QHK4a	10	4	31396	2001
+MAP-18	North America	Gulf of St. Lawrence	Matapedia	het	RHT10a	RPT6a	10	6	1262	1258
+MAP-19	North America	Gulf of St. Lawrence	Matapedia	het	RHT10a	RHT9a	10	9	16385	2001
+MAP-20	North America	Gulf of St. Lawrence	Matapedia	hom	QHK4a	QHK4a	4	4	31457	2001
+MAP-21	North America	Gulf of St. Lawrence	Matapedia	het	RHT10a	QHK4a	10	4	25354	2001
+MAP-23	North America	Gulf of St. Lawrence	Matapedia	het	RHT10a	RHT6a	10	6	12500	2001
+MAP-24	North America	Gulf of St. Lawrence	Matapedia	het	QHK4a	RHT6a	4	6	1751	1728
+MAP-25	North America	Gulf of St. Lawrence	Matapedia	het	RHT10a	RHT6a	10	6	16041	2001
+MBB-07	North America	Labrador	Muddy Bay	hom	QHK4a	QHK4a	4	4	1894	1886
+MBB-08	North America	Labrador	Muddy Bay	hom	QHK4a	QHK4a	4	4	3379	2001
+MBB-09	North America	Labrador	Muddy Bay	hom	QHK4a	QHK4a	4	4	1127	1119
+MBB-11	North America	Labrador	Muddy Bay	hom	QHK4a	QHK4a	4	4	4470	2001
+MBB-13	North America	Labrador	Muddy Bay	het	QHK4a	QHK5a	4	5	5889	2001
+MBB-15	North America	Labrador	Muddy Bay	hom	QHK4a	QHK4a	4	4	13939	2001
+MBB-17	North America	Labrador	Muddy Bay	het	QHK4a	RPT6a	4	6	11202	2001
+MBB-19	North America	Labrador	Muddy Bay	hom	QHK4a	QHK4a	4	4	11659	2001
+MBB-21	North America	Labrador	Muddy Bay	hom	QHK4a	QHK4a	4	4	3220	2001
+MBB-22	North America	Labrador	Muddy Bay	hom	QHK4a	QHK4a	4	4	6205	2001
+MBB-23	North America	Labrador	Muddy Bay	hom	QHK4a	QHK4a	4	4	12631	2001
+MBB-25	North America	Labrador	Muddy Bay	hom	QHK4a	QHK4a	4	4	12996	2001
+MBB-26	North America	Labrador	Muddy Bay	het	QHK4a	QHK5a	4	5	26609	2001
+MBB-28	North America	Labrador	Muddy Bay	het	QHK4a	QDT8d	4	8	16309	2001
+MBB-29	North America	Labrador	Muddy Bay	het	QHK5a	RPT6a	5	6	7941	2001
+MBB-30	North America	Labrador	Muddy Bay	hom	QHK4a	QHK4a	4	4	8774	2001
+MBB-31	North America	Labrador	Muddy Bay	het	QHK4a	RPT6a	4	6	3293	2001
+MBB-32	North America	Labrador	Muddy Bay	hom	QHK4a	QHK4a	4	4	9517	2001
+MBB-36	North America	Labrador	Muddy Bay	hom	QHK4a	QHK4a	4	4	8990	2001
+MBB-39	North America	Labrador	Muddy Bay	het	QHK4a	RHT6a	4	6	17941	2001
+MBB-40	North America	Labrador	Muddy Bay	het	QHK4a	QDT8c	4	8	12107	2001
+MBB-41	North America	Labrador	Muddy Bay	hom	QHK4a	QHK4a	4	4	15964	2001
+MEC-01	North America	Labrador	Gros Mecatina	hom	QHK4a	QHK4a	4	4	1809	1806
+MEC-02	North America	Labrador	Gros Mecatina	hom	QHK4a	QHK4a	4	4	23489	2001
+MEC-03	North America	Labrador	Gros Mecatina	het	RHT6a	QDT8a	6	8	17674	2001
+MEC-04	North America	Labrador	Gros Mecatina	hom	QHK4a	QHK4a	4	4	24403	2001
+MEC-05	North America	Labrador	Gros Mecatina	hom	QHK4a	QHK4a	4	4	34052	2001
+MEC-06	North America	Labrador	Gros Mecatina	het	QHK4a	QDT8a	4	8	13079	2001
+MEC-07	North America	Labrador	Gros Mecatina	het	QDT5a	QDT8a	5	8	9793	2001
+MEC-08	North America	Labrador	Gros Mecatina	het	QHK4a	QDT5a	4	5	18213	2001
+MEC-09	North America	Labrador	Gros Mecatina	het	QHK4b	QDT6a	4	6	1528	1517
+MEC-10	North America	Labrador	Gros Mecatina	hom	QHK4a	QHK4a	4	4	21376	2001
+MEC-11	North America	Labrador	Gros Mecatina	het	QHK4a	QDT8a	4	8	25334	2001
+MEC-12	North America	Labrador	Gros Mecatina	het	QHK4a	QHK5a	4	5	20391	2001
+MEC-13	North America	Labrador	Gros Mecatina	het	QHK4a	QDT8a	4	8	22301	2001
+MEC-14	North America	Labrador	Gros Mecatina	hom	QDT8a	QDT8a	8	8	8754	2001
+MEC-15	North America	Labrador	Gros Mecatina	het	QHK4a	QDT8a	4	8	19531	2001
+MEC-16	North America	Labrador	Gros Mecatina	het	QDT5a	QDT6a	5	6	22083	2001
+MEC-17	North America	Labrador	Gros Mecatina	het	QHK4a	QDT8a	4	8	2842	2001
+MEC-18	North America	Labrador	Gros Mecatina	het	QHK4a	QDT8a	4	8	24449	2001
+MEC-19	North America	Labrador	Gros Mecatina	hom	QDT8a	QDT8a	8	8	27601	2001
+MEC-20	North America	Labrador	Gros Mecatina	hom	QDT8a	QDT8a	8	8	17965	2001
+MEC-21	North America	Labrador	Gros Mecatina	hom	QHK4a	QHK4a	4	4	44356	2001
+MEC-22	North America	Labrador	Gros Mecatina	het	QHK4a	QDT8a	4	8	14474	2001
+MEC-23	North America	Labrador	Gros Mecatina	het	QHK4a	QDT8a	4	8	4905	2001
+MEC-24	North America	Labrador	Gros Mecatina	hom	QDT8a	QDT8a	8	8	13229	2001
+MOI-01	North America	Gulf of St. Lawrence	Moisie	het	RHT10a	QHK5a	10	5	21252	2001
+MOI-02	North America	Gulf of St. Lawrence	Moisie	het	QHK4a	QHK5a	4	5	29565	2001
+MOI-03	North America	Gulf of St. Lawrence	Moisie	het	QHK4a	QHK5a	4	5	2149	2001
+MOI-04	North America	Gulf of St. Lawrence	Moisie	het	QHK4a	QHK5a	4	5	9901	2001
+MOI-08	North America	Gulf of St. Lawrence	Moisie	hom	QHK4a	QHK4a	4	4	18750	2001
+MOI-09	North America	Gulf of St. Lawrence	Moisie	het	QHK4a	QHK5a	4	5	22427	2001
+MOI-10	North America	Gulf of St. Lawrence	Moisie	het	QHK4a	QHK5a	4	5	36981	2001
+MOI-11	North America	Gulf of St. Lawrence	Moisie	het	QHK4a	QHK5a	4	5	2887	2001
+MOI-12	North America	Gulf of St. Lawrence	Moisie	het	QHK4a	QHK5a	4	5	23288	2001
+MOI-13	North America	Gulf of St. Lawrence	Moisie	hom	RHT10a	RHT10a	10	10	27656	2001
+MOI-14	North America	Gulf of St. Lawrence	Moisie	het	QHK4a	QHK5a	4	5	28214	2001
+MOI-15	North America	Gulf of St. Lawrence	Moisie	het	QHK4a	QHK5a	4	5	30049	2001
+MOI-16	North America	Gulf of St. Lawrence	Moisie	het	QHK4a	QHK5a	4	5	14914	2001
+MOI-17	North America	Gulf of St. Lawrence	Moisie	het	QHK4a	RHT6a	4	6	26043	2001
+MOI-18	North America	Gulf of St. Lawrence	Moisie	het	QHK5a	RHT6a	5	6	26407	2001
+MOI-20	North America	Gulf of St. Lawrence	Moisie	het	QHK4a	QHK5a	4	5	31305	2001
+MOI-21	North America	Gulf of St. Lawrence	Moisie	het	QHK4a	QHK5a	4	5	52236	2001
+MOI-22	North America	Gulf of St. Lawrence	Moisie	het	QHK4a	RHT6a	4	6	40481	2001
+MOI-23	North America	Gulf of St. Lawrence	Moisie	het	QHK4a	QHK5a	4	5	46327	2001
+MOI-24	North America	Gulf of St. Lawrence	Moisie	hom	QHK5a	QHK5a	5	5	24311	2001
+MOI-25	North America	Gulf of St. Lawrence	Moisie	het	QHK4a	QHK5a	4	5	17931	2001
+Nams_12_0003	Europe	East Atlantic	Namsen	het	RPT6a	QDT9a	6	9	6080	2001
+Nams_12_0007	Europe	East Atlantic	Namsen	hom	QDT9a	QDT9a	9	9	13564	2001
+Nams_12_0016	Europe	East Atlantic	Namsen	het	QDT9a	QHK9a	9	9	2145	2001
+Nams_12_0024	Europe	East Atlantic	Namsen	het	QDT8a	RPT8a	8	8	18714	2001
+Nams_12_0029	Europe	East Atlantic	Namsen	het	QHK5a	RPT6a	5	6	23298	2001
+Nams_12_0030	Europe	East Atlantic	Namsen	hom	RPT6a	RPT6a	6	6	8149	2001
+Nams_12_0034	Europe	East Atlantic	Namsen	hom	RPT6a	RPT6a	6	6	5780	2001
+Nams_12_0049	Europe	East Atlantic	Namsen	het	RPT6a	QDT8a	6	8	10735	2001
+Nams_12_0060	Europe	East Atlantic	Namsen	het	RPT6a	QDT9a	6	9	14757	2001
+Nams_12_0071	Europe	East Atlantic	Namsen	hom	RPT6a	RPT6a	6	6	11936	2001
+Nams_12_0085	Europe	East Atlantic	Namsen	het	RPT6a	QHK8a	6	8	5659	2001
+Nams_12_0106	Europe	East Atlantic	Namsen	het	RPT6a	QHK8a	6	8	50164	2001
+Nams_12_0113	Europe	East Atlantic	Namsen	het	RPT6a	QHK9a	6	9	28870	2001
+Nams_12_0126	Europe	East Atlantic	Namsen	hom	RPT6a	RPT6a	6	6	14841	2001
+Nams_12_0134	Europe	East Atlantic	Namsen	het	RPT6a	QHK8a	6	8	10770	2001
+Nams_12_0143	Europe	East Atlantic	Namsen	het	QHK5a	RPT6a	5	6	7296	2001
+Nams_12_0155	Europe	East Atlantic	Namsen	hom	RPT6a	RPT6a	6	6	13326	2001
+Nams_12_0186	Europe	East Atlantic	Namsen	het	RPT6a	QHK7b	6	7	1513	1510
+Nams_12_0194	Europe	East Atlantic	Namsen	het	RPT6a	QHK7b	6	7	48093	2001
+Nams_12_0201	Europe	East Atlantic	Namsen	het	RHT10a	RPT6a	10	6	19414	2001
+Nams_12_0205	Europe	East Atlantic	Namsen	hom	RPT6a	RPT6a	6	6	37904	2001
+Nams_12_0216	Europe	East Atlantic	Namsen	het	QHK5a	RPT6a	5	6	10016	2001
+Nams_12_0224	Europe	East Atlantic	Namsen	hom	RPT6a	RPT6a	6	6	14176	2001
+Nams_12_0258	Europe	East Atlantic	Namsen	hom	QHK5a	QHK5a	5	5	4983	2001
+Nams_12_0259	Europe	East Atlantic	Namsen	het	RPT6a	QHT8b	6	8	13825	2001
+Nams_12_0261	Europe	East Atlantic	Namsen	het	RPT6a	QDT9a	6	9	6574	2001
+Nams_12_0267	Europe	East Atlantic	Namsen	het	RPT6a	QHK9a	6	9	3266	2001
+Nams_12_0285	Europe	East Atlantic	Namsen	het	QHK5a	RPT6a	5	6	27308	2001
+Nume_12_0002	Europe	East Atlantic	Numedalslaagen	hom	RPT6a	RPT6a	6	6	43644	2001
+Nume_12_0009	Europe	East Atlantic	Numedalslaagen	het	RPT6a	QHK8a	6	8	6741	2001
+Nume_12_0022	Europe	East Atlantic	Numedalslaagen	het	QHK4e	RPT6a	4	6	3029	2001
+Nume_12_0043	Europe	East Atlantic	Numedalslaagen	het	QHK5b	QDT9a	5	9	16383	2001
+Nume_12_0051	Europe	East Atlantic	Numedalslaagen	het	RPT6a	QDT9b	6	9	21549	2001
+Nume_12_0057	Europe	East Atlantic	Numedalslaagen	het	RPT5b	RPT6a	5	6	37126	2001
+Nume_12_0068	Europe	East Atlantic	Numedalslaagen	het	QHK5b	QDT9a	5	9	30040	2001
+Nume_12_0073	Europe	East Atlantic	Numedalslaagen	het	RHT10a	QHK6c	10	6	9230	2001
+Nume_12_0078	Europe	East Atlantic	Numedalslaagen	het	QHK5b	RPT6a	5	6	5671	2001
+Nume_12_0087	Europe	East Atlantic	Numedalslaagen	het	RPT6a	QHK8a	6	8	11083	2001
+Nume_12_0108	Europe	East Atlantic	Numedalslaagen	het	RPT6a	QDT9a	6	9	8279	2001
+Nume_12_0127	Europe	East Atlantic	Numedalslaagen	het	RPT6a	QHK8a	6	8	8374	2001
+Nume_12_0134	Europe	East Atlantic	Numedalslaagen	het	QHK7b	QDT9a	7	9	20083	2001
+Nume_12_0195	Europe	East Atlantic	Numedalslaagen	het	RPT6a	QDT9a	6	9	3048	2001
+Nume_12_0198	Europe	East Atlantic	Numedalslaagen	het	RPT6a	QDT9a	6	9	11546	2001
+Nume_12_0212	Europe	East Atlantic	Numedalslaagen	het	QHK7a	QDT9b	7	9	1808	1804
+Nume_12_0226	Europe	East Atlantic	Numedalslaagen	het	RHT8b	QDT9b	8	9	4529	2001
+Nume_12_0248	Europe	East Atlantic	Numedalslaagen	hom	RPT6a	RPT6a	6	6	17047	2001
+Nume_12_0258	Europe	East Atlantic	Numedalslaagen	het	QHK5b	RPT6a	5	6	14419	2001
+Nume_12_0268	Europe	East Atlantic	Numedalslaagen	het	QHK5b	RPT6a	5	6	6047	2001
+Nume_12_0281	Europe	East Atlantic	Numedalslaagen	het	QHK5b	QDT9b	5	9	1761	1760
+Nume_12_0298	Europe	East Atlantic	Numedalslaagen	het	QHK5b	RPT6a	5	6	1996	1992
+Nume_12_0324	Europe	East Atlantic	Numedalslaagen	hom	QDT9a	QDT9a	9	9	2137	2001
+Osel_11_0021	Europe	East Atlantic	Oselva	het	QHK5a	RPT6a	5	6	15046	2001
+Osel_11_0028	Europe	East Atlantic	Oselva	het	QDT6a	RPT6a	6	6	14511	2001
+Osel_11_0033	Europe	East Atlantic	Oselva	hom	RHT10a	RHT10a	10	10	8342	2001
+Osel_12_0004	Europe	East Atlantic	Oselva	het	QHK5a	QDT9a	5	9	15642	2001
+Osel_12_0007	Europe	East Atlantic	Oselva	het	RHT10a	RPT6a	10	6	9230	2001
+Osel_12_0010	Europe	East Atlantic	Oselva	het	RHT10a	RPT6a	10	6	10267	2001
+Osel_12_0013	Europe	East Atlantic	Oselva	hom	RPT6a	RPT6a	6	6	5365	2001
+Osel_12_0016	Europe	East Atlantic	Oselva	het	RHT10a	RPT6a	10	6	37883	2001
+Osel_12_0020	Europe	East Atlantic	Oselva	het	RHT10a	QDT9a	10	9	13774	2001
+Osel_12_0023	Europe	East Atlantic	Oselva	het	RHT10a	QDT9a	10	9	27992	2001
+Osel_12_0033	Europe	East Atlantic	Oselva	het	RHT10a	QHK8b	10	8	13318	2001
+Osel_12_0036	Europe	East Atlantic	Oselva	het	RHT10a	QDT9a	10	9	8650	2001
+Osel_12_0039	Europe	East Atlantic	Oselva	hom	RPT6a	RPT6a	6	6	4515	2001
+Osel_12_0043	Europe	East Atlantic	Oselva	het	RPT6a	QDT9a	6	9	10440	2001
+Osel_12_0046	Europe	East Atlantic	Oselva	het	RPT6a	QDT9a	6	9	11874	2001
+Osel_12_0049	Europe	East Atlantic	Oselva	het	QDT6b	QHK8a	6	8	21451	2001
+Osel_12_0052	Europe	East Atlantic	Oselva	het	RHT10a	QDT9a	10	9	4883	2001
+Osel_12_0055	Europe	East Atlantic	Oselva	het	QHK5a	RPT8a	5	8	5301	2001
+Osel_12_0058	Europe	East Atlantic	Oselva	het	QHK5a	RPT8a	5	8	4727	2001
+Osel_12_0061	Europe	East Atlantic	Oselva	het	RHT10a	RPT6a	10	6	1446	1445
+Pl3_A01	Europe	Baltic	Vindelalven	het	RPT6a	QDT9a	6	9	22857	2001
+Pl3_A06	Europe	Baltic	Kunda	het	QHK5a	WET6a	5	6	29668	2001
+Pl3_A07	Europe	Baltic	Kunda	het	RPT6b	RPT7c	6	7	19150	2001
+Pl3_A08	Europe	Baltic	Kunda	hom	RPT6a	RPT6a	6	6	2585	2001
+Pl3_A09	Europe	Baltic	Kunda	het	RPT6b	WET8a	6	8	10003	2001
+Pl3_B01	Europe	Baltic	Vindelalven	het	RPT6a	QDT9a	6	9	46937	2001
+Pl3_B06	Europe	Baltic	Kunda	hom	RPT6b	RPT6b	6	6	34232	2001
+Pl3_B07	Europe	Baltic	Kunda	hom	RPT6b	RPT6b	6	6	24845	2001
+Pl3_B08	Europe	Baltic	Kunda	het	RPT6b	RPT6a	6	6	21209	2001
+Pl3_B09	Europe	Baltic	Kunda	hom	RPT6a	RPT6a	6	6	6077	2001
+Pl3_C01	Europe	Baltic	Vindelalven	het	RPT6a	QDT9a	6	9	16686	2001
+Pl3_C06	Europe	Baltic	Kunda	hom	RPT6a	RPT6a	6	6	2471	2001
+Pl3_C07	Europe	Baltic	Kunda	het	RPT6b	WET8a	6	8	8905	2001
+Pl3_C08	Europe	Baltic	Kunda	hom	RPT6a	RPT6a	6	6	9207	2001
+Pl3_C09	Europe	Baltic	Kunda	het	RPT6a	RPT6b	6	6	6973	2001
+Pl3_D01	Europe	Baltic	Vindelalven	het	RPT6a	WET8a	6	8	40606	2001
+Pl3_D06	Europe	Baltic	Kunda	het	RPT6a	WET8a	6	8	14852	2001
+Pl3_D07	Europe	Baltic	Kunda	het	WET6a	RPT6a	6	6	30573	2001
+Pl3_D08	Europe	Baltic	Kunda	het	WET6a	RPT6a	6	6	20109	2001
+Pl3_D09	Europe	Baltic	Kunda	het	RPT6b	WET6a	6	6	1981	1972
+Pl3_E01	Europe	Baltic	Vindelalven	het	RPT6a	QDT9a	6	9	36112	2001
+Pl3_E06	Europe	Baltic	Kunda	het	RPT6a	RPT6b	6	6	44482	2001
+Pl3_E07	Europe	Baltic	Kunda	het	RPT6b	WET6a	6	6	11429	2001
+Pl3_E08	Europe	Baltic	Kunda	het	WET6a	RPT6a	6	6	16053	2001
+Pl3_F01	Europe	Baltic	Vindelalven	het	RPT6a	QDT9a	6	9	34938	2001
+Pl3_F06	Europe	Baltic	Kunda	het	RPT6b	RPT6a	6	6	31021	2001
+Pl3_F07	Europe	Baltic	Kunda	het	RPT6b	WET6a	6	6	33859	2001
+Pl3_F08	Europe	Baltic	Kunda	het	RPT6a	WET6a	6	6	6362	2001
+Pl3_G01	Europe	Baltic	Vindelalven	het	RPT6a	QDT9a	6	9	41075	2001
+Pl3_G06	Europe	Baltic	Kunda	het	RPT6b	WET6a	6	6	13854	2001
+Pl3_G07	Europe	Baltic	Kunda	het	WET6a	RPT6b	6	6	41244	2001
+Pl3_G08	Europe	Baltic	Kunda	het	RPT6a	WET6a	6	6	25259	2001
+Pl3_H01	Europe	Baltic	Vindelalven	hom	RPT6a	RPT6a	6	6	25569	2001
+Pl3_H06	Europe	Baltic	Kunda	het	RPT6b	QDT8b	6	8	25366	2001
+Pl3_H07	Europe	Baltic	Kunda	het	RPT6b	RPT6a	6	6	23268	2001
+Pl3_H08	Europe	Baltic	Kunda	het	WET6a	RPT6a	6	6	8406	2001
+Pl3_H09	Europe	Baltic	Kunda	hom	WET6a	WET6a	6	6	4064	2001
+Plate3_A02	Europe	Baltic	Vindelalven	het	QHK5a	RPT6a	5	6	27186	2001
+Plate3_A03	Europe	Baltic	Vindelalven	hom	QDT9a	QDT9a	9	9	27902	2001
+Plate3_A04	Europe	Baltic	Vindelalven	hom	RPT6a	RPT6a	6	6	42438	2001
+Plate3_B02	Europe	Baltic	Vindelalven	het	RPT6a	QDT9a	6	9	16899	2001
+Plate3_B03	Europe	Baltic	Vindelalven	het	QHK5a	RPT6a	5	6	37013	2001
+Plate3_B04	Europe	Baltic	Vindelalven	het	RPT6a	QDT9a	6	9	39229	2001
+Plate3_C02	Europe	Baltic	Vindelalven	hom	RPT6a	RPT6a	6	6	1600	1599
+Plate3_C03	Europe	Baltic	Vindelalven	het	RPT6a	QDT9a	6	9	23749	2001
+Plate3_C04	Europe	Baltic	Vindelalven	hom	RPT6a	RPT6a	6	6	12129	2001
+Plate3_D02	Europe	Baltic	Vindelalven	het	QHK4d	RPT6a	4	6	25433	2001
+Plate3_D03	Europe	Baltic	Vindelalven	hom	RPT6a	RPT6a	6	6	25572	2001
+Plate3_D04	Europe	Baltic	Vindelalven	hom	QDT9a	QDT9a	9	9	31803	2001
+Plate3_E02	Europe	Baltic	Vindelalven	het	RPT6a	QDT9a	6	9	24041	2001
+Plate3_E03	Europe	Baltic	Vindelalven	het	RPT6a	QDT9a	6	9	15423	2001
+Plate3_E04	Europe	Baltic	Vindelalven	hom	RPT6a	RPT6a	6	6	68676	2001
+Plate3_F02	Europe	Baltic	Vindelalven	het	QHK5a	RPT6a	5	6	29287	2001
+Plate3_F03	Europe	Baltic	Vindelalven	hom	RPT6a	RPT6a	6	6	42606	2001
+Plate3_F04	Europe	Baltic	Vindelalven	hom	RPT6a	RPT6a	6	6	47345	2001
+Plate3_G02	Europe	Baltic	Vindelalven	het	RPT6a	QDT9a	6	9	35992	2001
+Plate3_G03	Europe	Baltic	Vindelalven	het	QHK5a	QDT9a	5	9	42939	2001
+Plate3_G04	Europe	Baltic	Vindelalven	hom	QDT9a	QDT9a	9	9	23326	2001
+Plate3_H02	Europe	Baltic	Vindelalven	het	RPT5c	RPT6a	5	6	32967	2001
+Plate3_H03	Europe	Baltic	Vindelalven	hom	RPT6a	RPT6a	6	6	18776	2001
+Plate3_H04	Europe	Baltic	Vindelalven	hom	RPT6a	RPT6a	6	6	34059	2001
+Repp_12_0007	Europe	Barents/White Sea	Repparfjordelva	het	QHK6a	QHK7a	6	7	18742	2001
+Repp_12_0010	Europe	Barents/White Sea	Repparfjordelva	hom	RPT6a	RPT6a	6	6	9140	2001
+Repp_12_0011	Europe	Barents/White Sea	Repparfjordelva	hom	RPT6a	RPT6a	6	6	27587	2001
+Repp_12_0016	Europe	Barents/White Sea	Repparfjordelva	het	QHK6b	RPT6a	6	6	28060	2001
+Repp_12_0019	Europe	Barents/White Sea	Repparfjordelva	het	QHK6b	RPT6d	6	6	17931	2001
+Repp_12_0023	Europe	Barents/White Sea	Repparfjordelva	hom	QHK8a	QHK8a	8	8	12946	2001
+Repp_12_0025	Europe	Barents/White Sea	Repparfjordelva	het	RPT6a	QDT8a	6	8	2893	2001
+Repp_12_0028	Europe	Barents/White Sea	Repparfjordelva	het	RPT6a	QHK6a	6	6	4065	2001
+Repp_12_0031	Europe	Barents/White Sea	Repparfjordelva	het	QHK6d	RPT8b	6	8	10939	2001
+Repp_12_0034	Europe	Barents/White Sea	Repparfjordelva	hom	RPT6a	RPT6a	6	6	3160	2001
+Repp_12_0037	Europe	Barents/White Sea	Repparfjordelva	het	RPT6a	QHK6a	6	6	16966	2001
+Repp_12_0041	Europe	Barents/White Sea	Repparfjordelva	hom	RPT6a	RPT6a	6	6	21268	2001
+Repp_12_0046	Europe	Barents/White Sea	Repparfjordelva	hom	RPT6a	RPT6a	6	6	13737	2001
+Repp_12_0049	Europe	Barents/White Sea	Repparfjordelva	het	RPT5a	RPT6a	5	6	9362	2001
+Repp_12_0052	Europe	Barents/White Sea	Repparfjordelva	hom	RPT6a	RPT6a	6	6	5239	2001
+Repp_12_0053	Europe	Barents/White Sea	Repparfjordelva	hom	RPT6a	RPT6a	6	6	5074	2001
+Repp_12_0056	Europe	Barents/White Sea	Repparfjordelva	het	RHT10a	RPT6a	10	6	2288	2001
+Repp_12_0059	Europe	Barents/White Sea	Repparfjordelva	hom	RPT6a	RPT6a	6	6	20717	2001
+Risf_11_0001	Europe	Barents/White Sea	Risfjordvassdraget	hom	RPT6a	RPT6a	6	6	6513	2001
+Risf_11_0002	Europe	Barents/White Sea	Risfjordvassdraget	hom	RPT6a	RPT6a	6	6	10205	2001
+Risf_11_0004	Europe	Barents/White Sea	Risfjordvassdraget	het	QHK5c	RPT6a	5	6	16265	2001
+Risf_11_0005	Europe	Barents/White Sea	Risfjordvassdraget	het	RPT6a	QDT9a	6	9	8216	2001
+Risf_11_0006	Europe	Barents/White Sea	Risfjordvassdraget	het	RHT10a	RPT6a	10	6	1747	1744
+Risf_11_0008	Europe	Barents/White Sea	Risfjordvassdraget	hom	RPT6a	RPT6a	6	6	7559	2001
+Risf_11_0010	Europe	Barents/White Sea	Risfjordvassdraget	hom	RPT6a	RPT6a	6	6	25272	2001
+Risf_11_0011	Europe	Barents/White Sea	Risfjordvassdraget	hom	RPT6a	RPT6a	6	6	38243	2001
+Risf_11_0012	Europe	Barents/White Sea	Risfjordvassdraget	het	RPT6a	QDT9a	6	9	19102	2001
+Risf_11_0013	Europe	Barents/White Sea	Risfjordvassdraget	het	QHK5c	RPT6a	5	6	27986	2001
+Risf_11_0015	Europe	Barents/White Sea	Risfjordvassdraget	het	RPT6a	QHK9a	6	9	4865	2001
+Risf_11_0016	Europe	Barents/White Sea	Risfjordvassdraget	hom	RPT6a	RPT6a	6	6	6815	2001
+Risf_11_0017	Europe	Barents/White Sea	Risfjordvassdraget	hom	RPT6a	RPT6a	6	6	9443	2001
+Risf_11_0019	Europe	Barents/White Sea	Risfjordvassdraget	het	RPT8a	QDT9a	8	9	4826	2001
+Risf_11_0020	Europe	Barents/White Sea	Risfjordvassdraget	hom	RPT6a	RPT6a	6	6	25110	2001
+Risf_11_0021	Europe	Barents/White Sea	Risfjordvassdraget	het	RPT6a	QDT9a	6	9	8287	2001
+Risf_11_0022	Europe	Barents/White Sea	Risfjordvassdraget	hom	RPT6a	RPT6a	6	6	3560	2001
+RKR-04	North America	Newfoundland	Rocky River	het	QHK4a	QHK5a	4	5	10720	2001
+RKR-08	North America	Newfoundland	Rocky River	het	QHK4a	RHT8a	4	8	7516	2001
+RKR-21	North America	Newfoundland	Rocky River	het	RPT6a	RHT6a	6	6	15761	2001
+RKR-22	North America	Newfoundland	Rocky River	het	RPT5a	RHT6a	5	6	11748	2001
+RKR-23	North America	Newfoundland	Rocky River	het	QHK4a	RPT6a	4	6	9152	2001
+RKR-24	North America	Newfoundland	Rocky River	hom	RHT6a	RHT6a	6	6	11997	2001
+RKR-29	North America	Newfoundland	Rocky River	hom	RPT6a	RPT6a	6	6	11567	2001
+RKR-30-R67	North America	Newfoundland	Rocky River	hom	RPT6a	RPT6a	6	6	15677	2001
+RKR-34	North America	Newfoundland	Rocky River	het	RHT11a	RHT6a	11	6	4844	2001
+RKR-42	North America	Newfoundland	Rocky River	het	QHK4a	RHT5a	4	5	15217	2001
+RKR-45	North America	Newfoundland	Rocky River	het	QHK4a	RPT6a	4	6	17152	2001
+RKR-46	North America	Newfoundland	Rocky River	het	RHT6a	RPT6f	6	6	15141	2001
+RKR-64	North America	Newfoundland	Rocky River	het	QHK4a	RPT6a	4	6	2806	2001
+RKR-81	North America	Newfoundland	Rocky River	hom	QHK4a	QHK4a	4	4	8694	2001
+RKR-94	North America	Newfoundland	Rocky River	het	RPT6a	RHT6a	6	6	9278	2001
+Roks_12_0101	Europe	East Atlantic	Roksdalsvassdraget	het	QHK5a	RPT6a	5	6	15917	2001
+Roks_12_0105	Europe	East Atlantic	Roksdalsvassdraget	het	RPT6a	QHK8a	6	8	5930	2001
+Roks_12_0111	Europe	East Atlantic	Roksdalsvassdraget	het	RPT6a	QHK8a	6	8	9798	2001
+Roks_12_0113	Europe	East Atlantic	Roksdalsvassdraget	hom	RPT6a	RPT6a	6	6	20615	2001
+Roks_12_0115	Europe	East Atlantic	Roksdalsvassdraget	het	RPT6a	QDT9a	6	9	7652	2001
+Roks_12_0117	Europe	East Atlantic	Roksdalsvassdraget	het	RPT6a	QHK8a	6	8	14325	2001
+Rygg_11_0052	Europe	East Atlantic	Ryggelva	het	QHK5a	RPT6a	5	6	5296	2001
+Sand_12_0004	Europe	Barents/White Sea	Sandfjordelva	het	RPT6a	QDT9a	6	9	12416	2001
+Sand_12_0009	Europe	Barents/White Sea	Sandfjordelva	hom	RPT6a	RPT6a	6	6	6809	2001
+Sand_12_0013	Europe	Barents/White Sea	Sandfjordelva	hom	RPT6a	RPT6a	6	6	12387	2001
+Sand_12_0015	Europe	Barents/White Sea	Sandfjordelva	hom	RPT6a	RPT6a	6	6	1895	1893
+Sand_12_0018	Europe	Barents/White Sea	Sandfjordelva	het	RPT6a	QHK9a	6	9	6629	2001
+Sand_12_0020	Europe	Barents/White Sea	Sandfjordelva	hom	RPT6a	RPT6a	6	6	11329	2001
+Sand_12_0025	Europe	Barents/White Sea	Sandfjordelva	hom	RPT6a	RPT6a	6	6	9283	2001
+Sand_12_0027	Europe	Barents/White Sea	Sandfjordelva	hom	RPT6a	RPT6a	6	6	4721	2001
+Sand_12_0029	Europe	Barents/White Sea	Sandfjordelva	hom	RPT6a	RPT6a	6	6	1064	1055
+Sand_12_0031	Europe	Barents/White Sea	Sandfjordelva	het	QHK5a	RPT6a	5	6	12322	2001
+Sand_12_0032	Europe	Barents/White Sea	Sandfjordelva	hom	RPT6a	RPT6a	6	6	3046	2001
+Sand_12_0034	Europe	Barents/White Sea	Sandfjordelva	hom	RPT6a	RPT6a	6	6	16774	2001
+Sand_12_0036	Europe	Barents/White Sea	Sandfjordelva	hom	RPT6a	RPT6a	6	6	7440	2001
+Sand_12_0038	Europe	Barents/White Sea	Sandfjordelva	het	RHT10a	QDT8b	10	8	9846	2001
+Sand_12_0040	Europe	Barents/White Sea	Sandfjordelva	hom	RPT6a	RPT6a	6	6	5253	2001
+Sand_12_0043	Europe	Barents/White Sea	Sandfjordelva	hom	RPT6a	RPT6a	6	6	2887	2001
+Sand_12_0044	Europe	Barents/White Sea	Sandfjordelva	het	QHK5c	RPT6a	5	6	1029	1023
+Sand_12_0046	Europe	Barents/White Sea	Sandfjordelva	hom	RPT6a	RPT6a	6	6	12547	2001
+Sand_12_0047	Europe	Barents/White Sea	Sandfjordelva	hom	RPT6a	RPT6a	6	6	1005	1003
+SGR-50	North America	Newfoundland	St. Genvieve River	hom	QHK4a	QHK4a	4	4	17174	2001
+SGR-51	North America	Newfoundland	St. Genvieve River	het	QHK4a	QDT8a	4	8	8597	2001
+SGR-51-R28	North America	Newfoundland	St. Genvieve River	het	QHK4a	QDT8a	4	8	11474	2001
+SGR-52	North America	Newfoundland	St. Genvieve River	het	RHT10a	QDT8b	10	8	7625	2001
+SGR-53	North America	Newfoundland	St. Genvieve River	hom	QHK4a	QHK4a	4	4	11966	2001
+SGR-58	North America	Newfoundland	St. Genvieve River	het	QHK4a	RPT6a	4	6	8712	2001
+SGR-59	North America	Newfoundland	St. Genvieve River	het	QHK4c	QDT8a	4	8	11131	2001
+SGR-60	North America	Newfoundland	St. Genvieve River	hom	RHT10a	RHT10a	10	10	12136	2001
+SGR-60-R37	North America	Newfoundland	St. Genvieve River	hom	RHT10a	RHT10a	10	10	11719	2001
+SGR-64	North America	Newfoundland	St. Genvieve River	het	QHK4a	RPT6a	4	6	6025	2001
+SGR-65	North America	Newfoundland	St. Genvieve River	het	QHK4a	RHT6a	4	6	13515	2001
+SGR-72	North America	Newfoundland	St. Genvieve River	het	RHT10a	QHK4a	10	4	11772	2001
+SGR-72-R49	North America	Newfoundland	St. Genvieve River	het	RHT10a	QHK4a	10	4	3714	2001
+SGR-73	North America	Newfoundland	St. Genvieve River	het	RHT6a	QDT8a	6	8	13344	2001
+SGR-77	North America	Newfoundland	St. Genvieve River	het	QHK4a	RPT6a	4	6	10277	2001
+SGR-78	North America	Newfoundland	St. Genvieve River	hom	QHK4a	QHK4a	4	4	10098	2001
+SGR-81	North America	Newfoundland	St. Genvieve River	hom	QHK4a	QHK4a	4	4	16444	2001
+SGR-88	North America	Newfoundland	St. Genvieve River	het	RHT10a	QHK4a	10	4	1502	1498
+SGR-99	North America	Newfoundland	St. Genvieve River	hom	QHK4a	QHK4a	4	4	10908	2001
+SGR-99-R76	North America	Newfoundland	St. Genvieve River	hom	QHK4a	QHK4a	4	4	5035	2001
+Skie_12_0008	Europe	East Atlantic	Skienselva	hom	RPT6a	RPT6a	6	6	1007	1006
+Skie_12_0020	Europe	East Atlantic	Skienselva	het	RHT10b	QHK8a	10	8	2443	2001
+Skie_12_0026	Europe	East Atlantic	Skienselva	hom	QHK5a	QHK5a	5	5	12952	2001
+Skie_12_0034	Europe	East Atlantic	Skienselva	het	QDT6b	RPT6a	6	6	19114	2001
+Skie_12_0046	Europe	East Atlantic	Skienselva	het	QHK5a	RPT6a	5	6	2414	2001
+Skie_12_0052	Europe	East Atlantic	Skienselva	het	QHK5b	RPT6a	5	6	29274	2001
+Skie_12_0062	Europe	East Atlantic	Skienselva	het	RPT6a	QHK9a	6	9	43956	2001
+Skie_12_0072	Europe	East Atlantic	Skienselva	hom	RPT6a	RPT6a	6	6	32681	2001
+Skie_12_0091	Europe	East Atlantic	Skienselva	hom	RPT6a	RPT6a	6	6	30282	2001
+Skie_12_0094	Europe	East Atlantic	Skienselva	het	RPT6a	QHK8b	6	8	7263	2001
+Skie_12_0096	Europe	East Atlantic	Skienselva	het	QHK5a	RPT6a	5	6	2660	2001
+Skie_12_0097	Europe	East Atlantic	Skienselva	hom	RPT6a	RPT6a	6	6	1237	1236
+Skie_12_0123	Europe	East Atlantic	Skienselva	hom	RPT6a	RPT6a	6	6	7634	2001
+Skie_12_0134	Europe	East Atlantic	Skienselva	het	QDT9b	QDT9a	9	9	21088	2001
+Skie_12_0144	Europe	East Atlantic	Skienselva	het	RHT10a	QHK5d	10	5	10594	2001
+Skie_12_0159	Europe	East Atlantic	Skienselva	het	RHT10e	RPT6a	10	6	19967	2001
+Skie_12_0171	Europe	East Atlantic	Skienselva	hom	RPT6a	RPT6a	6	6	5699	2001
+Soya_12_0001	Europe	East Atlantic	Soeya	het	QHK5a	RPT6a	5	6	18596	2001
+Soya_12_0002	Europe	East Atlantic	Soeya	hom	RPT6a	RPT6a	6	6	2394	2001
+Soya_12_0003	Europe	East Atlantic	Soeya	het	RPT6a	QHK7a	6	7	28607	2001
+Soya_12_0004	Europe	East Atlantic	Soeya	het	RPT6a	QDT9a	6	9	36350	2001
+Soya_12_0009	Europe	East Atlantic	Soeya	het	RPT6a	QHK9a	6	9	61674	2001
+Soya_12_0010	Europe	East Atlantic	Soeya	hom	RPT6a	RPT6a	6	6	46375	2001
+Soya_12_0013	Europe	East Atlantic	Soeya	hom	RPT6a	RPT6a	6	6	27622	2001
+Soya_12_0014	Europe	East Atlantic	Soeya	het	RPT6a	RHT8b	6	8	5884	2001
+Soya_12_0015	Europe	East Atlantic	Soeya	hom	RPT6a	RPT6a	6	6	4851	2001
+Soya_12_0017	Europe	East Atlantic	Soeya	hom	RPT6a	RPT6a	6	6	9608	2001
+Soya_12_0018	Europe	East Atlantic	Soeya	het	QHK5a	RPT6a	5	6	22166	2001
+Soya_12_0021	Europe	East Atlantic	Soeya	het	QHK5a	QHK8a	5	8	8600	2001
+Soya_12_0024	Europe	East Atlantic	Soeya	hom	RPT6a	RPT6a	6	6	33363	2001
+Soya_12_0028	Europe	East Atlantic	Soeya	het	RHT10a	QDT8a	10	8	14233	2001
+Soya_12_0031	Europe	East Atlantic	Soeya	het	RHT10a	RPT6a	10	6	17976	2001
+Soya_12_0032	Europe	East Atlantic	Soeya	het	RPT6a	QDT9a	6	9	15875	2001
+Soya_12_0038	Europe	East Atlantic	Soeya	hom	QHK5a	QHK5a	5	5	2817	2001
+Suld_11_0169	Europe	East Atlantic	Suldalslaagen	het	QHK5a	RPT6a	5	6	14828	2001
+Suld_11_0170	Europe	East Atlantic	Suldalslaagen	het	RPT6a	QDT9a	6	9	22198	2001
+Suld_11_0237	Europe	East Atlantic	Suldalslaagen	het	RPT5b	RPT6a	5	6	12326	2001
+Suld_11_0241	Europe	East Atlantic	Suldalslaagen	het	RHT10e	QHK5a	10	5	42253	2001
+Suld_11_0270	Europe	East Atlantic	Suldalslaagen	het	QHK7c	QDT9a	7	9	27395	2001
+Suld_11_0287	Europe	East Atlantic	Suldalslaagen	het	RHT10b	RPT8a	10	8	31754	2001
+Suld_11_0303	Europe	East Atlantic	Suldalslaagen	het	QHK5a	RPT6a	5	6	14006	2001
+Suld_11_0326	Europe	East Atlantic	Suldalslaagen	het	RPT5b	RPT6a	5	6	7928	2001
+Suld_11_0356	Europe	East Atlantic	Suldalslaagen	het	QHK5b	RPT6a	5	6	1263	1260
+Suld_11_0370	Europe	East Atlantic	Suldalslaagen	het	RPT6a	RPT7g	6	7	12012	2001
+Suld_11_0382	Europe	East Atlantic	Suldalslaagen	het	RPT6a	RPT8a	6	8	35740	2001
+Suld_11_0390	Europe	East Atlantic	Suldalslaagen	het	RHT10a	RPT6a	10	6	23686	2001
+Suld_11_0506	Europe	East Atlantic	Suldalslaagen	het	RPT6a	QHK8b	6	8	24013	2001
+Suld_11_0518	Europe	East Atlantic	Suldalslaagen	het	QHK5a	RPT6a	5	6	9022	2001
+Suld_11_0531	Europe	East Atlantic	Suldalslaagen	hom	QHK5a	QHK5a	5	5	1748	1740
+Suld_11_0553	Europe	East Atlantic	Suldalslaagen	het	QHK5a	QHK8b	5	8	6598	2001
+Suld_11_0593	Europe	East Atlantic	Suldalslaagen	het	QHK5b	RPT6a	5	6	9597	2001
+Suld_11_0733	Europe	East Atlantic	Suldalslaagen	het	QHK5a	RPT6a	5	6	23560	2001
+Suld_11_0772	Europe	East Atlantic	Suldalslaagen	het	QHK5a	RPT6a	5	6	17589	2001
+Suld_11_0811	Europe	East Atlantic	Suldalslaagen	het	QHK5a	RPT6a	5	6	15070	2001
+Suld_11_0820	Europe	East Atlantic	Suldalslaagen	hom	QHK5a	QHK5a	5	5	2423	2001
+Suld_11_0821	Europe	East Atlantic	Suldalslaagen	het	RPT8a	QHK9a	8	9	6122	2001
+Sylt_12_0004	Europe	East Atlantic	Sylteelva	het	RPT6a	QHK9a	6	9	12235	2001
+Sylt_12_0019	Europe	East Atlantic	Sylteelva	hom	RPT6a	RPT6a	6	6	5646	2001
+Sylt_12_0024	Europe	East Atlantic	Sylteelva	het	RPT6a	QDT6a	6	6	6017	2001
+Sylt_12_0045	Europe	East Atlantic	Sylteelva	het	RPT6a	RPT8a	6	8	1650	1645
+Sylt_12_0055	Europe	East Atlantic	Sylteelva	het	QHK5a	RPT8b	5	8	13788	2001
+Sylt_12_0060	Europe	East Atlantic	Sylteelva	het	QHK5a	RPT6a	5	6	1133	1131
+Sylt_12_0080	Europe	East Atlantic	Sylteelva	het	RPT6a	QHK9a	6	9	12453	2001
+Sylt_12_0083	Europe	East Atlantic	Sylteelva	het	RPT6a	QHK9a	6	9	5860	2001
+Sylt_12_0085	Europe	East Atlantic	Sylteelva	het	QHK5a	RPT6a	5	6	2312	2001
+Sylt_12_0090	Europe	East Atlantic	Sylteelva	het	QHK5b	RPT6a	5	6	16073	2001
+Sylt_12_0100	Europe	East Atlantic	Sylteelva	het	QHK5a	RPT6a	5	6	58121	2001
+Sylt_12_0103	Europe	East Atlantic	Sylteelva	het	RHT10a	RHT10b	10	10	33196	2001
+Sylt_12_0105	Europe	East Atlantic	Sylteelva	het	QHK5a	RPT6a	5	6	17632	2001
+Toda_12_0001	Europe	East Atlantic	Todalselva	hom	RPT6a	RPT6a	6	6	18302	2001
+Toda_12_0010	Europe	East Atlantic	Todalselva	het	QHK5a	RPT8a	5	8	25712	2001
+Toda_12_0014	Europe	East Atlantic	Todalselva	het	QHK5a	QHK8b	5	8	16282	2001
+Toda_12_0015	Europe	East Atlantic	Todalselva	het	QDT6b	RPT6a	6	6	1213	1213
+Tres_12_0016	Europe	East Atlantic	Tressa	het	RHT10a	QHK8b	10	8	4116	2001
+Tres_12_0018	Europe	East Atlantic	Tressa	het	RHT10a	RPT6a	10	6	2822	2001
+Tres_12_0020	Europe	East Atlantic	Tressa	het	RPT6a	QDT9a	6	9	6276	2001
+Tres_12_0021	Europe	East Atlantic	Tressa	het	RHT10a	RPT6a	10	6	8875	2001
+Tres_12_0022	Europe	East Atlantic	Tressa	het	RPT6a	QHK8a	6	8	4845	2001
+Tres_12_0023	Europe	East Atlantic	Tressa	het	QHK5a	RPT6a	5	6	1256	1254
+Tres_12_0025	Europe	East Atlantic	Tressa	hom	RPT5b	RPT5b	5	5	7697	2001
+Tres_12_0027	Europe	East Atlantic	Tressa	het	RHT10a	RPT6a	10	6	12564	2001
+Vike_12_0002	Europe	East Atlantic	Vikedalselva	hom	RPT6a	RPT6a	6	6	39028	2001
+Vike_12_0006	Europe	East Atlantic	Vikedalselva	het	QHK5a	RPT6a	5	6	25443	2001
+Vike_12_0008	Europe	East Atlantic	Vikedalselva	het	RPT6a	QHK8a	6	8	13824	2001
+Vike_12_0013	Europe	East Atlantic	Vikedalselva	het	RHT10a	RPT6a	10	6	6550	2001
+Vike_12_0014	Europe	East Atlantic	Vikedalselva	het	RHT8b	QHK8a	8	8	12483	2001
+Vike_12_0015	Europe	East Atlantic	Vikedalselva	het	RHT10a	QHK8b	10	8	1330	1325
+Vike_12_0020	Europe	East Atlantic	Vikedalselva	het	RPT6a	QHK8a	6	8	1435	1433
+Vike_12_0021	Europe	East Atlantic	Vikedalselva	het	QHK5b	RPT6a	5	6	5461	2001
+Vike_12_0025	Europe	East Atlantic	Vikedalselva	het	RHT10b	RPT6a	10	6	13832	2001
+Vike_12_0045	Europe	East Atlantic	Vikedalselva	het	RPT5b	QHK8b	5	8	1340	1338
+Vike_12_0047	Europe	East Atlantic	Vikedalselva	het	QHK5a	RPT6a	5	6	5696	2001
+Vike_12_0050	Europe	East Atlantic	Vikedalselva	het	RHT10a	RPT6a	10	6	1144	1136
+Vorm_11_0012	Europe	East Atlantic	Vorma	het	RPT6a	QDT9a	6	9	3332	2001
+Vorm_11_0029	Europe	East Atlantic	Vorma	het	RHT10a	RPT6a	10	6	1888	1886
+Vorm_11_0035	Europe	East Atlantic	Vorma	hom	RPT6a	RPT6a	6	6	12159	2001
+Vorm_11_0039	Europe	East Atlantic	Vorma	hom	QDT9a	QDT9a	9	9	13857	2001
+Vorm_11_0085	Europe	East Atlantic	Vorma	het	QHK5a	RPT6a	5	6	28476	2001
+Vorm_11_0137	Europe	East Atlantic	Vorma	hom	RPT6a	RPT6a	6	6	6383	2001
+Vorm_11_0147	Europe	East Atlantic	Vorma	het	RHT10a	RPT6a	10	6	4797	2001
+Vorm_11_0181	Europe	East Atlantic	Vorma	het	RHT10a	RPT6a	10	6	12390	2001
+Vorm_11_0192	Europe	East Atlantic	Vorma	het	QDT6a	RPT6a	6	6	3225	2001
+Vorm_11_0228	Europe	East Atlantic	Vorma	het	RPT8a	RPT8b	8	8	5959	2001
+Vorm_11_0248	Europe	East Atlantic	Vorma	het	RHT10a	RPT6a	10	6	4972	2001
+Vorm_11_0249	Europe	East Atlantic	Vorma	het	RPT6a	QDT9a	6	9	12036	2001
+Vorm_11_0250	Europe	East Atlantic	Vorma	hom	RPT6a	RPT6a	6	6	2570	2001
+Vorm_11_0267	Europe	East Atlantic	Vorma	het	RHT10b	RPT6a	10	6	2473	2001
+Vorm_11_0270	Europe	East Atlantic	Vorma	het	QHK5b	QHK8a	5	8	3905	2001
+Vorm_11_0297	Europe	East Atlantic	Vorma	het	QHK5a	RPT6a	5	6	8012	2001
+WAB-01	North America	Newfoundland	Western Arm Brook	het	RHT10a	QHK4a	10	4	13863	2001
+WAB-04	North America	Newfoundland	Western Arm Brook	het	QHK4a	RPT6a	4	6	25572	2001
+WAB-13	North America	Newfoundland	Western Arm Brook	hom	QHK4a	QHK4a	4	4	30961	2001
+WAB-14	North America	Newfoundland	Western Arm Brook	het	QHK4a	RPT6a	4	6	2200	2001
+WAB-15	North America	Newfoundland	Western Arm Brook	hom	QHK4a	QHK4a	4	4	28536	2001
+WAB-21	North America	Newfoundland	Western Arm Brook	hom	RPT6a	RPT6a	6	6	9910	2001
+WAB-23	North America	Newfoundland	Western Arm Brook	het	QHK4a	QDT8a	4	8	18724	2001
+WAB-28-R37	North America	Newfoundland	Western Arm Brook	het	QHK4a	RPT6a	4	6	6633	2001
+WAB-33	North America	Newfoundland	Western Arm Brook	het	QHK4a	RPT6a	4	6	41066	2001
+WAB-35	North America	Newfoundland	Western Arm Brook	het	QHK4a	RHT6a	4	6	17927	2001
+WAB-38	North America	Newfoundland	Western Arm Brook	het	RHT10a	QDT8a	10	8	9632	2001
+WAB-40-R49	North America	Newfoundland	Western Arm Brook	hom	QHK4a	QHK4a	4	4	11583	2001
+WAB-42	North America	Newfoundland	Western Arm Brook	hom	QHK4a	QHK4a	4	4	20455	2001
+WAB-46	North America	Newfoundland	Western Arm Brook	hom	QHK4a	QHK4a	4	4	24162	2001
+WAB-48	North America	Newfoundland	Western Arm Brook	het	QHK4a	RPT6a	4	6	17878	2001
+WAB-54	North America	Newfoundland	Western Arm Brook	hom	QHK4a	QHK4a	4	4	12223	2001
+WAB-62	North America	Newfoundland	Western Arm Brook	het	QHK4a	RPT6a	4	6	20828	2001
+WAB-69	North America	Newfoundland	Western Arm Brook	het	RHT10a	RPT6a	10	6	16007	2001
+WAB-70	North America	Newfoundland	Western Arm Brook	het	RHT10a	QHK4a	10	4	15926	2001
+WLN-31	North America	Newfoundland	Wild Cove	hom	RHT10a	RHT10a	10	10	4699	2001
+WLN-52	North America	Newfoundland	Wild Cove	hom	RHT10c	RHT10c	10	10	3604	2001
+WLN-53	North America	Newfoundland	Wild Cove	het	RHT10a	QHK5b	10	5	4043	2001
+WLN-54	North America	Newfoundland	Wild Cove	hom	RHT10a	RHT10a	10	10	7316	2001
+WLN-55	North America	Newfoundland	Wild Cove	hom	QHK5a	QHK5a	5	5	16114	2001
+WLN-56	North America	Newfoundland	Wild Cove	het	RHT10a	QHK5b	10	5	2433	2001
+WLN-60	North America	Newfoundland	Wild Cove	het	RHT10a	QHK5b	10	5	11010	2001
+WLN-61	North America	Newfoundland	Wild Cove	het	QHK5b	QHK5a	5	5	3796	2001
+WLN-63	North America	Newfoundland	Wild Cove	het	RHT10a	QHK5b	10	5	6116	2001
+WLN-68	North America	Newfoundland	Wild Cove	het	RHT10a	RHT10c	10	10	5375	2001
+WLN-69	North America	Newfoundland	Wild Cove	het	RHT10a	RHT10c	10	10	4833	2001
+WLN-71	North America	Newfoundland	Wild Cove	het	RHT6a	RPT6a	6	6	8524	2001
+WLN-72	North America	Newfoundland	Wild Cove	hom	QHK4a	QHK4a	4	4	9124	2001
+WLN-76	North America	Newfoundland	Wild Cove	het	RHT10a	RPT6a	10	6	6878	2001
+WLN-77	North America	Newfoundland	Wild Cove	het	RHT10a	RHT6a	10	6	6819	2001
+WLN-78	North America	Newfoundland	Wild Cove	het	RHT10a	RHT10c	10	10	2975	2001
+WLN-82	North America	Newfoundland	Wild Cove	hom	QHK5a	QHK5a	5	5	13489	2001
+WLN-83	North America	Newfoundland	Wild Cove	het	RHT10a	RPT6a	10	6	8818	2001
+WLN-84	North America	Newfoundland	Wild Cove	het	RHT10a	QHK5a	10	5	8548	2001
+Transpose_Alto	Europe	NA	Transpose	het	RPT6a	RPT8b	6	8	9757	2001
+Transpose_Arnold	Europe	NA	Transpose	het	QHK10a	RPT6a	10	6	8787	2001
+Transpose_Barry	Europe	NA	Transpose	hom	RPT6a	RPT6a	6	6	14267	2001
+Transpose_Bond	North America	NA	Transpose	het	QHK4a	RHT6a	4	6	15880	2001
+Transpose_Brian	North America	NA	Transpose	het	QHK5b	RPT6a	5	6	4856	2001
+Transpose_Louis	North America	NA	Transpose	hom	RHT6a	RHT6a	6	6	10864	2001
+Transpose_Tanner	Europe	NA	Transpose	het	RPT6a	RPT8b	6	8	12480	2001
+Transpose_Tess	Europe	NA	Transpose	hom	RPT6a	RPT6a	6	6	9472	2001
+2008010416A1A4C1	Aquaculture	NA	NA	het	QHK5a	RPT6a	5	6	2033	1918
+2011010412315626	Aquaculture	NA	NA	het	QHK5a	RPT6a	5	6	6212	2001
+201101041231EE78	Aquaculture	NA	NA	hom	RPT6a	RPT6a	6	6	29758	2001
+201101041311EFDC	Aquaculture	NA	NA	hom	RPT6a	RPT6a	6	6	4608	2001
+201101041311F1C5	Aquaculture	NA	NA	het	QHK5a	RPT6a	5	6	10603	2001
+20110104131215E3	Aquaculture	NA	NA	het	QHK5a	RPT6a	5	6	43556	2001
+201101041312EF0C	Aquaculture	NA	NA	het	QHK5a	RPT6a	5	6	7270	2001
+20110104169F4A32	Aquaculture	NA	NA	het	RPT6a	QDT9a	6	9	6478	2001
+2011010416A1ABF4	Aquaculture	NA	NA	het	RHT10d	QDT9a	10	9	2879	2001
+2011010416A23D36	Aquaculture	NA	NA	hom	RPT6a	RPT6a	6	6	12675	2001
+2011010416AC10D3	Aquaculture	NA	NA	het	RHT10d	QHK5b	10	5	10751	2001
+2011010416AC2327	Aquaculture	NA	NA	het	QHK5b	RPT6a	5	6	10354	2001
+2011010416B03B74	Aquaculture	NA	NA	hom	RPT6a	RPT6a	6	6	18641	2001
+2011010416B07B97	Aquaculture	NA	NA	het	QHK5b	RPT6a	5	6	1118	1084
+2011010416B07E49	Aquaculture	NA	NA	hom	RPT6a	RPT6a	6	6	4618	2001
+2011010416B0857F	Aquaculture	NA	NA	het	QHK5a	RPT6a	5	6	10659	2001
+20110104179A64A7	Aquaculture	NA	NA	hom	QHK5a	QHK5a	5	5	12218	2001
+20110104179A7EEC	Aquaculture	NA	NA	het	RPT6a	QHK8a	6	8	12814	2001
+20110104179A9729	Aquaculture	NA	NA	hom	RPT6a	RPT6a	6	6	29420	2001
+20110104179AC823	Aquaculture	NA	NA	het	QHK5a	RPT6a	5	6	1668	1661
+20110104179AD748	Aquaculture	NA	NA	het	RPT6a	QDT9a	6	9	2164	2001
+20110104179AD763	Aquaculture	NA	NA	hom	RPT6a	RPT6a	6	6	2477	2001
+20110104179AE28A	Aquaculture	NA	NA	het	QHK5b	RPT6a	5	6	5978	2001
+20110104179AEAA0	Aquaculture	NA	NA	het	QHK5a	RPT6a	5	6	4536	2001
+20110104179AEC6C	Aquaculture	NA	NA	het	QHK5a	QDT9a	5	9	1840	1836
+20110104179B0000	Aquaculture	NA	NA	hom	RPT6a	RPT6a	6	6	4981	2001
+20110104179B0083	Aquaculture	NA	NA	het	QHK5a	QHK8a	5	8	7260	2001
+20110104179B045E	Aquaculture	NA	NA	het	QHK5b	RPT6a	5	6	2632	2001
+20110104179B056C	Aquaculture	NA	NA	hom	RPT6a	RPT6a	6	6	1389	1386
+20110104179B0585	Aquaculture	NA	NA	hom	RPT6a	RPT6a	6	6	12149	2001
+20110104179B05A2	Aquaculture	NA	NA	het	RPT6a	QDT9a	6	9	1838	1834
+20110104179B0642	Aquaculture	NA	NA	hom	RPT6a	RPT6a	6	6	2237	2001
+20110104179B084A	Aquaculture	NA	NA	hom	RPT6a	RPT6a	6	6	33680	2001
+20110104179B0D4D	Aquaculture	NA	NA	het	QHK5b	RPT6a	5	6	1291	1291
+20110104179B23AB	Aquaculture	NA	NA	hom	RPT6a	RPT6a	6	6	8160	2001
+20120104177E02FF	Aquaculture	NA	NA	het	RPT6a	QDT9a	6	9	6531	2001
+20120104177E0329	Aquaculture	NA	NA	het	RHT10b	RPT6a	10	6	12430	2001
+20120104177E4299	Aquaculture	NA	NA	hom	RPT6a	RPT6a	6	6	7552	2001
+20120104177E4822	Aquaculture	NA	NA	hom	RPT6a	RPT6a	6	6	4935	2001
+20120104177F0D4E	Aquaculture	NA	NA	het	RPT6a	QHK8a	6	8	7325	2001
+20120104177F0FFD	Aquaculture	NA	NA	het	QHK5a	RPT6a	5	6	14918	2001
+20120104177F13B1	Aquaculture	NA	NA	hom	RPT6a	RPT6a	6	6	23885	2001
+20120104177F4996	Aquaculture	NA	NA	hom	RPT6a	RPT6a	6	6	4356	2001
+20120104177F6BB9	Aquaculture	NA	NA	hom	RPT6a	RPT6a	6	6	13896	2001
+201201041791C0EB	Aquaculture	NA	NA	het	QHK5a	RPT6a	5	6	25547	2001
+201201041791C74E	Aquaculture	NA	NA	hom	QHK5a	QHK5a	5	5	17077	2001
+201201041791E124	Aquaculture	NA	NA	het	QHK5a	RPT6a	5	6	1878	1869
+201201041791E450	Aquaculture	NA	NA	hom	RPT6a	RPT6a	6	6	10551	2001
+201201041791F9F0	Aquaculture	NA	NA	hom	RPT6a	RPT6a	6	6	18755	2001
+20120104179202D8	Aquaculture	NA	NA	het	RPT6a	QDT6b	6	6	9309	2001
+2012010417922561	Aquaculture	NA	NA	hom	RPT6a	RPT6a	6	6	3594	2001
+2014010418947D06	Aquaculture	NA	NA	het	QHK5a	RPT6a	5	6	27354	2001
+2014010418948BDA	Aquaculture	NA	NA	het	RHT10a	RPT6a	10	6	4393	2001
+2014010418950066	Aquaculture	NA	NA	hom	RPT6a	RPT6a	6	6	56902	2001
+2014010418950359	Aquaculture	NA	NA	hom	RPT6a	RPT6a	6	6	29264	2001
+2014010418950432	Aquaculture	NA	NA	het	QHK5a	RPT6a	5	6	3464	2001
+2014010418950D56	Aquaculture	NA	NA	het	RPT6a	QDT9a	6	9	13505	2001
+2014010418957044	Aquaculture	NA	NA	hom	RPT6a	RPT6a	6	6	42634	2001
+201401041895918B	Aquaculture	NA	NA	hom	RPT6a	RPT6a	6	6	18749	2001
+2015010007837E5A	Aquaculture	NA	NA	het	RPT6a	QDT9a	6	9	6196	2001
+20150100078405D5	Aquaculture	NA	NA	het	QHK5a	RPT6a	5	6	2192	2001
+2015010007843425	Aquaculture	NA	NA	het	RPT6a	QHK8a	6	8	4242	2001
+2015010007843865	Aquaculture	NA	NA	hom	RPT6a	RPT6a	6	6	7012	2001
+201501000784E6E5	Aquaculture	NA	NA	het	RPT6b	QDT9a	6	9	11719	2001
+201501000784E85E	Aquaculture	NA	NA	het	RPT6a	QHK8a	6	8	4331	2001
+2015010007856DBB	Aquaculture	NA	NA	hom	RPT6a	RPT6a	6	6	12916	2001
+Transpose_Simon	Aquaculture	NA	NA	het	RHT6a	QDT8a	6	8	5708	2001
+20150100078373D1	Aquaculture	NA	NA	het	QHK5a	RPT6a	5	6	12234	2001
+20150100078437C0	Aquaculture	NA	NA	het	QHK5a	RPT6a	5	6	5737	2001
+20140104189472BF	Aquaculture	NA	NA	het	QHK5a	RPT6a	5	6	8726	2001
+2015010007856DBB	Aquaculture	NA	NA	hom	RPT6a	RPT6a	6	6	5575	2001
+2015010007871F28	Aquaculture	NA	NA	het	QHK5a	RPT6a	5	6	5648	2001
+201501000783253E	Aquaculture	NA	NA	het	QHK5a	QDT6b	5	6	6024	2001
+201501000784E85E	Aquaculture	NA	NA	het	RPT6a	QHK8a	6	8	1484	1478
+2015010007858103	Aquaculture	NA	NA	hom	RPT6a	RPT6a	6	6	8913	2001
+2015010007837E5A	Aquaculture	NA	NA	het	RPT6a	QDT9a	6	9	3868	2001
+2015010007853FC9	Aquaculture	NA	NA	het	QHK5b	RPT6a	5	6	1180	1180
+2015010007836C90	Aquaculture	NA	NA	hom	RPT6a	RPT6a	6	6	4156	2001
+2015010007851079	Aquaculture	NA	NA	het	QHK5a	RPT6a	5	6	7784	2001
+2015010007872477	Aquaculture	NA	NA	hom	RPT6a	RPT6a	6	6	5923	2001
+2015010007843865	Aquaculture	NA	NA	hom	RPT6a	RPT6a	6	6	2887	2001
+20150100078405D5	Aquaculture	NA	NA	het	QHK5a	RPT6a	5	6	5120	2001
+201501000784E6E5	Aquaculture	NA	NA	het	RPT6b	QDT9a	6	9	13690	2001
+201201041791F867	Aquaculture	NA	NA	het	QHK5b	RPT6a	5	6	10734	2001
+201201041791FC45	Aquaculture	NA	NA	het	RPT6a	QDT9a	6	9	9312	2001
+20120104177F4B9A	Aquaculture	NA	NA	het	RPT6a	QDT9a	6	9	3994	2001
+20120104177E6513	Aquaculture	NA	NA	hom	QHK5a	QHK5a	5	5	7210	2001
+2012010417924E4C	Aquaculture	NA	NA	het	RHT10d	RPT6a	10	6	6852	2001
+201501041A42F6E1	Aquaculture	NA	NA	het	QHK5a	RPT6a	5	6	2564	2001
+201501041A42FE2B	Aquaculture	NA	NA	het	RHT10d	QDT6b	10	6	4006	2001
+2015010419E7F334	Aquaculture	NA	NA	het	RHT10b	RPT6a	10	6	11769	2001
+201501041A462184	Aquaculture	NA	NA	het	QHK5a	QDT9a	5	9	5992	2001
+201501041A4301F1	Aquaculture	NA	NA	hom	RPT6a	RPT6a	6	6	1645	1641
+2015010419E78AF9	Aquaculture	NA	NA	het	RHT10b	QDT9a	10	9	1237	1234
+201501041A42FF46	Aquaculture	NA	NA	het	QHK5a	QDT9a	5	9	5769	2001
+201501041A4615E0	Aquaculture	NA	NA	het	RHT10d	RPT6a	10	6	5667	2001
+2015010419E7B21F	Aquaculture	NA	NA	het	RHT10b	QHK5a	10	5	1461	1452
+201501041A461DA7	Aquaculture	NA	NA	hom	RPT6a	RPT6a	6	6	4887	2001
+201501041A45FE11	Aquaculture	NA	NA	het	RPT6a	QDT9a	6	9	11173	2001
+201501041A45FC28	Aquaculture	NA	NA	het	QHK5a	QDT9a	5	9	8663	2001
+201501041A461B33	Aquaculture	NA	NA	het	QHK5b	RPT6a	5	6	14344	2001
+201501041A461700	Aquaculture	NA	NA	hom	RPT6a	RPT6a	6	6	5033	2001
+201501041A42FD9E	Aquaculture	NA	NA	hom	RPT6a	RPT6a	6	6	6512	2001
+201501041A42F365	Aquaculture	NA	NA	het	QDT6b	RPT6a	6	6	2380	2001
+2015010419E7A62C	Aquaculture	NA	NA	het	RPT6a	QDT9a	6	9	3516	2001
+201501041A42FD9C	Aquaculture	NA	NA	hom	RPT6a	RPT6a	6	6	12171	2001
+201501041A42F2FC	Aquaculture	NA	NA	hom	RPT6a	RPT6a	6	6	11594	2001
+201501041A461656	Aquaculture	NA	NA	het	QHK5a	RPT6a	5	6	5286	2001
+201501041A42F432	Aquaculture	NA	NA	het	QHK5a	RPT6a	5	6	6546	2001
+2015010419E76F8F	Aquaculture	NA	NA	het	RHT10b	QHK5a	10	5	3597	2001
+20140104190199F0	Aquaculture	NA	NA	het	RPT6a	QHK8a	6	8	1293	1291
+201401041901B38A	Aquaculture	NA	NA	hom	QHK5a	QHK5a	5	5	1328	1327
+20140104190183E2	Aquaculture	NA	NA	het	QHK10a	RPT6a	10	6	1187	1180
+201401041901CE9F	Aquaculture	NA	NA	hom	RPT6a	RPT6a	6	6	3596	2001
+201401041901A74E	Aquaculture	NA	NA	het	QHK5a	RPT6a	5	6	1241	1236
+2014010419016B17	Aquaculture	NA	NA	hom	RPT6a	RPT6a	6	6	2986	2001
+201401041901C4F8	Aquaculture	NA	NA	het	QHK10a	QHK5a	10	5	1384	1348
+20140104190198F2	Aquaculture	NA	NA	het	RPT6a	QHK8a	6	8	1351	1349
+2014010419018F75	Aquaculture	NA	NA	hom	RPT6a	RPT6a	6	6	7756	2001
+2016010419E13B13	Aquaculture	NA	NA	hom	RPT6a	RPT6a	6	6	10437	2001
+2016010418F97BC5	Aquaculture	NA	NA	het	RPT6a	QDT9a	6	9	10741	2001
+2016010419E1108B	Aquaculture	NA	NA	hom	RPT6a	RPT6a	6	6	6620	2001
+20160104189E1A85	Aquaculture	NA	NA	het	QHK5a	RPT6a	5	6	3101	2001
+20160104189E3EAD	Aquaculture	NA	NA	het	QHK5b	RPT6a	5	6	6120	2001
+2016010419D27E5E	Aquaculture	NA	NA	het	QHK5b	RPT6a	5	6	8241	2001
+2016010415826D20	Aquaculture	NA	NA	het	QHK5a	RPT6a	5	6	23267	2001
+2016010419023E24	Aquaculture	NA	NA	het	RPT6a	QDT9a	6	9	7328	2001
+2016010418BFB5DD	Aquaculture	NA	NA	hom	RPT6a	RPT6a	6	6	8603	2001
+2016010416B04EF7	Aquaculture	NA	NA	hom	RPT6a	RPT6a	6	6	6286	2001
+2016010419CF688B	Aquaculture	NA	NA	het	QHK5a	RPT6a	5	6	3820	2001
+20160104189BAB6A	Aquaculture	NA	NA	hom	RPT6a	RPT6a	6	6	5894	2001
+2016010419D25DDE	Aquaculture	NA	NA	het	QHK5a	RPT6a	5	6	1087	1085
+201601041878D9C9	Aquaculture	NA	NA	het	QHK5a	RPT6a	5	6	3364	2001
+2016010416AFB63A	Aquaculture	NA	NA	het	QHK5a	RPT6a	5	6	18188	2001
+2016010418C01267	Aquaculture	NA	NA	het	QHK5a	RPT6a	5	6	9243	2001
+2016010418F94FE7	Aquaculture	NA	NA	hom	RPT6a	RPT6a	6	6	7834	2001
+2016010419CF5802	Aquaculture	NA	NA	het	QHK5a	RPT6a	5	6	3084	2001
+20160104189E4A0B	Aquaculture	NA	NA	het	QHK5a	RPT6a	5	6	1844	1816
+201601041901625F	Aquaculture	NA	NA	het	QHK5a	RPT6a	5	6	3906	2001
+2016010418BFA206	Aquaculture	NA	NA	het	QHK5a	RPT6a	5	6	4669	2001
+2016010418B1EE67	Aquaculture	NA	NA	het	QHK5a	RPT6a	5	6	17918	2001
+2016010418C25428	Aquaculture	NA	NA	het	QHK5a	RPT6a	5	6	8261	2001
+2016010418C6015C	Aquaculture	NA	NA	het	QHK5a	RPT6a	5	6	5847	2001
+2016010418BFFDC6	Aquaculture	NA	NA	het	QHK8a	QDT9a	8	9	2702	2001
+2016010418BFE105	Aquaculture	NA	NA	hom	RPT6a	RPT6a	6	6	9841	2001
+2016010419CF08D4	Aquaculture	NA	NA	hom	RPT6a	RPT6a	6	6	2629	2001
+20160104190194AA	Aquaculture	NA	NA	het	QHK5a	RPT6a	5	6	1372	1372
+2016010419CF79D8	Aquaculture	NA	NA	het	QHK5a	RPT6a	5	6	3039	2001
+2016010419CF0046	Aquaculture	NA	NA	het	QHK5a	RPT6a	5	6	7592	2001
+2016010418256FCF	Aquaculture	NA	NA	het	QHK5a	RPT6a	5	6	1424	1422
+201601041A04BC2E	Aquaculture	NA	NA	het	QHK5a	QDT6b	5	6	9117	2001
+201601041A046AF8	Aquaculture	NA	NA	hom	RPT6a	RPT6a	6	6	22826	2001
+2016010419E12AB6	Aquaculture	NA	NA	het	QHK5a	RPT6a	5	6	8604	2001
+20160104181DED55	Aquaculture	NA	NA	hom	RPT6a	RPT6a	6	6	13773	2001
+20160104181DE90D	Aquaculture	NA	NA	hom	RPT6a	RPT6a	6	6	7260	2001
+2016010419D26107	Aquaculture	NA	NA	hom	RPT6a	RPT6a	6	6	5003	2001
+20160104189E15AC	Aquaculture	NA	NA	hom	RPT6a	RPT6a	6	6	4451	2001
+2016010418731B4A	Aquaculture	NA	NA	het	QHK5a	QHK5b	5	5	9605	2001
+2016010419CEE5CC	Aquaculture	NA	NA	het	QHK5b	RPT6a	5	6	6458	2001
+2015010417080CEB	Aquaculture	NA	NA	het	QHK5a	RPT6a	5	6	4694	2001
+2015010418C60B77	Aquaculture	NA	NA	het	QHK5a	RPT6a	5	6	3056	2001
+2015010416AFC125	Aquaculture	NA	NA	hom	RPT6a	RPT6a	6	6	3610	2001
+2015010418F959C8	Aquaculture	NA	NA	het	QHK5a	RPT6a	5	6	11065	2001
+2015010418C5F4F3	Aquaculture	NA	NA	het	QHK5a	QDT9a	5	9	6974	2001
+20150104178313B2	Aquaculture	NA	NA	het	RPT6a	QDT9a	6	9	4686	2001
+201501041901AF59	Aquaculture	NA	NA	hom	RPT6a	RPT6a	6	6	10921	2001
+2015010417D147B3	Aquaculture	NA	NA	hom	RPT6a	RPT6a	6	6	12864	2001
+2015010418C01D24	Aquaculture	NA	NA	hom	RPT6a	RPT6a	6	6	2829	2001
+2015010418253B95	Aquaculture	NA	NA	het	QHK5a	RPT6a	5	6	1232	1198
+2015010418C6024F	Aquaculture	NA	NA	het	RPT6a	QDT9a	6	9	1538	1536
+201501041782D0DE	Aquaculture	NA	NA	het	QHK5a	QDT9a	5	9	3411	2001
+2015010418BFC9EA	Aquaculture	NA	NA	het	QHK5a	RPT6a	5	6	12100	2001
+20150104170697EB	Aquaculture	NA	NA	hom	RPT6a	RPT6a	6	6	7603	2001
+20150104190230A5	Aquaculture	NA	NA	hom	RPT6a	RPT6a	6	6	11318	2001
+201501041782D1C7	Aquaculture	NA	NA	het	QHK5a	RPT6a	5	6	2143	2001
+2011010411E24555	Aquaculture	NA	NA	het	QHK5a	RPT6a	5	6	2820	2001
+20110104179B084A	Aquaculture	NA	NA	hom	RPT6a	RPT6a	6	6	11769	2001
+20120104177F13BE	Aquaculture	NA	NA	het	QHK5a	RPT6a	5	6	20878	2001
+201201041791E3F1	Aquaculture	NA	NA	het	QHK5a	RPT6a	5	6	15651	2001
+20120104177EEC60	Aquaculture	NA	NA	het	RPT6a	QHK8a	6	8	12918	2001
+20120104177D875B	Aquaculture	NA	NA	het	QHK5a	RPT6a	5	6	9330	2001
+20120104177F442D	Aquaculture	NA	NA	het	RPT6a	RPT6b	6	6	8357	2001
+20120104177DCE74	Aquaculture	NA	NA	het	RPT6a	QHK8a	6	8	8966	2001
+20120104177F0FFD	Aquaculture	NA	NA	het	QHK5a	QHK8a	5	8	2367	2001
+20120104177D9B90	Aquaculture	NA	NA	het	RPT6a	QHK8a	6	8	5771	2001
+20120104179227AA	Aquaculture	NA	NA	hom	RPT6a	RPT6a	6	6	17044	2001
+20120104177DD66A	Aquaculture	NA	NA	hom	RPT6a	RPT6a	6	6	9985	2001
+20120104177EFBA2	Aquaculture	NA	NA	het	QHK5a	RPT6a	5	6	13412	2001
+201201041791E4F5	Aquaculture	NA	NA	het	RPT6a	QDT6b	6	6	12891	2001
+20120104177F6B53	Aquaculture	NA	NA	hom	RPT6a	RPT6a	6	6	11019	2001
+20120104177F8016	Aquaculture	NA	NA	het	RHT10b	RPT6a	10	6	1679	1679
+201201041791B801	Aquaculture	NA	NA	het	QHK5b	RPT6a	5	6	6943	2001
+20120104177F5B3C	Aquaculture	NA	NA	hom	RPT6a	RPT6a	6	6	21870	2001
+20120104177D764F	Aquaculture	NA	NA	het	RHT10d	QDT6b	10	6	13693	2001
+20120104177F6D6A	Aquaculture	NA	NA	hom	RPT6a	RPT6a	6	6	14052	2001
+2012010417920723	Aquaculture	NA	NA	het	RPT6a	QHK8a	6	8	6212	2001
+20120104177E071C	Aquaculture	NA	NA	het	QHK5a	RPT6a	5	6	8040	2001
+2012010417920F3A	Aquaculture	NA	NA	het	RPT6a	QDT6b	6	6	13947	2001
+20120104179A7443	Aquaculture	NA	NA	hom	RPT6a	RPT6a	6	6	2203	2001
+201201041791B631	Aquaculture	NA	NA	hom	RPT6a	RPT6a	6	6	5893	2001
+201201041770D783	Aquaculture	NA	NA	hom	RPT6a	RPT6a	6	6	18697	2001
+20120104177E02FF	Aquaculture	NA	NA	het	RPT6a	QDT9a	6	9	10987	2001
+2012010417920C2B	Aquaculture	NA	NA	hom	RPT6a	RPT6a	6	6	7225	2001
+201201041774A671	Aquaculture	NA	NA	het	RPT6a	QDT9a	6	9	4833	2001
+20120104177F28B0	Aquaculture	NA	NA	het	QHK5a	RPT6a	5	6	10619	2001
+20120104177EF626	Aquaculture	NA	NA	het	RPT6a	RPT6b	6	6	8573	2001
+201201041791BCE2	Aquaculture	NA	NA	het	QHK5a	RPT6a	5	6	1967	1951
+20120104177E4993	Aquaculture	NA	NA	het	RPT5b	RPT6a	5	6	7878	2001
+20120104179B1C8A	Aquaculture	NA	NA	het	QHK5a	RPT6a	5	6	22460	2001
+2012010417922411	Aquaculture	NA	NA	het	RHT10d	RPT6a	10	6	8038	2001
+2012010417920016	Aquaculture	NA	NA	hom	RPT6a	RPT6a	6	6	17416	2001
+20120104177F61D9	Aquaculture	NA	NA	het	RPT6a	QDT9a	6	9	5675	2001
+20120104177F13B1	Aquaculture	NA	NA	hom	RPT6a	RPT6a	6	6	3926	2001
+20120104177F4996	Aquaculture	NA	NA	hom	RPT6a	RPT6a	6	6	9364	2001
+201201041770C3BD	Aquaculture	NA	NA	het	RHT10d	RPT6a	10	6	2832	2001
+20120104177E1CCE	Aquaculture	NA	NA	het	RPT6a	QDT9a	6	9	6544	2001
+20120104177F884A	Aquaculture	NA	NA	hom	RPT6a	RPT6a	6	6	9198	2001
+201201041791FC69	Aquaculture	NA	NA	hom	RPT6a	RPT6a	6	6	25734	2001
+20120104177D829E	Aquaculture	NA	NA	het	RHT10a	QHK8a	10	8	5018	2001
+201201041791CDC7	Aquaculture	NA	NA	het	QHK5a	RPT6a	5	6	5632	2001
+20120104177F46BD	Aquaculture	NA	NA	het	QHK5a	RPT6a	5	6	2236	2001
+20120104177F0185	Aquaculture	NA	NA	het	QHK5a	QHK8a	5	8	11380	2001
+201201041791C74E	Aquaculture	NA	NA	hom	QHK5a	QHK5a	5	5	1447	1445
+20120104177DE315	Aquaculture	NA	NA	het	QHK5a	QDT9a	5	9	4949	2001
+20120104177F2DDE	Aquaculture	NA	NA	het	QHK5a	RPT6a	5	6	6898	2001
+20120104177E26F4	Aquaculture	NA	NA	het	RPT6a	QHK8a	6	8	20120	2001
+20120104177DA20E	Aquaculture	NA	NA	het	QHK5b	RPT6a	5	6	4290	2001
+20120104179A4B20	Aquaculture	NA	NA	het	RHT10b	QHK5a	10	5	1193	1192
+20120104177E7D8C	Aquaculture	NA	NA	hom	RPT6a	RPT6a	6	6	3634	2001
+201201041791E124	Aquaculture	NA	NA	het	QHK5a	RPT6a	5	6	11685	2001
+20120104177DB9B9	Aquaculture	NA	NA	het	RHT10d	QDT6b	10	6	4056	2001
+20120104177DDB86	Aquaculture	NA	NA	hom	RPT6a	RPT6a	6	6	8938	2001
+2012010417922BE2	Aquaculture	NA	NA	hom	RPT6a	RPT6a	6	6	5181	2001
+201201041791EF8E	Aquaculture	NA	NA	het	RPT6a	QDT9a	6	9	4492	2001
+20120104177D835B	Aquaculture	NA	NA	het	QHK5a	RPT6a	5	6	2048	2001
+20120104177E7D34	Aquaculture	NA	NA	hom	RPT6a	RPT6a	6	6	4342	2001
+201201041771569C	Aquaculture	NA	NA	het	QHK5a	RPT6a	5	6	8763	2001
+2012010417924617	Aquaculture	NA	NA	hom	RPT6a	RPT6a	6	6	7851	2001
+20120104177F12EB	Aquaculture	NA	NA	hom	RPT6a	RPT6a	6	6	11652	2001
+201201041792438A	Aquaculture	NA	NA	hom	RPT6a	RPT6a	6	6	8221	2001
+20120104177E28B4	Aquaculture	NA	NA	het	QHK5a	RPT6a	5	6	7767	2001
+20120104177DCB23	Aquaculture	NA	NA	het	QHK5a	RPT6b	5	6	8219	2001
+201201041792316E	Aquaculture	NA	NA	het	RPT6a	QHK8a	6	8	1911	1872
+201201041791CC21	Aquaculture	NA	NA	het	QHK5a	RPT6a	5	6	5965	2001
+20120104179203C5	Aquaculture	NA	NA	het	RPT6a	RPT6b	6	6	1136	1134
+20120104179AED51	Aquaculture	NA	NA	het	QHK5a	RPT6a	5	6	4293	2001
+20120104179202D8	Aquaculture	NA	NA	het	RPT6a	QDT6b	6	6	13117	2001
+20120104177E2D85	Aquaculture	NA	NA	hom	RPT6a	RPT6a	6	6	5734	2001
+201201041791E4B2	Aquaculture	NA	NA	het	QHK5a	RPT6a	5	6	8225	2001
+2012010417924E1C	Aquaculture	NA	NA	hom	RPT6a	RPT6a	6	6	2607	2001
+20120104177DE0E0	Aquaculture	NA	NA	hom	RPT6a	RPT6a	6	6	3072	2001
+2012010417921672	Aquaculture	NA	NA	hom	RPT6a	RPT6a	6	6	7891	2001
+20120104177EEA8E	Aquaculture	NA	NA	hom	RPT6a	RPT6a	6	6	2991	2001
+20120104179B2928	Aquaculture	NA	NA	het	RPT6a	QHK8a	6	8	10520	2001
+20120104177EEFAD	Aquaculture	NA	NA	hom	RPT6a	RPT6a	6	6	4694	2001
+20120104177D9D7D	Aquaculture	NA	NA	het	QDT6b	RPT6a	6	6	9968	2001
+20120104177E150D	Aquaculture	NA	NA	hom	RPT6a	RPT6a	6	6	7429	2001
+20120104177D75F6	Aquaculture	NA	NA	het	QHK5a	RPT6a	5	6	3971	2001
+20120104177F533F	Aquaculture	NA	NA	hom	RPT6a	RPT6a	6	6	3315	2001
+20120104177F67B2	Aquaculture	NA	NA	hom	RPT6a	RPT6a	6	6	9969	2001
+201201041791C30E	Aquaculture	NA	NA	het	QHK5a	RPT6a	5	6	7470	2001
+20120104177EF059	Aquaculture	NA	NA	het	QHK5a	RPT6a	5	6	4604	2001
+20120104177DADBF	Aquaculture	NA	NA	hom	RPT6a	RPT6a	6	6	7360	2001
+20120104177D81DF	Aquaculture	NA	NA	het	RPT6a	QDT6b	6	6	9829	2001
+20120104179AD12A	Aquaculture	NA	NA	hom	RPT6a	RPT6a	6	6	10269	2001
+201201041306B4AF	Aquaculture	NA	NA	het	RPT6a	QHK8a	6	8	4254	2001
+201201041791CDE5	Aquaculture	NA	NA	het	QHK5a	RPT6a	5	6	9968	2001
+20120104177F483F	Aquaculture	NA	NA	hom	RPT6a	RPT6a	6	6	18168	2001
+20120104177F06B5	Aquaculture	NA	NA	hom	RPT6a	RPT6a	6	6	8341	2001
+20120104177D7D8E	Aquaculture	NA	NA	het	RPT6a	QHK8a	6	8	12470	2001
+20120104177EF5FB	Aquaculture	NA	NA	hom	RPT6a	RPT6a	6	6	9126	2001
+20120104177EE9E2	Aquaculture	NA	NA	hom	RPT6a	RPT6a	6	6	7914	2001
+20120104177F069D	Aquaculture	NA	NA	hom	RPT6a	RPT6a	6	6	7864	2001
+20120104177E5B5B	Aquaculture	NA	NA	hom	RPT6a	RPT6a	6	6	7890	2001
+201201041791C549	Aquaculture	NA	NA	het	QHK5a	RPT6a	5	6	6436	2001
+20120104177DCD2D	Aquaculture	NA	NA	hom	RPT6a	RPT6a	6	6	13128	2001
+2012010417923B86	Aquaculture	NA	NA	hom	RPT6a	RPT6a	6	6	6821	2001
+201201041791C0EB	Aquaculture	NA	NA	het	QHK5a	RPT6a	5	6	11965	2001
+2012010417920F31	Aquaculture	NA	NA	het	RPT6a	QDT6b	6	6	5871	2001
+2012010417922353	Aquaculture	NA	NA	hom	RPT6a	RPT6a	6	6	10684	2001
+20120104177E79B2	Aquaculture	NA	NA	hom	RPT6a	RPT6a	6	6	11476	2001
+20120104177DE8D6	Aquaculture	NA	NA	hom	RPT6a	RPT6a	6	6	15906	2001
+201201041791CC41	Aquaculture	NA	NA	het	QHK5a	RPT6a	5	6	12120	2001
+20120104177F661F	Aquaculture	NA	NA	hom	RPT6a	RPT6a	6	6	17071	2001
+2012010417922A79	Aquaculture	NA	NA	hom	RPT6a	RPT6a	6	6	8669	2001
+20120104177F6BB9	Aquaculture	NA	NA	hom	RPT6a	RPT6a	6	6	8914	2001
+2012010417925334	Aquaculture	NA	NA	het	RPT6a	QHK8a	6	8	7325	2001
+201201041791C3D3	Aquaculture	NA	NA	hom	RPT6a	RPT6a	6	6	9538	2001
+20120104177E68B0	Aquaculture	NA	NA	het	QHK5a	RPT6a	5	6	11004	2001
+2012010417920715	Aquaculture	NA	NA	het	RPT6a	QHK8a	6	8	4141	2001
+20120104177DB350	Aquaculture	NA	NA	het	RPT6a	QDT9a	6	9	8657	2001
+201201041791F9F0	Aquaculture	NA	NA	hom	RPT6a	RPT6a	6	6	10763	2001
+2012010417714EC8	Aquaculture	NA	NA	het	QHK5a	RPT6a	5	6	2771	2001
+20120104177E4299	Aquaculture	NA	NA	hom	RPT6a	RPT6a	6	6	10273	2001
+2012010417923519	Aquaculture	NA	NA	het	QDT6b	RPT6a	6	6	7394	2001
+20120104177ECF78	Aquaculture	NA	NA	het	QHK5a	RPT6a	5	6	11664	2001
+2012010417921525	Aquaculture	NA	NA	hom	RPT6a	RPT6a	6	6	8289	2001
+20120104179232F1	Aquaculture	NA	NA	hom	RPT6a	RPT6a	6	6	5943	2001
+2012010417921941	Aquaculture	NA	NA	het	QHK5a	RPT6a	5	6	8902	2001
+20120104177F1AE7	Aquaculture	NA	NA	het	RPT6a	QHK8a	6	8	15768	2001
+20120104177E43B1	Aquaculture	NA	NA	hom	RPT6a	RPT6a	6	6	9759	2001
+2012010413126D9F	Aquaculture	NA	NA	het	RPT6a	QDT9a	6	9	11319	2001
+20120104177F6554	Aquaculture	NA	NA	het	QHK5a	RPT6a	5	6	12896	2001
+20120104177DA573	Aquaculture	NA	NA	het	RHT10d	QDT6b	10	6	9666	2001
+201201041791E842	Aquaculture	NA	NA	het	RHT10b	RPT6a	10	6	8707	2001
+2012010417924BF5	Aquaculture	NA	NA	het	RPT6a	QDT9a	6	9	3020	2001
+20120104177F5A9D	Aquaculture	NA	NA	hom	RPT6a	RPT6a	6	6	6676	2001
+20120104177EF6B6	Aquaculture	NA	NA	het	QHK5a	RPT6a	5	6	23597	2001
+20120104177F754D	Aquaculture	NA	NA	hom	QHK5a	QHK5a	5	5	14866	2001
+201201041791E450	Aquaculture	NA	NA	hom	RPT6a	RPT6a	6	6	13644	2001
+20120104177E0329	Aquaculture	NA	NA	het	RHT10b	RPT6a	10	6	8602	2001
+20120104177D9702	Aquaculture	NA	NA	hom	RPT6a	RPT6a	6	6	5584	2001
+201201041791B05C	Aquaculture	NA	NA	het	QHK5b	RPT6a	5	6	7297	2001
+20120104177EADCA	Aquaculture	NA	NA	het	RPT6b	RPT6a	6	6	6215	2001
+20120104177D906A	Aquaculture	NA	NA	het	QDT6b	RPT6a	6	6	11637	2001
+201201041791EF22	Aquaculture	NA	NA	het	QHK5a	RPT6a	5	6	8130	2001
+2012010417922561	Aquaculture	NA	NA	hom	RPT6a	RPT6a	6	6	5023	2001
+201201041791DC37	Aquaculture	NA	NA	het	QHK5a	QDT6b	5	6	1832	1828
+20120104179A60BE	Aquaculture	NA	NA	het	RPT6a	QHK8a	6	8	2374	2001
+20120104177DF922	Aquaculture	NA	NA	hom	RPT6a	RPT6a	6	6	9686	2001
+201201041791FBA6	Aquaculture	NA	NA	hom	RPT6a	RPT6a	6	6	2416	2001
+201201041791BE8B	Aquaculture	NA	NA	hom	RPT6a	RPT6a	6	6	3444	2001
+2012010417923B75	Aquaculture	NA	NA	het	QDT6b	RPT6a	6	6	6716	2001
+20120104179A470B	Aquaculture	NA	NA	hom	QHK5a	QHK5a	5	5	8014	2001
+20120104177F0D4E	Aquaculture	NA	NA	het	RPT6a	QHK8a	6	8	5507	2001
+201201041791D5B3	Aquaculture	NA	NA	hom	QHK5a	QHK5a	5	5	9300	2001
+20120104177DA9DB	Aquaculture	NA	NA	hom	RPT6a	RPT6a	6	6	6057	2001
+201201041791B20B	Aquaculture	NA	NA	het	RPT6a	QDT9a	6	9	14985	2001
+20120104177D847E	Aquaculture	NA	NA	hom	QDT6b	QDT6b	6	6	10105	2001
+201201041792094E	Aquaculture	NA	NA	het	QHK5a	RPT6a	5	6	16058	2001
+20120104177F2D38	Aquaculture	NA	NA	het	QHK5a	QHK8a	5	8	8314	2001
+201201041793BA65	Aquaculture	NA	NA	het	QHK5a	RPT6a	5	6	6810	2001
+20120104177F6A95	Aquaculture	NA	NA	hom	RPT6a	RPT6a	6	6	9983	2001
+201201041791BD96	Aquaculture	NA	NA	hom	RPT6a	RPT6a	6	6	3656	2001
+20120104177DCAF2	Aquaculture	NA	NA	hom	RPT6a	RPT6a	6	6	8201	2001
+20120104177F83A3	Aquaculture	NA	NA	het	RPT6a	RPT6b	6	6	13671	2001
+201201041791BD39	Aquaculture	NA	NA	hom	RPT6a	RPT6a	6	6	10334	2001
+20120104179AAA16	Aquaculture	NA	NA	hom	RPT6a	RPT6a	6	6	12280	2001
+20120104177F5E16	Aquaculture	NA	NA	het	QHK5a	RPT6a	5	6	7995	2001
+2012010417749913	Aquaculture	NA	NA	het	QHK5a	RPT6a	5	6	6260	2001
+2012010417922E0B	Aquaculture	NA	NA	het	RHT10d	RPT6a	10	6	4424	2001
+2012010417922281	Aquaculture	NA	NA	hom	RPT6a	RPT6a	6	6	3745	2001
+20120104177F25C0	Aquaculture	NA	NA	het	QHK5a	RPT6a	5	6	6416	2001
+20120104177EF8D3	Aquaculture	NA	NA	het	RPT6a	QDT9a	6	9	6607	2001
+20120104177D7C45	Aquaculture	NA	NA	het	RHT10d	RPT6a	10	6	6272	2001
+20120104177E3633	Aquaculture	NA	NA	het	QHK5a	RPT6a	5	6	12405	2001
+20120104177E7738	Aquaculture	NA	NA	het	RHT10d	RPT6a	10	6	3649	2001
+201201041791F973	Aquaculture	NA	NA	het	QHK5a	RPT6a	5	6	3928	2001
+20120104177DA407	Aquaculture	NA	NA	het	RHT10d	QDT6b	10	6	1837	1836
+201201041791B331	Aquaculture	NA	NA	hom	RPT6a	RPT6a	6	6	5157	2001
+2012010417924765	Aquaculture	NA	NA	hom	RPT6a	RPT6a	6	6	12677	2001
+20120104179209F4	Aquaculture	NA	NA	het	RHT10d	RPT6a	10	6	5344	2001
+20120104177F64BE	Aquaculture	NA	NA	het	RHT10b	RPT6a	10	6	7118	2001
+20120104177DB682	Aquaculture	NA	NA	het	RHT10d	QDT6b	10	6	3366	2001
+20140104189748BE	Aquaculture	NA	NA	het	RPT6b	QDT9a	6	9	4847	2001
+201401041895903E	Aquaculture	NA	NA	hom	RPT6a	RPT6a	6	6	13918	2001
+20140104189527E4	Aquaculture	NA	NA	het	QHK5b	QHK5a	5	5	3927	2001
+201401041897AAB9	Aquaculture	NA	NA	het	QHK5a	RPT6a	5	6	5595	2001
+201401041894A7DD	Aquaculture	NA	NA	het	QHK5a	RPT6a	5	6	4446	2001
+2014010418976F1F	Aquaculture	NA	NA	het	QHK5a	RPT6a	5	6	3315	2001
+201401041894E5FF	Aquaculture	NA	NA	hom	RPT6a	RPT6a	6	6	7928	2001
+201401041894C4F9	Aquaculture	NA	NA	hom	RPT6a	RPT6a	6	6	2087	2001
+2014010418947CAF	Aquaculture	NA	NA	het	RHT10a	RPT6a	10	6	8403	2001
+201401041894B94B	Aquaculture	NA	NA	het	RHT10a	RPT6a	10	6	25782	2001
+2014010418949713	Aquaculture	NA	NA	hom	RPT6a	RPT6a	6	6	8392	2001
+2014010418977AA4	Aquaculture	NA	NA	het	RHT10a	RPT6a	10	6	9563	2001
+20140104189471E2	Aquaculture	NA	NA	het	RPT6a	RPT6b	6	6	7968	2001
+201401041894B7A4	Aquaculture	NA	NA	hom	RPT6a	RPT6a	6	6	6245	2001
+2014010418956F47	Aquaculture	NA	NA	het	QHK5a	RPT6a	5	6	6194	2001
+20140104189579EE	Aquaculture	NA	NA	het	QHK5a	RPT6a	5	6	1414	1413
+201401041897B284	Aquaculture	NA	NA	hom	RPT6a	RPT6a	6	6	5493	2001
+201401041895166C	Aquaculture	NA	NA	het	RHT10a	RPT6a	10	6	12889	2001
+2014010418958B55	Aquaculture	NA	NA	hom	RPT6a	RPT6a	6	6	6602	2001
+2014010418AE1CED	Aquaculture	NA	NA	het	QHK5a	RPT6a	5	6	16572	2001
+2014010418972F4F	Aquaculture	NA	NA	het	RPT6a	RPT6b	6	6	7870	2001
+201401041897B841	Aquaculture	NA	NA	het	RHT10a	RPT6a	10	6	6904	2001
+201401041894FDA4	Aquaculture	NA	NA	het	RHT10a	RPT6a	10	6	12747	2001
+201401041894AC23	Aquaculture	NA	NA	het	RPT6a	RPT6b	6	6	5308	2001
+201401041894C572	Aquaculture	NA	NA	het	RPT6b	RPT6a	6	6	11544	2001
+201401041894EAA4	Aquaculture	NA	NA	het	QHK5a	RPT6a	5	6	39609	2001
+201401041897D494	Aquaculture	NA	NA	hom	QDT9a	QDT9a	9	9	7612	2001
+201401041894BEC5	Aquaculture	NA	NA	het	RHT10a	RPT6a	10	6	7422	2001
+2014010418952CF6	Aquaculture	NA	NA	het	QHK5a	RPT6a	5	6	3976	2001
+2014010418950E21	Aquaculture	NA	NA	hom	RPT6a	RPT6a	6	6	5717	2001
+20140104189771D5	Aquaculture	NA	NA	het	QHK5a	RPT6a	5	6	10819	2001
+2014010418950D56	Aquaculture	NA	NA	het	RPT6a	QDT9a	6	9	1905	1901
+2014010418953FEE	Aquaculture	NA	NA	het	QHK5a	RPT6a	5	6	12091	2001
+201401041897832C	Aquaculture	NA	NA	het	RPT6a	QHK8a	6	8	8521	2001
+201401041897B6B3	Aquaculture	NA	NA	het	RPT6a	QDT9a	6	9	7799	2001
+201401041895A703	Aquaculture	NA	NA	hom	RPT6a	RPT6a	6	6	16637	2001
+201401041894A305	Aquaculture	NA	NA	hom	RPT6a	RPT6a	6	6	4885	2001
+2014010418953401	Aquaculture	NA	NA	hom	RPT6a	RPT6a	6	6	4268	2001
+201401041895B0BA	Aquaculture	NA	NA	het	QHK5a	RPT6a	5	6	6237	2001
+20140104189526AC	Aquaculture	NA	NA	hom	RPT6a	RPT6a	6	6	18453	2001
+2014010418A82834	Aquaculture	NA	NA	het	QHK5a	RPT6a	5	6	4844	2001
+201401041895C519	Aquaculture	NA	NA	hom	RPT6a	RPT6a	6	6	15522	2001
+2014010418954C22	Aquaculture	NA	NA	het	QHK5a	RPT6a	5	6	2755	2001
+201401041895BA8E	Aquaculture	NA	NA	het	RHT10d	RPT6a	10	6	5985	2001
+201401041895C251	Aquaculture	NA	NA	het	RHT10a	RPT6a	10	6	10735	2001
+201401041894AFA5	Aquaculture	NA	NA	het	RHT10a	RPT6a	10	6	32197	2001
+20140104189495DC	Aquaculture	NA	NA	het	RPT5b	QHK5a	5	5	3604	2001
+201401041897D043	Aquaculture	NA	NA	het	QHK5a	RPT6a	5	6	5831	2001
+201401041894FBE4	Aquaculture	NA	NA	het	RPT6a	QDT9a	6	9	8256	2001
+20140104189503FD	Aquaculture	NA	NA	hom	RPT6a	RPT6a	6	6	1768	1767
+201401041894B4F1	Aquaculture	NA	NA	hom	RPT6a	RPT6a	6	6	7130	2001
+2014010418975BE5	Aquaculture	NA	NA	het	QHK5b	RPT6a	5	6	19905	2001
+2014010418948529	Aquaculture	NA	NA	het	RHT10a	QHK5a	10	5	6125	2001
+201401041897D12D	Aquaculture	NA	NA	hom	QDT9a	QDT9a	9	9	6964	2001
+201401041897C815	Aquaculture	NA	NA	het	QHK5a	RPT6a	5	6	4754	2001
+201401041894746D	Aquaculture	NA	NA	het	RHT10a	QHK5a	10	5	1884	1857
+201401041895B229	Aquaculture	NA	NA	het	RPT6b	RPT6a	6	6	4408	2001
+2014010418A7F197	Aquaculture	NA	NA	hom	RPT6a	RPT6a	6	6	1455	1455
+2014010418948C3E	Aquaculture	NA	NA	het	QHK5a	RPT6a	5	6	5404	2001
+2014010418956DF0	Aquaculture	NA	NA	het	RHT10a	RPT5b	10	5	15204	2001
+201401041897558D	Aquaculture	NA	NA	het	RHT10a	QHK5a	10	5	8653	2001
+201401041897CEA0	Aquaculture	NA	NA	het	RHT10a	RPT6a	10	6	5469	2001
+2014010418975887	Aquaculture	NA	NA	het	QHK5a	RPT6b	5	6	3311	2001
+201401041897AD8F	Aquaculture	NA	NA	het	QHK5a	RPT6a	5	6	1862	1826
+201401041894D202	Aquaculture	NA	NA	het	RPT6a	QDT9a	6	9	1971	1967
+201401041897A6F3	Aquaculture	NA	NA	het	QHK5a	RPT6a	5	6	5257	2001
+2014010418949DF2	Aquaculture	NA	NA	het	RHT10a	RPT6a	10	6	9114	2001
+2014010418949E28	Aquaculture	NA	NA	het	RHT10a	QHK5a	10	5	8779	2001
+201401041894F554	Aquaculture	NA	NA	het	RPT6a	QDT9a	6	9	4948	2001
+201401041897A537	Aquaculture	NA	NA	het	QHK5a	RPT6a	5	6	5509	2001
+201401041894F1EB	Aquaculture	NA	NA	het	RHT10a	RPT6a	10	6	1521	1494
+2014010418A83C51	Aquaculture	NA	NA	het	QHK5a	RPT6a	5	6	4466	2001
+2014010418952E2E	Aquaculture	NA	NA	hom	RPT6a	RPT6a	6	6	1103	1101
+2014010418AE343B	Aquaculture	NA	NA	het	RPT6a	RPT6b	6	6	3012	2001
+201401041894BDC9	Aquaculture	NA	NA	het	RPT6a	RPT6b	6	6	9728	2001
+201401041894FEFD	Aquaculture	NA	NA	het	QHK5a	RPT6a	5	6	7162	2001
+20140104189474F3	Aquaculture	NA	NA	het	RHT10a	QHK5a	10	5	3926	2001
+2014010418950066	Aquaculture	NA	NA	hom	RPT6a	RPT6a	6	6	7145	2001
+201401041894B126	Aquaculture	NA	NA	het	QHK5a	RPT6a	5	6	7368	2001
+2014010418977A07	Aquaculture	NA	NA	hom	RPT6a	RPT6a	6	6	12583	2001
+201401041894C0A3	Aquaculture	NA	NA	hom	RPT6a	RPT6a	6	6	3380	2001
+20140104189494B6	Aquaculture	NA	NA	het	QHK5a	RPT6a	5	6	12397	2001
+201401041894979F	Aquaculture	NA	NA	het	QHK5a	RPT6a	5	6	23974	2001
+201401041894C12A	Aquaculture	NA	NA	het	QHK5a	RPT6a	5	6	11345	2001
+2014010418AE2B7A	Aquaculture	NA	NA	het	QHK5a	RPT6a	5	6	14865	2001
+20140104189752D0	Aquaculture	NA	NA	hom	QHK5a	QHK5a	5	5	14897	2001
+2014010418972DE6	Aquaculture	NA	NA	het	RPT6a	QDT9a	6	9	3139	2001
+2014010418975EB0	Aquaculture	NA	NA	het	RHT10a	QDT9a	10	9	3387	2001
+201401041894D201	Aquaculture	NA	NA	het	RPT5b	RPT6a	5	6	1060	1060
+2014010418946FA1	Aquaculture	NA	NA	het	RHT10a	QHK5a	10	5	4362	2001
+20140104189561E7	Aquaculture	NA	NA	het	QHK5a	RPT6a	5	6	15054	2001
+2014010418957871	Aquaculture	NA	NA	het	QHK5a	RPT6a	5	6	9872	2001
+201401041894D8A4	Aquaculture	NA	NA	het	RHT10a	RPT5b	10	5	5553	2001
+2014010418977E74	Aquaculture	NA	NA	hom	QHK5a	QHK5a	5	5	6311	2001
+20140104189756CD	Aquaculture	NA	NA	het	QHK5a	RPT6a	5	6	3251	2001
+2014010418948D2C	Aquaculture	NA	NA	het	QHK5a	RPT5b	5	5	9478	2001
+2014010418948D42	Aquaculture	NA	NA	het	QHK5a	RPT5b	5	5	4294	2001
+201401041894E326	Aquaculture	NA	NA	het	QHK5a	RPT6a	5	6	13376	2001
+201401041897CBCF	Aquaculture	NA	NA	het	QHK5a	RPT6a	5	6	22520	2001
+2014010418AE1489	Aquaculture	NA	NA	het	QHK5a	RPT6a	5	6	6273	2001
+201401041894C7A8	Aquaculture	NA	NA	het	QHK5a	RPT6a	5	6	11895	2001
+20140104189521A5	Aquaculture	NA	NA	hom	RPT6a	RPT6a	6	6	9674	2001
+201401041897535E	Aquaculture	NA	NA	het	QHK5b	RPT6a	5	6	9207	2001
+201401041894BD85	Aquaculture	NA	NA	hom	RPT6a	RPT6a	6	6	2904	2001
+201401041897CD29	Aquaculture	NA	NA	het	RHT10a	QHK5a	10	5	3822	2001
+2014010418AE537F	Aquaculture	NA	NA	het	QHK5b	RPT6a	5	6	18622	2001
+201401041894F129	Aquaculture	NA	NA	het	RHT10a	RPT5b	10	5	14934	2001
+201401041894C435	Aquaculture	NA	NA	het	RHT10a	QHK5a	10	5	10731	2001
+201401041894FC3B	Aquaculture	NA	NA	het	RPT6a	RPT6b	6	6	6714	2001
+2014010418947E0B	Aquaculture	NA	NA	hom	RPT6a	RPT6a	6	6	6896	2001
+2014010418947D3C	Aquaculture	NA	NA	het	QHK5a	RPT5b	5	5	2615	2001
+2014010418AE3CA8	Aquaculture	NA	NA	het	QHK5a	RPT6a	5	6	7550	2001
+2014010418A7F2D2	Aquaculture	NA	NA	hom	RPT6a	RPT6a	6	6	12845	2001
+201401041894BB67	Aquaculture	NA	NA	het	QHK5a	RPT5b	5	5	8916	2001
+201401041895918B	Aquaculture	NA	NA	hom	RPT6a	RPT6a	6	6	20747	2001
+20140104189732E6	Aquaculture	NA	NA	het	RHT10a	RPT6a	10	6	8528	2001
+2014010418979B9B	Aquaculture	NA	NA	hom	RHT10a	RHT10a	10	10	5051	2001
+20140104189759C6	Aquaculture	NA	NA	het	QHK5b	QHK5a	5	5	8026	2001
+2014010418951775	Aquaculture	NA	NA	het	RHT10a	QDT9a	10	9	1233	1233
+2014010418947966	Aquaculture	NA	NA	het	RHT10a	QHK5a	10	5	4637	2001
+201401041897382F	Aquaculture	NA	NA	het	RHT10a	RPT6a	10	6	9115	2001
+20140104189731A7	Aquaculture	NA	NA	hom	RPT6a	RPT6a	6	6	5367	2001
+201401041897A8CE	Aquaculture	NA	NA	het	QHK5a	RPT6a	5	6	15492	2001
+20140104189749F6	Aquaculture	NA	NA	hom	RHT10a	RHT10a	10	10	4428	2001
+2014010418949697	Aquaculture	NA	NA	het	QHK5a	RPT5b	5	5	5971	2001
+2014010418AE3AD7	Aquaculture	NA	NA	het	RPT6a	RPT6b	6	6	1660	1659
+201401041897B59E	Aquaculture	NA	NA	het	RHT10a	RPT6a	10	6	4347	2001
+2014010418AE4E6A	Aquaculture	NA	NA	het	QHK5a	RPT6a	5	6	11099	2001
+20140104189491C3	Aquaculture	NA	NA	het	RHT10a	QHK5a	10	5	2618	2001
+2014010418954FAB	Aquaculture	NA	NA	het	RPT6b	RPT6a	6	6	8236	2001
+201401041897A132	Aquaculture	NA	NA	het	RPT5b	RPT6a	5	6	3925	2001
+2014010418949931	Aquaculture	NA	NA	hom	RPT6a	RPT6a	6	6	3277	2001
+2014010418AE2C67	Aquaculture	NA	NA	het	QHK5a	RPT6a	5	6	3947	2001
+2014010418AE2890	Aquaculture	NA	NA	hom	RPT6a	RPT6a	6	6	4524	2001
+201401041894BA71	Aquaculture	NA	NA	hom	RPT6a	RPT6a	6	6	6997	2001
+2014010418AE4CDB	Aquaculture	NA	NA	hom	QHK5a	QHK5a	5	5	5213	2001
+2014010418975E61	Aquaculture	NA	NA	het	QHK5a	RPT6a	5	6	4692	2001
+201401041894C2C3	Aquaculture	NA	NA	hom	RPT6a	RPT6a	6	6	4002	2001
+201401041894A3AC	Aquaculture	NA	NA	het	RHT10a	RPT6a	10	6	2455	2001
+201401041897A637	Aquaculture	NA	NA	het	RHT10a	RPT6a	10	6	5428	2001
+201401041894C99D	Aquaculture	NA	NA	het	RHT10a	RPT6a	10	6	1269	1268
+2014010418948027	Aquaculture	NA	NA	het	RPT6a	QDT9a	6	9	6105	2001
+201401041895B14F	Aquaculture	NA	NA	hom	RPT6a	RPT6a	6	6	13652	2001
+2014010418A83558	Aquaculture	NA	NA	het	RPT6a	RPT6b	6	6	8155	2001
+20140104189780F8	Aquaculture	NA	NA	het	QHK5a	RPT6a	5	6	14007	2001
+201401041897D596	Aquaculture	NA	NA	het	QHK5a	RPT6a	5	6	2761	2001
+2014010418974393	Aquaculture	NA	NA	het	RHT10a	RPT6a	10	6	4529	2001
+2014010418AE0DE5	Aquaculture	NA	NA	het	RPT6b	RPT6a	6	6	1325	1323
+201401041894D3EE	Aquaculture	NA	NA	hom	RPT6a	RPT6a	6	6	4809	2001
+201401041897A52F	Aquaculture	NA	NA	het	RPT6a	QDT9a	6	9	14521	2001
+2014010418977243	Aquaculture	NA	NA	hom	RPT6a	RPT6a	6	6	6997	2001
+201401041895C39C	Aquaculture	NA	NA	het	QHK5b	RPT6a	5	6	5098	2001
+20140104189581B0	Aquaculture	NA	NA	hom	QHK5a	QHK5a	5	5	5593	2001
+2014010418A80091	Aquaculture	NA	NA	het	RPT6a	RPT6b	6	6	3188	2001
+201401041897511D	Aquaculture	NA	NA	hom	RPT6a	RPT6a	6	6	11991	2001
+201401041897C751	Aquaculture	NA	NA	hom	RPT6a	RPT6a	6	6	1045	1045
+2014010418972EB5	Aquaculture	NA	NA	het	RHT10a	RPT6a	10	6	1461	1460
+201401041895B1DF	Aquaculture	NA	NA	het	RHT10d	QHK8a	10	8	8472	2001
+201401041894DAFB	Aquaculture	NA	NA	het	QHK5a	QHK5b	5	5	11051	2001
+20140104189767F7	Aquaculture	NA	NA	hom	RPT6a	RPT6a	6	6	6621	2001
+2014010418A83B4A	Aquaculture	NA	NA	het	QHK5a	RPT6a	5	6	4046	2001
+201401041894889F	Aquaculture	NA	NA	het	QHK5a	RPT6a	5	6	3038	2001
+201401041894A898	Aquaculture	NA	NA	hom	RPT6a	RPT6a	6	6	6178	2001
+2013010416ABE10D	Aquaculture	NA	NA	hom	RPT6a	RPT6a	6	6	2895	2001
+20130104189E22C0	Aquaculture	NA	NA	hom	RPT6a	RPT6a	6	6	3325	2001
+20130104189E1698	Aquaculture	NA	NA	hom	RPT6a	RPT6a	6	6	10931	2001
+20130104189E0A6F	Aquaculture	NA	NA	het	QHK5a	RPT6a	5	6	5611	2001
+20130104189E0600	Aquaculture	NA	NA	het	QHK5a	RPT6a	5	6	6712	2001
+20130104189E027B	Aquaculture	NA	NA	het	QHK5a	RPT6a	5	6	4083	2001
+20130104189E289B	Aquaculture	NA	NA	het	QHK5a	RPT6a	5	6	13470	2001
+20130104189E3967	Aquaculture	NA	NA	hom	RPT6a	RPT6a	6	6	21259	2001
+20130104189DFF0C	Aquaculture	NA	NA	het	QHK5a	RPT6a	5	6	3327	2001
+2012010416AFC21D	Aquaculture	NA	NA	hom	RPT6a	RPT6a	6	6	16114	2001
+2012010416AF0F57	Aquaculture	NA	NA	het	QHK5a	RPT6a	5	6	32742	2001
+2012010416AFD424	Aquaculture	NA	NA	hom	QHK5a	QHK5a	5	5	22021	2001
+2012010416AF29D6	Aquaculture	NA	NA	het	QHK5a	RPT6a	5	6	23584	2001
+2012010416AF14A8	Aquaculture	NA	NA	het	QHK5a	RPT6a	5	6	13120	2001
+2012010416570547	Aquaculture	NA	NA	het	QHK5a	QHK8a	5	8	13411	2001
+2012010416AF95D9	Aquaculture	NA	NA	hom	RPT6a	RPT6a	6	6	21774	2001
+20130104189BBDF9	Aquaculture	NA	NA	het	QHK5a	RPT6a	5	6	2955	2001
+20130104189E0F0D	Aquaculture	NA	NA	het	QHK5a	RPT6a	5	6	11772	2001
+20130104189E4F85	Aquaculture	NA	NA	het	QHK5a	RPT6a	5	6	27528	2001
+20130104189BB620	Aquaculture	NA	NA	het	RPT6a	QHK8a	6	8	13740	2001
+2014010419022B7F	Aquaculture	NA	NA	hom	RPT6a	RPT6a	6	6	9202	2001
+201401041894956C	Aquaculture	NA	NA	het	QHK5a	RPT6a	5	6	4702	2001
+201401041895BEB7	Aquaculture	NA	NA	het	QHK5a	RPT6a	5	6	11852	2001
+2014010418AE432C	Aquaculture	NA	NA	het	QHK5a	RPT6a	5	6	12293	2001
+2014010418AE3BDD	Aquaculture	NA	NA	het	QHK5a	RPT6a	5	6	2810	2001
+2014010418975135	Aquaculture	NA	NA	hom	RHT10a	RHT10a	10	10	5926	2001
+20140104189782C4	Aquaculture	NA	NA	het	QHK5b	RPT6a	5	6	63463	2001
+20140104189768E8	Aquaculture	NA	NA	hom	RPT6a	RPT6a	6	6	15809	2001
+201401041897BFB7	Aquaculture	NA	NA	hom	RPT6a	RPT6a	6	6	25276	2001
+201401041894FAEA	Aquaculture	NA	NA	het	RPT6a	QDT9a	6	9	8217	2001
+201401041895C7AC	Aquaculture	NA	NA	het	RPT6a	RPT6b	6	6	7948	2001
+2014010418AE4476	Aquaculture	NA	NA	het	QHK5b	RPT6a	5	6	10442	2001
+2014010418978FA3	Aquaculture	NA	NA	het	QHK8a	QDT9a	8	9	2993	2001
+2014010418975500	Aquaculture	NA	NA	het	RPT6a	RPT6b	6	6	14021	2001
+201401041894EEDF	Aquaculture	NA	NA	hom	QHK5a	QHK5a	5	5	26414	2001
+2014010418977007	Aquaculture	NA	NA	het	RPT6a	QDT9a	6	9	16777	2001
+2014010418979821	Aquaculture	NA	NA	het	QHK5a	RPT6a	5	6	8095	2001
+2014010418956558	Aquaculture	NA	NA	hom	RPT6a	RPT6a	6	6	10832	2001
+2014010418949F65	Aquaculture	NA	NA	hom	RPT6a	RPT6a	6	6	9266	2001
+2014010418977726	Aquaculture	NA	NA	het	RHT10a	RPT6a	10	6	8480	2001
+201401041894EAB9	Aquaculture	NA	NA	het	QHK5a	RPT6a	5	6	2624	2001
+201401041897474E	Aquaculture	NA	NA	het	QHK5a	RPT6a	5	6	9868	2001
+2014010418948CE6	Aquaculture	NA	NA	hom	RPT6a	RPT6a	6	6	25776	2001
+2014010418AE5CF3	Aquaculture	NA	NA	het	QHK5a	RPT6a	5	6	15755	2001
+2014010418AE4D8F	Aquaculture	NA	NA	het	QHK5a	RPT6a	5	6	3061	2001
+201401041897857E	Aquaculture	NA	NA	het	QHK5a	RPT6a	5	6	4427	2001
+2014010418A82FCC	Aquaculture	NA	NA	het	QHK5a	RPT6a	5	6	15110	2001
+2014010418976E11	Aquaculture	NA	NA	hom	RPT6a	RPT6a	6	6	2877	2001
+201401041895A173	Aquaculture	NA	NA	het	QHK5a	QHK5b	5	5	8436	2001
+2014010418A8222C	Aquaculture	NA	NA	het	QHK5a	RPT6a	5	6	20805	2001
+201401041895B172	Aquaculture	NA	NA	hom	RPT6a	RPT6a	6	6	10674	2001
+201401041897D876	Aquaculture	NA	NA	het	RPT6a	QHK8a	6	8	13666	2001
+201401041894A9EF	Aquaculture	NA	NA	hom	RHT10a	RHT10a	10	10	5541	2001
+201401041897C5D1	Aquaculture	NA	NA	het	RPT6a	QHK8a	6	8	3735	2001
+201401041897B064	Aquaculture	NA	NA	hom	RPT6a	RPT6a	6	6	13369	2001
+201401041895968C	Aquaculture	NA	NA	het	QHK5a	RPT6a	5	6	1774	1773
+2014010418949E02	Aquaculture	NA	NA	het	QHK5b	RPT6a	5	6	7511	2001
+2014010418947395	Aquaculture	NA	NA	het	QHK5b	RPT6a	5	6	3589	2001
+201401041897A6FC	Aquaculture	NA	NA	het	QHK5a	RPT6a	5	6	11070	2001
+2014010418951D37	Aquaculture	NA	NA	het	QHK5a	RPT6a	5	6	2959	2001
+201401041894840E	Aquaculture	NA	NA	het	RPT6a	QDT9a	6	9	1586	1567
+20140104189736F6	Aquaculture	NA	NA	hom	RPT6a	RPT6a	6	6	8200	2001
+2014010418947018	Aquaculture	NA	NA	het	RHT10a	RPT6a	10	6	1049	1043
+201401041894790E	Aquaculture	NA	NA	hom	RPT6a	RPT6a	6	6	5994	2001
+201401041897599E	Aquaculture	NA	NA	het	QHK5a	RPT6a	5	6	7549	2001
+2014010418947E41	Aquaculture	NA	NA	het	QHK5a	RPT6a	5	6	2437	2001
+20140104189788E8	Aquaculture	NA	NA	hom	RPT6a	RPT6a	6	6	4189	2001
+201401041895B923	Aquaculture	NA	NA	het	RPT5b	QDT9a	5	9	5030	2001
+2014010418976D8E	Aquaculture	NA	NA	het	QHK5a	RPT6b	5	6	7138	2001
+20140104189792B6	Aquaculture	NA	NA	het	QHK8a	QDT9a	8	9	8031	2001
+201401041897D62C	Aquaculture	NA	NA	het	QHK5a	QHK5b	5	5	2148	2001
+201401041897504C	Aquaculture	NA	NA	het	QHK5a	RPT6a	5	6	14837	2001
+201401041894BECB	Aquaculture	NA	NA	het	RPT6a	RPT6b	6	6	15282	2001
+201401041894F076	Aquaculture	NA	NA	het	QHK5a	QDT9a	5	9	9816	2001
+2014010418AE30E7	Aquaculture	NA	NA	het	QHK5a	RPT6a	5	6	8527	2001
+2014010418979DA6	Aquaculture	NA	NA	hom	RPT6a	RPT6a	6	6	8875	2001
+2014010418949A3C	Aquaculture	NA	NA	hom	RHT10a	RHT10a	10	10	5639	2001
+2014010418A83335	Aquaculture	NA	NA	het	QHK5a	RPT6a	5	6	3889	2001
+2014010418957ADB	Aquaculture	NA	NA	het	QHK5a	RPT6a	5	6	1412	1411
+2014010418950A3E	Aquaculture	NA	NA	hom	QHK5a	QHK5a	5	5	6229	2001
+2014010418AE542C	Aquaculture	NA	NA	het	QHK5a	RPT6a	5	6	12273	2001
+20140104189768D9	Aquaculture	NA	NA	het	QHK5a	RPT6a	5	6	12855	2001
+2014010418950B45	Aquaculture	NA	NA	het	QHK5b	QHK5a	5	5	22932	2001
+2014010418977468	Aquaculture	NA	NA	het	RHT10a	RPT6a	10	6	4488	2001
+2014010418AE36E2	Aquaculture	NA	NA	het	QHK5a	QHK5b	5	5	16878	2001
+2014010418959556	Aquaculture	NA	NA	hom	QHK5a	QHK5a	5	5	1318	1316
+201401041897C82F	Aquaculture	NA	NA	het	QHK5b	RPT6a	5	6	2866	2001
+201401041894B5E3	Aquaculture	NA	NA	het	RHT10a	QHK5a	10	5	7551	2001
+2014010418AE37BA	Aquaculture	NA	NA	het	QHK5a	RPT6a	5	6	7968	2001
+2014010418AE1F04	Aquaculture	NA	NA	het	QHK5a	RPT6a	5	6	4064	2001
+2014010418AE22E2	Aquaculture	NA	NA	het	QHK5b	RPT6a	5	6	2286	2001
+201401041897910E	Aquaculture	NA	NA	hom	RPT6a	RPT6a	6	6	14728	2001
+201401041895C5B6	Aquaculture	NA	NA	hom	QHK5a	QHK5a	5	5	2556	2001
+2014010418959FCE	Aquaculture	NA	NA	het	QHK5a	RPT6a	5	6	6119	2001
+201401041894B9C1	Aquaculture	NA	NA	hom	RPT6a	RPT6a	6	6	13089	2001
+2014010418AE5EAB	Aquaculture	NA	NA	het	QHK5a	QHK5b	5	5	6962	2001
+201401041895B434	Aquaculture	NA	NA	het	QHK5a	RPT6b	5	6	7261	2001
+201401041894E78F	Aquaculture	NA	NA	het	QHK5b	QHK5a	5	5	9071	2001
+201401041897B41B	Aquaculture	NA	NA	het	QHK5b	RPT6a	5	6	5873	2001
+2014010418AE1E04	Aquaculture	NA	NA	het	QHK5b	RPT5b	5	5	9198	2001
+2014010418AE4048	Aquaculture	NA	NA	het	QHK5a	RPT6a	5	6	3489	2001
+2014010418973BAC	Aquaculture	NA	NA	het	QHK5a	RPT6a	5	6	6346	2001
+2014010418947A3C	Aquaculture	NA	NA	het	QHK5a	QDT9a	5	9	12042	2001
+2014010418AE1A4D	Aquaculture	NA	NA	het	QHK5b	RPT5b	5	5	14229	2001
+2014010418A8321F	Aquaculture	NA	NA	hom	RPT6a	RPT6a	6	6	5926	2001
+2014010418976A0C	Aquaculture	NA	NA	het	RPT6a	QDT9a	6	9	2359	2001
+20140104189768A6	Aquaculture	NA	NA	het	RHT10a	QDT9a	10	9	3122	2001
+2014010418AE283C	Aquaculture	NA	NA	hom	QHK5a	QHK5a	5	5	11031	2001
+2014010418950432	Aquaculture	NA	NA	het	QHK5a	RPT6a	5	6	18328	2001
+201401041894B6C0	Aquaculture	NA	NA	het	QHK5a	RPT6a	5	6	1993	1989
+2014010418958161	Aquaculture	NA	NA	het	QHK5b	QHK5a	5	5	15610	2001
+201401041894E1BE	Aquaculture	NA	NA	hom	RPT6a	RPT6a	6	6	8998	2001
+201401041895B71A	Aquaculture	NA	NA	het	QHK5a	RPT6a	5	6	7691	2001
+201401041894F39A	Aquaculture	NA	NA	hom	RPT6a	RPT6a	6	6	9019	2001
+201401041894B8A1	Aquaculture	NA	NA	het	QHK5a	RPT6a	5	6	10975	2001
+2014010418AE352F	Aquaculture	NA	NA	het	QHK5a	RPT6a	5	6	22478	2001
+2014010418949BFC	Aquaculture	NA	NA	het	RHT10a	RPT6a	10	6	6907	2001
+2014010418950B2A	Aquaculture	NA	NA	het	QHK5a	QDT9a	5	9	20669	2001
+201401041894AD2C	Aquaculture	NA	NA	het	QHK5a	RPT6a	5	6	5094	2001
+201401041894755A	Aquaculture	NA	NA	het	QHK5a	RPT6a	5	6	8623	2001
+2014010418979AD5	Aquaculture	NA	NA	hom	RPT6a	RPT6a	6	6	13342	2001
+201401041897320F	Aquaculture	NA	NA	hom	RPT6a	RPT6a	6	6	9116	2001
+2014010418AE29E3	Aquaculture	NA	NA	het	QHK5a	RPT6a	5	6	13804	2001
+2014010418947393	Aquaculture	NA	NA	het	QHK5a	RPT6a	5	6	12087	2001
+201401041894A981	Aquaculture	NA	NA	het	QHK5b	RPT6a	5	6	11711	2001
+201401041894EC93	Aquaculture	NA	NA	het	QHK5a	QHK5b	5	5	15745	2001
+201401041894B31F	Aquaculture	NA	NA	het	RPT6b	RPT6a	6	6	22875	2001
+2014010418AE4403	Aquaculture	NA	NA	het	QHK5b	RPT6a	5	6	6980	2001
+2014010418A82C30	Aquaculture	NA	NA	hom	QHK5a	QHK5a	5	5	1832	1826
+201401041897AEE2	Aquaculture	NA	NA	hom	RPT6a	RPT6a	6	6	10033	2001
+201401041897A68A	Aquaculture	NA	NA	het	QHK5a	RPT6a	5	6	24505	2001
+2014010418947D06	Aquaculture	NA	NA	het	QHK5a	RPT6a	5	6	12115	2001
+201401041897600F	Aquaculture	NA	NA	het	RPT5b	RPT6a	5	6	9398	2001
+201401041894700B	Aquaculture	NA	NA	het	QHK5a	RPT6a	5	6	2694	2001
+2014010418952D15	Aquaculture	NA	NA	het	QHK5a	RPT6a	5	6	5994	2001
+2014010418974881	Aquaculture	NA	NA	het	RHT10a	RPT6a	10	6	9096	2001
+2014010418979430	Aquaculture	NA	NA	hom	RPT6a	RPT6a	6	6	1756	1752
+2014010418949872	Aquaculture	NA	NA	het	QHK5a	RPT6a	5	6	2539	2001
+201401041895936A	Aquaculture	NA	NA	hom	RPT6a	RPT6a	6	6	24024	2001
+201401041894ADD3	Aquaculture	NA	NA	het	QHK5a	RPT6b	5	6	6764	2001
+2014010418948CB2	Aquaculture	NA	NA	het	RHT10a	RPT6a	10	6	16341	2001
+20140104189473B7	Aquaculture	NA	NA	het	QHK5a	RPT6a	5	6	2989	2001
+201401041897B0A9	Aquaculture	NA	NA	het	QHK5a	RPT6a	5	6	2102	2001
+201401041894B1C3	Aquaculture	NA	NA	het	QHK5a	RPT6a	5	6	2156	2001
+201401041895727A	Aquaculture	NA	NA	hom	RPT6a	RPT6a	6	6	1355	1354
+2014010418972D13	Aquaculture	NA	NA	hom	RHT10a	RHT10a	10	10	4801	2001
+2014010418974ADD	Aquaculture	NA	NA	het	QHK5a	RPT6a	5	6	4959	2001
+2014010418AE50E4	Aquaculture	NA	NA	het	RPT5b	QHK5a	5	5	4094	2001
+201401041897608D	Aquaculture	NA	NA	hom	RPT6a	RPT6a	6	6	15469	2001
+2014010418AE4FD4	Aquaculture	NA	NA	het	QHK5b	RPT5b	5	5	4019	2001
+201401041894B7DA	Aquaculture	NA	NA	hom	RHT10a	RHT10a	10	10	6393	2001
+201401041894A745	Aquaculture	NA	NA	het	RHT10a	QHK5a	10	5	4688	2001
+2014010418951601	Aquaculture	NA	NA	hom	QHK5a	QHK5a	5	5	10815	2001
+2014010418AE52D5	Aquaculture	NA	NA	het	QHK5b	QHK5a	5	5	4041	2001
+201401041895024E	Aquaculture	NA	NA	het	RPT5b	RPT6a	5	6	2952	2001
+201401041895B49E	Aquaculture	NA	NA	het	QHK5b	QHK5a	5	5	7563	2001
+2014010418973493	Aquaculture	NA	NA	het	QHK5b	RPT6a	5	6	12715	2001
+20140104189597C0	Aquaculture	NA	NA	het	RPT6b	RPT6a	6	6	2071	2001
+201401041897B298	Aquaculture	NA	NA	hom	RPT6a	RPT6a	6	6	7998	2001
+2014010418947B0A	Aquaculture	NA	NA	het	QHK5b	RPT6a	5	6	14603	2001
+201401041897D26A	Aquaculture	NA	NA	het	RPT6a	QDT9a	6	9	3106	2001
+2014010418947962	Aquaculture	NA	NA	het	RHT10a	RPT6a	10	6	13777	2001
+2014010418947ED8	Aquaculture	NA	NA	het	RHT10a	RPT6a	10	6	6261	2001
+201401041894B5A4	Aquaculture	NA	NA	hom	RPT6a	RPT6a	6	6	6090	2001
+201401041894A480	Aquaculture	NA	NA	het	QHK5a	RPT6a	5	6	4367	2001
+2014010418974EFD	Aquaculture	NA	NA	het	QHK5a	QHK5b	5	5	1357	1351
+201401041894F2BA	Aquaculture	NA	NA	het	QHK5a	QHK5b	5	5	6277	2001
+2014010418950359	Aquaculture	NA	NA	hom	RPT6a	RPT6a	6	6	15473	2001
+2014010418A7E8B7	Aquaculture	NA	NA	hom	QHK5a	QHK5a	5	5	8481	2001
+2014010418AE374A	Aquaculture	NA	NA	het	QHK5a	RPT5b	5	5	11098	2001
+2014010418957044	Aquaculture	NA	NA	hom	RPT6a	RPT6a	6	6	3527	2001
+2014010418AE1D1A	Aquaculture	NA	NA	het	QHK5b	QHK5a	5	5	2604	2001
+2014010418976FF6	Aquaculture	NA	NA	het	RHT10a	RPT5b	10	5	2527	2001
+2014010418AE5E19	Aquaculture	NA	NA	het	RPT6b	RPT6a	6	6	3011	2001
+2014010418948BDA	Aquaculture	NA	NA	het	RHT10a	RPT6a	10	6	4531	2001
+2014010418948ED6	Aquaculture	NA	NA	het	RHT10a	QHK5a	10	5	9009	2001
+201401041895B7EC	Aquaculture	NA	NA	het	QHK5b	RPT6a	5	6	14634	2001
+2014010418A8085A	Aquaculture	NA	NA	het	QHK5a	RPT6a	5	6	1779	1761
+201401041897B27A	Aquaculture	NA	NA	het	QHK5a	RPT6a	5	6	5845	2001
+2014010418978FD1	Aquaculture	NA	NA	het	QHK5a	RPT6a	5	6	10465	2001
+201401041895BD7F	Aquaculture	NA	NA	het	QHK5a	QHK5b	5	5	12926	2001
+20140104189578DD	Aquaculture	NA	NA	het	QHK5a	QDT9a	5	9	3606	2001
+2014010418949B42	Aquaculture	NA	NA	het	QHK5a	RPT6a	5	6	6208	2001
+201401041897AAA1	Aquaculture	NA	NA	het	QHK5a	RPT6a	5	6	2851	2001
+2014010418979783	Aquaculture	NA	NA	het	QHK5a	RPT6a	5	6	3984	2001
+2012010416ABB76F	Aquaculture	NA	NA	het	RPT6a	QDT9a	6	9	4763	2001
+2017010419E13AC7	Aquaculture	NA	NA	het	QHK5a	RPT6a	5	6	1238	1238
+2017010419E05A2D	Aquaculture	NA	NA	hom	RPT6a	RPT6a	6	6	1433	1425
+2017010419E5961D	Aquaculture	NA	NA	het	RHT10a	QHK5a	10	5	3597	2001
+2017010419E5A9AE	Aquaculture	NA	NA	het	RHT10a	QHK5a	10	5	5696	2001
+2017010419E716E7	Aquaculture	NA	NA	het	QHK5a	RPT6a	5	6	3990	2001
+2017010419E15A74	Aquaculture	NA	NA	het	RPT6a	RPT6b	6	6	5404	2001
+2017010419E07F38	Aquaculture	NA	NA	hom	RPT6a	RPT6a	6	6	5474	2001
+2017010419E00743	Aquaculture	NA	NA	het	RHT10a	RPT6a	10	6	2983	2001
+2017010419E04F13	Aquaculture	NA	NA	het	RPT6a	QDT9a	6	9	16844	2001
+2017010419E0D932	Aquaculture	NA	NA	het	QHK5b	QHK5a	5	5	5472	2001
+2017010419E6EC59	Aquaculture	NA	NA	het	RHT10a	RPT6a	10	6	4948	2001
+2017010419E7EDA8	Aquaculture	NA	NA	hom	RPT6a	RPT6a	6	6	3686	2001
+2017010419E041F0	Aquaculture	NA	NA	het	QHK5a	RPT6a	5	6	3964	2001
+2017010419E1A29C	Aquaculture	NA	NA	hom	RPT6a	RPT6a	6	6	2364	2001
+2017010419E5A26D	Aquaculture	NA	NA	het	QHK5a	RPT6a	5	6	13495	2001
+2017010419E5963B	Aquaculture	NA	NA	hom	RPT6a	RPT6a	6	6	4006	2001
+2017010419E6C201	Aquaculture	NA	NA	het	RPT5b	RPT6a	5	6	8113	2001
+2017010419E032D4	Aquaculture	NA	NA	hom	RPT6a	RPT6a	6	6	15807	2001
+2017010419E15A22	Aquaculture	NA	NA	hom	RPT6a	RPT6a	6	6	6896	2001
+2017010419E0CED8	Aquaculture	NA	NA	hom	QHK5a	QHK5a	5	5	3267	2001
+201701041A468EFA	Aquaculture	NA	NA	hom	RPT6a	RPT6a	6	6	7980	2001
+2017010419E1A1B4	Aquaculture	NA	NA	het	QHK5a	RPT6a	5	6	1301	1283
+2017010419CF74D2	Aquaculture	NA	NA	het	QHK5a	RPT6a	5	6	2186	2001
+2017010419E195FD	Aquaculture	NA	NA	het	QHK5a	RPT6a	5	6	1695	1694
+2017010419E16DF3	Aquaculture	NA	NA	het	QHK5a	RPT6a	5	6	4977	2001
+2017010419E0CA72	Aquaculture	NA	NA	hom	RPT6a	RPT6a	6	6	5460	2001
+2017010419E00E34	Aquaculture	NA	NA	het	RPT6a	QDT9a	6	9	8867	2001
+2017010419E1880A	Aquaculture	NA	NA	hom	QHK5a	QHK5a	5	5	9236	2001
+2017010419E0EF29	Aquaculture	NA	NA	het	QHK5a	RPT6a	5	6	3299	2001
+2017010419E07CD6	Aquaculture	NA	NA	het	QHK5a	RPT6a	5	6	1384	1373
+2017010419E5E252	Aquaculture	NA	NA	het	QHK5a	RPT6a	5	6	5402	2001
+2017010419E829A6	Aquaculture	NA	NA	het	QHK5a	RPT6a	5	6	12358	2001
+2017010419E0A686	Aquaculture	NA	NA	het	QHK5a	RPT6a	5	6	13059	2001
+2017010419E0194F	Aquaculture	NA	NA	het	QHK5a	RPT6a	5	6	4608	2001
+2017010419E1848B	Aquaculture	NA	NA	hom	QHK5a	QHK5a	5	5	3620	2001
+2017010419E70DA3	Aquaculture	NA	NA	het	RHT10a	RPT6a	10	6	3065	2001
+2017010419E585A1	Aquaculture	NA	NA	het	RHT10a	RPT6a	10	6	13057	2001
+2017010419E5A9B2	Aquaculture	NA	NA	het	RHT10a	QHK5a	10	5	9068	2001
+2017010419E696EF	Aquaculture	NA	NA	hom	RPT6a	RPT6a	6	6	28441	2001
+2017010419E0B48B	Aquaculture	NA	NA	hom	QHK5b	QHK5b	5	5	95233	2001
+2017010419E18507	Aquaculture	NA	NA	het	QHK5a	RPT6a	5	6	21860	2001
+2017010419E6AD87	Aquaculture	NA	NA	het	QHK5b	QHK5a	5	5	18028	2001
+2017010419E68C41	Aquaculture	NA	NA	het	RHT10a	QHK5b	10	5	3093	2001
+2017010419E09F64	Aquaculture	NA	NA	het	QHK5a	RPT6a	5	6	20754	2001
+2017010419E57435	Aquaculture	NA	NA	het	QHK5a	RPT6a	5	6	2427	2001
+2017010419E0E620	Aquaculture	NA	NA	het	RHT10a	RPT6a	10	6	10293	2001
+2017010419E59BE2	Aquaculture	NA	NA	het	QHK5a	RPT6a	5	6	4624	2001
+2017010419E58F32	Aquaculture	NA	NA	hom	RPT6a	RPT6a	6	6	29167	2001
+2017010419E190B4	Aquaculture	NA	NA	het	RPT6a	QHK8a	6	8	7603	2001
+2017010419E6DD3E	Aquaculture	NA	NA	hom	QHK5a	QHK5a	5	5	12778	2001
+201701041A465B6B	Aquaculture	NA	NA	hom	RPT6a	RPT6a	6	6	14473	2001
+2017010419E196A2	Aquaculture	NA	NA	het	QHK5a	RPT6a	5	6	7315	2001
+2017010419E04835	Aquaculture	NA	NA	het	QHK5a	RPT6a	5	6	1016	1016
+2017010419E6DF85	Aquaculture	NA	NA	het	RHT10a	QHK5a	10	5	6814	2001
+2017010419E0A1DA	Aquaculture	NA	NA	het	QHK5a	QHK5b	5	5	19344	2001
+2017010419E142C7	Aquaculture	NA	NA	het	RPT5b	QHK5b	5	5	11891	2001
+2017010419E6FDE9	Aquaculture	NA	NA	het	RHT10a	RPT6a	10	6	7361	2001
+2017010419E172C6	Aquaculture	NA	NA	het	QHK5a	RPT6a	5	6	8118	2001
+2017010419E047AA	Aquaculture	NA	NA	het	QHK5a	RPT6a	5	6	1429	1383
+2017010419E0477F	Aquaculture	NA	NA	hom	RPT6a	RPT6a	6	6	8730	2001
+2017010419E05C5F	Aquaculture	NA	NA	het	RHT10a	RPT6a	10	6	7899	2001
+2017010419E165CB	Aquaculture	NA	NA	hom	RPT6a	RPT6a	6	6	12971	2001
+2017010419E16BD8	Aquaculture	NA	NA	het	QHK5a	RPT6a	5	6	9404	2001
+2017010419E04E35	Aquaculture	NA	NA	het	QHK5a	RPT6b	5	6	18641	2001
+2017010419E69E22	Aquaculture	NA	NA	hom	RPT6a	RPT6a	6	6	14871	2001
+2017010419E7103B	Aquaculture	NA	NA	het	QHK5b	RPT6a	5	6	1881	1857
+2017010419E7600F	Aquaculture	NA	NA	het	RHT10a	RPT6a	10	6	11683	2001
+2017010419E57EB1	Aquaculture	NA	NA	het	RHT10a	QDT9a	10	9	2571	2001
+2017010419E14761	Aquaculture	NA	NA	het	RHT10d	RPT6a	10	6	16752	2001
+2017010419E082B6	Aquaculture	NA	NA	het	QHK5a	RPT6a	5	6	4384	2001
+2017010419E069A2	Aquaculture	NA	NA	het	RHT10a	RPT6a	10	6	5957	2001
+2017010419E696A7	Aquaculture	NA	NA	het	RHT10a	RPT6a	10	6	1487	1486
+2017010419E0C92C	Aquaculture	NA	NA	het	QHK5a	RPT6a	5	6	2568	2001
+2017010419E14E00	Aquaculture	NA	NA	het	QHK5a	RPT6a	5	6	10338	2001
+2017010419E1968B	Aquaculture	NA	NA	hom	RPT6a	RPT6a	6	6	4171	2001
+2017010419E01AA3	Aquaculture	NA	NA	hom	RPT6a	RPT6a	6	6	5636	2001
+2017010419E70ED7	Aquaculture	NA	NA	het	QHK5a	RPT6a	5	6	1740	1740
+2017010419CF5BE9	Aquaculture	NA	NA	het	QHK5a	RPT6a	5	6	1876	1872
+2017010419E06553	Aquaculture	NA	NA	het	RHT10a	QHK5a	10	5	6212	2001
+2017010419E04A95	Aquaculture	NA	NA	het	QHK5a	RPT6a	5	6	6390	2001
+2017010419E6F42B	Aquaculture	NA	NA	het	QHK5a	RPT6a	5	6	3870	2001
+2017010419E5A86E	Aquaculture	NA	NA	het	QHK5a	RPT6a	5	6	2853	2001
+2017010419E83FBE	Aquaculture	NA	NA	hom	RPT6b	RPT6b	6	6	19608	2001
+2017010419E0CB3B	Aquaculture	NA	NA	het	QHK5a	RPT6b	5	6	9471	2001
+2017010419E0D8C8	Aquaculture	NA	NA	het	QHK5a	RPT6a	5	6	1203	1199
+2017010419E69755	Aquaculture	NA	NA	hom	RPT6a	RPT6a	6	6	8521	2001
+2017010419E07477	Aquaculture	NA	NA	hom	RPT6a	RPT6a	6	6	16661	2001
+2017010419E16957	Aquaculture	NA	NA	het	QHK5a	RPT6a	5	6	17037	2001
+2017010419E169B0	Aquaculture	NA	NA	hom	RPT6a	RPT6a	6	6	10447	2001
+2017010419E0C6FD	Aquaculture	NA	NA	hom	RPT6a	RPT6a	6	6	3782	2001
+2017010419E0CA99	Aquaculture	NA	NA	hom	QHK5a	QHK5a	5	5	8377	2001
+2017010419E16CC4	Aquaculture	NA	NA	hom	RPT6a	RPT6a	6	6	6592	2001
+2017010419E19D9B	Aquaculture	NA	NA	het	RPT6a	RPT6b	6	6	8569	2001
+2017010419E021CA	Aquaculture	NA	NA	het	QHK5a	RPT6a	5	6	6694	2001
+2017010419E6C7C5	Aquaculture	NA	NA	hom	RPT6a	RPT6a	6	6	3642	2001
+2017010419E68730	Aquaculture	NA	NA	het	QHK5a	RPT6a	5	6	4839	2001
+2017010419E047BC	Aquaculture	NA	NA	hom	RPT6a	RPT6a	6	6	14005	2001
+2017010419E5A7B7	Aquaculture	NA	NA	het	QHK5a	RPT6a	5	6	1564	1562
+2017010419E13E87	Aquaculture	NA	NA	het	QHK5a	RPT6a	5	6	3836	2001
+2017010419E54DA0	Aquaculture	NA	NA	het	QHK5a	RPT6a	5	6	11082	2001
+2017010419E19FAF	Aquaculture	NA	NA	het	QHK5a	RPT6a	5	6	11245	2001
+2017010419E52B5D	Aquaculture	NA	NA	het	QHK5b	RPT6a	5	6	18957	2001
+2017010419E0C9DD	Aquaculture	NA	NA	het	QHK5b	RPT6a	5	6	3934	2001
+2017010419E1A014	Aquaculture	NA	NA	het	QHK5a	RPT6a	5	6	6041	2001
+2017010419E697AA	Aquaculture	NA	NA	het	RHT10a	RPT6a	10	6	4280	2001
+2017010419E02F68	Aquaculture	NA	NA	hom	RPT6a	RPT6a	6	6	10551	2001
+2017010419E6EB54	Aquaculture	NA	NA	het	QHK5b	RPT6a	5	6	12384	2001
+2017010419E57250	Aquaculture	NA	NA	het	QHK5a	RPT6a	5	6	13628	2001
+2017010419E17E05	Aquaculture	NA	NA	het	RHT10a	QHK5a	10	5	4996	2001
+2017010419E5A7AB	Aquaculture	NA	NA	het	RHT10a	QHK5a	10	5	3755	2001
+2017010419E67865	Aquaculture	NA	NA	het	QHK5a	RPT5b	5	5	8704	2001
+2017010419E6B427	Aquaculture	NA	NA	het	QHK5a	QHK5b	5	5	1088	1086
+2017010419E06B27	Aquaculture	NA	NA	het	RPT6a	QDT9a	6	9	5005	2001
+2017010419E00899	Aquaculture	NA	NA	het	QHK5b	RPT5b	5	5	12241	2001
+2017010419E157B6	Aquaculture	NA	NA	hom	RPT6a	RPT6a	6	6	8381	2001
+2017010419DFFA10	Aquaculture	NA	NA	het	RHT10a	QHK5a	10	5	12637	2001
+2017010419E15E3E	Aquaculture	NA	NA	hom	QHK5a	QHK5a	5	5	7525	2001
+2017010419E6EF9A	Aquaculture	NA	NA	het	QHK5a	RPT6a	5	6	4059	2001
+2017010419E18DAD	Aquaculture	NA	NA	het	QHK5a	RPT6a	5	6	8244	2001
+2017010419E0A584	Aquaculture	NA	NA	hom	QHK5a	QHK5a	5	5	10970	2001
+2017010419E016F8	Aquaculture	NA	NA	hom	RPT6a	RPT6a	6	6	4045	2001
+2017010419E5AC6E	Aquaculture	NA	NA	hom	QHK5a	QHK5a	5	5	8265	2001
+2017010419E55625	Aquaculture	NA	NA	het	QHK5b	RPT6a	5	6	6203	2001
+2017010419E6B388	Aquaculture	NA	NA	hom	RPT6a	RPT6a	6	6	3832	2001
+2017010419E672A3	Aquaculture	NA	NA	hom	QHK5a	QHK5a	5	5	10428	2001
+2017010419E160E5	Aquaculture	NA	NA	hom	QHK5b	QHK5b	5	5	12997	2001
+2017010419E61310	Aquaculture	NA	NA	het	RHT10a	RPT6a	10	6	11000	2001
+2017010419E0F1E6	Aquaculture	NA	NA	hom	RPT6a	RPT6a	6	6	3145	2001
+2017010419E1874C	Aquaculture	NA	NA	hom	RPT6a	RPT6a	6	6	7334	2001
+2017010419E52750	Aquaculture	NA	NA	het	QHK5a	RPT6a	5	6	2860	2001
+2017010419E6E872	Aquaculture	NA	NA	het	RHT10a	QHK5a	10	5	1135	1132
+2017010419E5A0CA	Aquaculture	NA	NA	het	RHT10a	QHK5a	10	5	2562	2001
+2017010419E19B04	Aquaculture	NA	NA	het	QHK5a	QHK5b	5	5	9533	2001
+2017010419E0CAFE	Aquaculture	NA	NA	het	QHK5b	RPT6a	5	6	1945	1939
+2017010419E0BCD1	Aquaculture	NA	NA	het	RPT6a	RPT6b	6	6	13489	2001
+2017010419E51D5B	Aquaculture	NA	NA	hom	RPT6a	RPT6a	6	6	5039	2001
+2017010419E18E0C	Aquaculture	NA	NA	het	QHK5a	RPT6a	5	6	6446	2001
+2017010419E54F26	Aquaculture	NA	NA	het	RPT6a	QDT9a	6	9	2486	2001
+2017010419E0A065	Aquaculture	NA	NA	hom	QHK5a	QHK5a	5	5	6323	2001
+2017010419E56F11	Aquaculture	NA	NA	het	QHK5a	RPT6a	5	6	20059	2001
+2017010419E74B33	Aquaculture	NA	NA	het	QHK5a	RPT6a	5	6	6422	2001
+2017010419E6C0F1	Aquaculture	NA	NA	hom	RHT10a	RHT10a	10	10	11239	2001
+2017010419E0C298	Aquaculture	NA	NA	hom	RPT6a	RPT6a	6	6	6131	2001
+2017010419E0AF44	Aquaculture	NA	NA	het	RHT10a	QHK5a	10	5	3710	2001
+2017010419E695A3	Aquaculture	NA	NA	het	QHK5a	RPT6a	5	6	7380	2001
+2017010419E591D6	Aquaculture	NA	NA	het	RHT10a	QHK5a	10	5	1434	1433
+2017010419E5AC3E	Aquaculture	NA	NA	het	QHK5a	RPT6a	5	6	3982	2001
+2017010419E1586B	Aquaculture	NA	NA	het	QHK5a	RPT6a	5	6	3809	2001
+2017010419E5AA80	Aquaculture	NA	NA	hom	QHK5a	QHK5a	5	5	10520	2001
+2017010419E09D0D	Aquaculture	NA	NA	hom	RPT6a	RPT6a	6	6	6121	2001
+2017010419E17E1B	Aquaculture	NA	NA	het	QHK5a	RPT6a	5	6	2054	2001
+2017010419E09AF4	Aquaculture	NA	NA	hom	RPT6a	RPT6a	6	6	3123	2001
+2017010419E71476	Aquaculture	NA	NA	hom	QHK5a	QHK5a	5	5	1011	1003
+2017010419DFF2DC	Aquaculture	NA	NA	hom	QHK5a	QHK5a	5	5	5543	2001
+2017010419E5A684	Aquaculture	NA	NA	het	QHK5a	RPT6a	5	6	4967	2001
+2017010419E69E24	Aquaculture	NA	NA	het	QHK5b	RPT5b	5	5	4054	2001
+2017010419E5A02C	Aquaculture	NA	NA	het	QHK5a	RPT6a	5	6	2095	2001
+2017010419E52D91	Aquaculture	NA	NA	het	RHT10a	RPT6a	10	6	1208	1203
+2017010419E01DCB	Aquaculture	NA	NA	het	QHK5a	QHK5b	5	5	6928	2001
+2017010419E5AE30	Aquaculture	NA	NA	hom	RPT6a	RPT6a	6	6	10355	2001
+2017010419E172A8	Aquaculture	NA	NA	hom	RPT6a	RPT6a	6	6	1504	1504
+2017010419E5BE6A	Aquaculture	NA	NA	het	RHT10a	RPT6a	10	6	4086	2001
+2017010419E0D0EC	Aquaculture	NA	NA	hom	RPT6a	RPT6a	6	6	11899	2001
+2017010419E52B58	Aquaculture	NA	NA	hom	RHT10a	RHT10a	10	10	4087	2001
+2017010419E60DA1	Aquaculture	NA	NA	hom	RPT6a	RPT6a	6	6	8665	2001
+2017010419E1996A	Aquaculture	NA	NA	hom	RPT6a	RPT6a	6	6	4728	2001
+2017010419E01B3B	Aquaculture	NA	NA	het	QHK5a	RPT6a	5	6	2589	2001
+2017010419E0310E	Aquaculture	NA	NA	het	RPT6a	QDT9a	6	9	1368	1366
+2017010419E58FCD	Aquaculture	NA	NA	hom	RPT6a	RPT6a	6	6	2943	2001
+2017010419E83C2A	Aquaculture	NA	NA	het	QHK5a	RPT6a	5	6	15712	2001
+2017010419E588A8	Aquaculture	NA	NA	hom	RHT10a	RHT10a	10	10	2659	2001
+2017010419E18472	Aquaculture	NA	NA	het	QHK5a	RPT6a	5	6	4672	2001
+2017010419E160B5	Aquaculture	NA	NA	hom	RPT5b	RPT5b	5	5	2748	2001
+2017010419E51B03	Aquaculture	NA	NA	hom	RPT6a	RPT6a	6	6	6850	2001
+2017010419E0891C	Aquaculture	NA	NA	het	QHK5a	RPT6a	5	6	1241	1232
+2017010419E05545	Aquaculture	NA	NA	het	RHT10a	RPT6a	10	6	1052	1051
+2017010419E11B34	Aquaculture	NA	NA	het	QHK5a	QHK5b	5	5	9605	2001
+2017010419E0E25D	Aquaculture	NA	NA	het	QHK5a	RPT6a	5	6	7957	2001
+2017010419E703B0	Aquaculture	NA	NA	hom	RPT6a	RPT6a	6	6	13255	2001
+2017010419E0C60B	Aquaculture	NA	NA	het	QHK5a	RPT6a	5	6	6412	2001
+2017010419E1357A	Aquaculture	NA	NA	het	QHK5a	RPT6a	5	6	7641	2001
+2017010419E00F6C	Aquaculture	NA	NA	het	QHK5a	RPT6a	5	6	1059	1057
+2017010419E58DC2	Aquaculture	NA	NA	het	RHT10a	RPT6a	10	6	4091	2001
+2017010419E0B9F1	Aquaculture	NA	NA	het	QHK5a	RPT6a	5	6	14248	2001
+2017010419E52BFF	Aquaculture	NA	NA	het	RHT10a	RPT5b	10	5	5866	2001
+2017010419E5268B	Aquaculture	NA	NA	het	RHT10a	QDT9a	10	9	3792	2001
+2017010419E19A7A	Aquaculture	NA	NA	het	QHK5a	RPT6a	5	6	5301	2001
+2017010419E584E1	Aquaculture	NA	NA	het	QHK5a	RPT6a	5	6	2601	2001
+2017010419E6A4E2	Aquaculture	NA	NA	hom	RPT6a	RPT6a	6	6	5657	2001
+2017010419CF6AFC	Aquaculture	NA	NA	het	QHK5a	QHK5b	5	5	4161	2001
+2017010419E5788F	Aquaculture	NA	NA	hom	QHK5a	QHK5a	5	5	9073	2001
+2017010419E6CF76	Aquaculture	NA	NA	het	RHT10a	QHK5a	10	5	4618	2001
+2017010419E57744	Aquaculture	NA	NA	het	RHT10a	RPT5b	10	5	4858	2001
+2017010419E5A3C8	Aquaculture	NA	NA	het	RHT10a	RPT6a	10	6	3976	2001
+2017010419E0CA8C	Aquaculture	NA	NA	hom	QHK5a	QHK5a	5	5	4754	2001
+2017010419E82B35	Aquaculture	NA	NA	hom	RPT6a	RPT6a	6	6	8963	2001
+2017010419E57388	Aquaculture	NA	NA	het	QHK5a	RPT6a	5	6	1178	1178
+2017010419E5550B	Aquaculture	NA	NA	het	QHK5a	RPT6a	5	6	3732	2001
+2017010419E5A0D3	Aquaculture	NA	NA	het	QHK5a	RPT6a	5	6	14969	2001
+2017010419E58C12	Aquaculture	NA	NA	het	RHT10a	QHK5a	10	5	4734	2001
+2017010419E55458	Aquaculture	NA	NA	het	RHT10a	QHK5a	10	5	5243	2001
+2017010419E07DE4	Aquaculture	NA	NA	hom	RPT6a	RPT6a	6	6	2864	2001
+2017010419E51525	Aquaculture	NA	NA	het	QHK5a	RPT6a	5	6	2669	2001
+2017010419E5AEDA	Aquaculture	NA	NA	hom	RPT6a	RPT6a	6	6	6392	2001
+2017010419E0B12A	Aquaculture	NA	NA	hom	RPT6a	RPT6a	6	6	1462	1460
+2017010419E1980C	Aquaculture	NA	NA	hom	RPT6a	RPT6a	6	6	5511	2001
+2017010419E53346	Aquaculture	NA	NA	het	RHT10a	RPT6a	10	6	8014	2001
+2017010419E15D3F	Aquaculture	NA	NA	het	QHK5a	RPT6a	5	6	5868	2001
+2017010419E18285	Aquaculture	NA	NA	hom	RPT6a	RPT6a	6	6	11124	2001
+2017010419E1658F	Aquaculture	NA	NA	het	RHT10d	RPT6a	10	6	2762	2001
+2017010419E55C8A	Aquaculture	NA	NA	het	QHK5a	RPT6a	5	6	2988	2001
+2017010419E15234	Aquaculture	NA	NA	het	QHK5a	RPT6a	5	6	3244	2001
+2017010419E5677D	Aquaculture	NA	NA	het	RHT10a	RPT6a	10	6	6889	2001
+2017010419E7288E	Aquaculture	NA	NA	hom	RPT6b	RPT6b	6	6	23032	2001
+2017010419E06619	Aquaculture	NA	NA	het	QHK5a	RPT6a	5	6	18718	2001
+2017010419E829AB	Aquaculture	NA	NA	het	RHT10a	QDT9a	10	9	5384	2001
+2017010419E048FE	Aquaculture	NA	NA	het	QHK5a	RPT6a	5	6	17270	2001
+2017010419E0AF4B	Aquaculture	NA	NA	hom	RPT6a	RPT6a	6	6	16388	2001
+2017010419E57257	Aquaculture	NA	NA	het	RHT10a	RPT6a	10	6	2676	2001
+2017010419E03457	Aquaculture	NA	NA	hom	QHK5a	QHK5a	5	5	11150	2001
+2017010419E06E14	Aquaculture	NA	NA	het	RPT6a	QDT9a	6	9	16945	2001
+2017010419E66D21	Aquaculture	NA	NA	het	RHT10a	RPT5b	10	5	5957	2001
+2017010419E6A1A9	Aquaculture	NA	NA	het	RHT10a	RPT5b	10	5	7050	2001
+201701041A466224	Aquaculture	NA	NA	het	QHK5a	RPT6a	5	6	5127	2001
+2017010419E5B61B	Aquaculture	NA	NA	hom	QHK5a	QHK5a	5	5	7313	2001
+2017010419DFF4A0	Aquaculture	NA	NA	het	RPT6b	RPT6a	6	6	15964	2001
+2017010419E0BD89	Aquaculture	NA	NA	het	RHT10a	RPT6a	10	6	8013	2001
+2017010419E54F0C	Aquaculture	NA	NA	het	QHK5b	RPT6a	5	6	17596	2001
+2017010419E03317	Aquaculture	NA	NA	het	QHK5a	QHK5b	5	5	4424	2001
+2017010419E5B40B	Aquaculture	NA	NA	het	RHT10a	RPT6a	10	6	12415	2001
+2017010419E17045	Aquaculture	NA	NA	het	QHK5a	QHK5b	5	5	5920	2001
+2017010419E51EBF	Aquaculture	NA	NA	het	RHT10a	RPT6a	10	6	3971	2001
+2017010419E15DF8	Aquaculture	NA	NA	hom	RPT6a	RPT6a	6	6	8047	2001
+2017010419E5AC67	Aquaculture	NA	NA	het	RHT10a	RPT6a	10	6	1121	1120
+2017010419E18B2F	Aquaculture	NA	NA	hom	RPT6a	RPT6a	6	6	3108	2001
+2017010419E58FE1	Aquaculture	NA	NA	het	RHT10a	RPT6a	10	6	12251	2001
+2017010419E5A04D	Aquaculture	NA	NA	het	RHT10a	RPT6a	10	6	1202	1200
+2017010419E09C74	Aquaculture	NA	NA	het	RHT10a	QHK5b	10	5	1344	1343
+2017010419E5A70C	Aquaculture	NA	NA	het	QHK5a	RPT6a	5	6	7500	2001
+2017010419E0EC90	Aquaculture	NA	NA	hom	RPT6a	RPT6a	6	6	8329	2001
+2017010419E17EC5	Aquaculture	NA	NA	hom	RPT6a	RPT6a	6	6	6474	2001
+2017010419E541BC	Aquaculture	NA	NA	het	RPT5b	RPT6a	5	6	11824	2001
+2017010419E0BEF6	Aquaculture	NA	NA	het	QHK5a	RPT6a	5	6	4340	2001
+2017010419E5424C	Aquaculture	NA	NA	hom	RHT10a	RHT10a	10	10	11961	2001
+2017010419E06F02	Aquaculture	NA	NA	hom	RPT6a	RPT6a	6	6	4049	2001
+2017010419E6B68D	Aquaculture	NA	NA	het	QHK5a	RPT6a	5	6	9564	2001
+2017010419E1734A	Aquaculture	NA	NA	het	QHK5a	RPT6a	5	6	5106	2001
+2017010419E18A86	Aquaculture	NA	NA	het	QHK5a	RPT6a	5	6	7103	2001
+2017010419E04030	Aquaculture	NA	NA	het	QHK5a	RPT6a	5	6	2270	2001
+2017010419E19980	Aquaculture	NA	NA	het	QHK5a	RPT6a	5	6	11365	2001
+2017010419CF5CA2	Aquaculture	NA	NA	het	QHK5a	RPT6a	5	6	11766	2001
+2017010419E1341A	Aquaculture	NA	NA	het	QHK5b	RPT6a	5	6	2119	2001
+2017010419E716F6	Aquaculture	NA	NA	hom	QHK5a	QHK5a	5	5	9855	2001
+2017010419E16A9D	Aquaculture	NA	NA	het	RPT5b	RPT6a	5	6	18524	2001
+2017010419E1600F	Aquaculture	NA	NA	hom	QHK5a	QHK5a	5	5	8972	2001
+2017010419E70F24	Aquaculture	NA	NA	hom	RPT6a	RPT6a	6	6	22674	2001
+2017010419E587E3	Aquaculture	NA	NA	het	RHT10a	QDT9a	10	9	7053	2001
+2017010419E57148	Aquaculture	NA	NA	het	RHT10a	QDT9a	10	9	6492	2001
+2017010419E17D2C	Aquaculture	NA	NA	het	QHK5a	QHK5b	5	5	12588	2001
+2017010419E6B49E	Aquaculture	NA	NA	hom	RPT6a	RPT6a	6	6	3027	2001
+201701041A468C5C	Aquaculture	NA	NA	hom	QHK5a	QHK5a	5	5	9825	2001
+2017010419E17EA4	Aquaculture	NA	NA	het	QHK5b	QHK5a	5	5	15716	2001
+2017010419E69D1B	Aquaculture	NA	NA	het	QHK5a	RPT6a	5	6	10301	2001
+2017010419E6EBB9	Aquaculture	NA	NA	het	RHT10a	QHK5a	10	5	8300	2001
+2017010419E67FBC	Aquaculture	NA	NA	het	QHK5b	RPT6a	5	6	5682	2001
+2017010419E0D2E4	Aquaculture	NA	NA	het	QHK5b	RPT6a	5	6	6414	2001
+2017010419E0B4E4	Aquaculture	NA	NA	het	RPT5b	RPT6a	5	6	11580	2001
+2017010419E180E0	Aquaculture	NA	NA	het	RHT10a	QHK5a	10	5	1641	1640
+2017010419E59785	Aquaculture	NA	NA	het	QHK5a	RPT6a	5	6	7625	2001
+2017010419E55AD9	Aquaculture	NA	NA	het	QHK5b	RPT6a	5	6	19010	2001
+2017010419E048A8	Aquaculture	NA	NA	het	QHK5a	RPT6a	5	6	14372	2001
+2017010419E0E39A	Aquaculture	NA	NA	het	QHK5a	RPT6a	5	6	8416	2001
+2017010419E016FB	Aquaculture	NA	NA	hom	QHK5a	QHK5a	5	5	9200	2001
+2017010419E51A73	Aquaculture	NA	NA	hom	RHT10a	RHT10a	10	10	9771	2001
+2017010419E59B43	Aquaculture	NA	NA	het	QHK5a	RPT5b	5	5	9275	2001
+2017010419DFF504	Aquaculture	NA	NA	het	RPT6a	QDT9a	6	9	4488	2001
+2017010419E684B5	Aquaculture	NA	NA	hom	RPT6a	RPT6a	6	6	12467	2001
+2017010419E539E7	Aquaculture	NA	NA	het	QHK5a	RPT6a	5	6	7792	2001
+2017010419E6D728	Aquaculture	NA	NA	het	RPT5b	RPT6a	5	6	12435	2001
+2017010419E1647F	Aquaculture	NA	NA	hom	RPT6a	RPT6a	6	6	8555	2001
+2017010419E152B6	Aquaculture	NA	NA	het	QHK5a	RPT6b	5	6	8534	2001
+2017010419E568E7	Aquaculture	NA	NA	het	RHT10a	RPT5b	10	5	1550	1549
+2017010419E53644	Aquaculture	NA	NA	hom	RPT6a	RPT6a	6	6	8130	2001
+2017010419E0261A	Aquaculture	NA	NA	hom	RPT6a	RPT6a	6	6	14296	2001
+2017010419E5A2F2	Aquaculture	NA	NA	het	QHK5a	RPT6a	5	6	7912	2001
+2017010419E5769E	Aquaculture	NA	NA	het	QHK5a	RPT6a	5	6	16212	2001
+2017010419E5991C	Aquaculture	NA	NA	het	QHK5a	RPT6a	5	6	10611	2001
+2017010419E5AE3B	Aquaculture	NA	NA	hom	RPT6a	RPT6a	6	6	3820	2001
+2017010419E5872F	Aquaculture	NA	NA	het	RHT10a	RPT6a	10	6	5573	2001
+2017010419E70D17	Aquaculture	NA	NA	hom	QHK5a	QHK5a	5	5	2403	2001
+2017010419E0ACC6	Aquaculture	NA	NA	het	QHK5a	RPT6a	5	6	6248	2001
+2017010419E0DAA6	Aquaculture	NA	NA	hom	QHK5a	QHK5a	5	5	14433	2001
+2017010419E54600	Aquaculture	NA	NA	het	QHK5a	RPT6a	5	6	13418	2001
+2017010419E58176	Aquaculture	NA	NA	hom	RPT6a	RPT6a	6	6	19683	2001
+2017010419E05E5C	Aquaculture	NA	NA	hom	RPT6a	RPT6a	6	6	8429	2001
+2017010419E6E3B6	Aquaculture	NA	NA	het	RHT10a	RPT6a	10	6	4843	2001
+2017010419E16326	Aquaculture	NA	NA	het	QHK5a	RPT6a	5	6	1362	1360
+2017010419E165C2	Aquaculture	NA	NA	hom	RPT6a	RPT6a	6	6	6964	2001
+2017010419E15DCC	Aquaculture	NA	NA	het	RHT10a	RPT6a	10	6	8298	2001
+2017010419E51A6E	Aquaculture	NA	NA	hom	RPT6a	RPT6a	6	6	12048	2001
+2017010419E592C2	Aquaculture	NA	NA	het	QHK5a	RPT5b	5	5	16930	2001
+2017010419E6CA68	Aquaculture	NA	NA	hom	RPT6a	RPT6a	6	6	6950	2001
+2017010419E17032	Aquaculture	NA	NA	het	QHK5a	QHK5b	5	5	3193	2001
+2017010419E17140	Aquaculture	NA	NA	het	QHK5a	RPT6a	5	6	2311	2001
+2017010419E0CC93	Aquaculture	NA	NA	hom	QHK5a	QHK5a	5	5	1145	1143
+2017010419E150CC	Aquaculture	NA	NA	hom	RPT6a	RPT6a	6	6	6652	2001
+2017010419E02CBC	Aquaculture	NA	NA	hom	RPT6a	RPT6a	6	6	9493	2001
+2017010419E0A421	Aquaculture	NA	NA	het	QHK5a	RPT6a	5	6	1718	1716
+2017010419E5817A	Aquaculture	NA	NA	hom	RPT6a	RPT6a	6	6	1885	1881
+2017010419E66E9E	Aquaculture	NA	NA	het	QHK5a	RPT6a	5	6	3060	2001
+2017010419E12A2C	Aquaculture	NA	NA	het	RHT10a	RPT6a	10	6	5681	2001
+2017010419E068FB	Aquaculture	NA	NA	het	QHK5a	RPT6a	5	6	13912	2001
+201701041A099C1B	Aquaculture	NA	NA	hom	RPT6a	RPT6a	6	6	7882	2001
+2017010419E0CA3B	Aquaculture	NA	NA	het	QHK5a	RPT6a	5	6	18831	2001
+2017010419E1A250	Aquaculture	NA	NA	hom	RPT6a	RPT6a	6	6	6690	2001
+2017010419E52CD5	Aquaculture	NA	NA	het	RHT10a	RPT6a	10	6	1737	1736
+2017010419E03EBE	Aquaculture	NA	NA	het	QHK5a	RPT6a	5	6	6385	2001
+2017010419E57768	Aquaculture	NA	NA	het	RPT5b	RPT6a	5	6	12273	2001
+2017010419E0C330	Aquaculture	NA	NA	het	QHK5b	RPT6a	5	6	6554	2001
+2017010419E0A8B4	Aquaculture	NA	NA	het	QHK5a	RPT6a	5	6	13016	2001
+2017010419E56F19	Aquaculture	NA	NA	het	QHK5a	RPT6a	5	6	2561	2001
+2017010419E534AD	Aquaculture	NA	NA	het	QHK5a	RPT6a	5	6	3860	2001
+2017010419E6AAE3	Aquaculture	NA	NA	het	QHK5b	RPT6a	5	6	2646	2001
+2017010419E08E14	Aquaculture	NA	NA	het	QHK5a	RPT6a	5	6	1539	1536
+2017010419E6B07F	Aquaculture	NA	NA	het	RHT10a	QHK5b	10	5	6205	2001
+2017010419E146F4	Aquaculture	NA	NA	het	RPT5b	QHK5a	5	5	5600	2001
+2017010419E08CE7	Aquaculture	NA	NA	hom	QHK5a	QHK5a	5	5	2050	2001
+2017010419E57F5C	Aquaculture	NA	NA	het	QHK5a	RPT6a	5	6	6433	2001
+2017010419E51BA2	Aquaculture	NA	NA	het	RHT10a	RPT6a	10	6	5271	2001
+2017010419D29CAB	Aquaculture	NA	NA	het	RPT6a	QDT9a	6	9	1350	1350
+2017010419E5C809	Aquaculture	NA	NA	hom	RPT6a	RPT6a	6	6	5372	2001
+2017010419E56DFB	Aquaculture	NA	NA	hom	RPT6a	RPT6a	6	6	12889	2001
+2017010419E6AECF	Aquaculture	NA	NA	het	RHT10a	QHK5a	10	5	7574	2001
+2017010419E05A67	Aquaculture	NA	NA	het	QHK5a	RPT6a	5	6	12505	2001
+2017010419E197A3	Aquaculture	NA	NA	hom	RPT6a	RPT6a	6	6	6600	2001
+2017010419E185E3	Aquaculture	NA	NA	het	QHK5a	RPT6a	5	6	3024	2001
+2017010419E17323	Aquaculture	NA	NA	hom	QHK5b	QHK5b	5	5	5490	2001
+2017010419E18684	Aquaculture	NA	NA	het	QHK5b	RPT6a	5	6	1112	1111
+2017010419E1974D	Aquaculture	NA	NA	het	QHK5a	RPT6a	5	6	3715	2001
+2017010419E54497	Aquaculture	NA	NA	hom	RPT6a	RPT6a	6	6	9338	2001
+2017010419E6A483	Aquaculture	NA	NA	hom	RPT6a	RPT6a	6	6	12342	2001
+2017010419E1635E	Aquaculture	NA	NA	het	RPT6a	RPT6b	6	6	12633	2001
+2017010419E5B801	Aquaculture	NA	NA	hom	RPT6a	RPT6a	6	6	6314	2001
+2017010419E58DAB	Aquaculture	NA	NA	het	QHK5a	RPT6a	5	6	2667	2001
+2017010419E05C64	Aquaculture	NA	NA	hom	RPT6a	RPT6a	6	6	4900	2001
+2017010419E58386	Aquaculture	NA	NA	het	RHT10a	RPT6a	10	6	1386	1386
+2017010419E592C0	Aquaculture	NA	NA	hom	RPT6a	RPT6a	6	6	20901	2001
+2017010419E677B9	Aquaculture	NA	NA	het	RHT10a	RPT5b	10	5	5757	2001
+2017010419E5AD00	Aquaculture	NA	NA	hom	RPT6a	RPT6a	6	6	4657	2001
+2017010419E1633C	Aquaculture	NA	NA	het	QHK5a	RPT6a	5	6	4136	2001
+2017010419E69F91	Aquaculture	NA	NA	het	QHK5a	RPT6a	5	6	2063	2001
+2017010419E17A86	Aquaculture	NA	NA	het	QHK5a	RPT6a	5	6	2925	2001
+982126055980566	Aquaculture	NA	NA	het	QHK5a	RPT6a	5	6	2282	2001
+982126056865372	Aquaculture	NA	NA	hom	RPT6a	RPT6a	6	6	6387	2001
+982126056860317	Aquaculture	NA	NA	hom	RPT6a	RPT6a	6	6	1289	1276
+982126056859823	Aquaculture	NA	NA	het	QHK5a	RPT6a	5	6	2334	2001
+982126056866277	Aquaculture	NA	NA	het	RPT6a	RPT6b	6	6	5900	2001
+982126056863694	Aquaculture	NA	NA	hom	QHK5a	QHK5a	5	5	12917	2001
+982126056861337	Aquaculture	NA	NA	het	RHT10a	QHK8a	10	8	5435	2001
+982126056858968	Aquaculture	NA	NA	het	RPT6a	QDT9a	6	9	6406	2001
+982126056861361	Aquaculture	NA	NA	hom	RPT6a	RPT6a	6	6	18712	2001
+982126056859509	Aquaculture	NA	NA	het	RPT6a	QHK8a	6	8	3356	2001
+982126056861348	Aquaculture	NA	NA	het	QHK5a	RPT6a	5	6	11325	2001
+982126056865339	Aquaculture	NA	NA	hom	QHK8a	QHK8a	8	8	2994	2001
+982126055981021	Aquaculture	NA	NA	hom	RPT6a	RPT6a	6	6	5759	2001
+982126056858884	Aquaculture	NA	NA	het	QHK5a	RPT6a	5	6	10654	2001
+982126055981040	Aquaculture	NA	NA	hom	RPT6a	RPT6a	6	6	4714	2001
+982126055980985	Aquaculture	NA	NA	het	QHK5b	RPT6a	5	6	8683	2001
+AF_Immature_male_J16	Aquaculture	NA	NA	het	QHK5a	RPT6a	5	6	29295	2001
+AF_Immature_male_J18	Aquaculture	NA	NA	het	QHK5a	RPT6a	5	6	3618	2001
+AF_Mature_male_A19	Aquaculture	NA	NA	het	QHK5a	RPT6a	5	6	41604	2001
+AF_Mature_male_A20	Aquaculture	NA	NA	het	RHT10d	RPT6a	10	6	4930	2001
+AF_Mature_male_A20	Aquaculture	NA	NA	het	RHT10d	RPT6a	10	6	23782	2001
+AF_Mature_male_A22	Aquaculture	NA	NA	het	QHK5a	QDT9a	5	9	1488	1487
